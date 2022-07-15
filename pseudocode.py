@@ -1,4 +1,11 @@
-# engile pseudocode
+# english pseudocode
+
+def storepdf(pdf_url, parent, link_text):
+   - get_url_id(pdf_url): add to url_list if not exist
+   - add link from parent to pdf_url
+   - linkword: using link_text
+   - 
+
 
 # crawl the page
 def crawl(pages, depth):

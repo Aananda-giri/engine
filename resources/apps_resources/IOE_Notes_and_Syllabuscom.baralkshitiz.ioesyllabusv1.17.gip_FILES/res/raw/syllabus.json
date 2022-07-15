@@ -1,0 +1,1620 @@
+{
+  "syllabus": [
+    {
+      "name": "Adjustment of Observations",
+      "url": "file:///android_asset/geomatics/fifth/adjustment_of_observations.html"
+    },
+    {
+      "name": "Advanced Computer Architecture",
+      "url": "file:///android_asset/computer/elective2/advanced_computer_arch.html"
+    },
+    {
+      "name": "Advanced Electronics",
+      "url": "file:///android_asset/electronics/fourth/advanced_electronics.html"
+    },
+    {
+      "name": "Advanced Geotechnical Engineering",
+      "url": "file:///android_asset/civil/elective2/advanced_geotech.html"
+    },
+    {
+      "name": "Advanced Java Programming",
+      "url": "file:///android_asset/computer/elective1/advanced_java.html"
+    },
+    {
+      "name": "Advanced Mechanical Design",
+      "url": "file:///android_asset/mechanical/elective3/advanced_mechanical.html"
+    },
+    {
+      "name": "Advanced Power System Analysis",
+      "url": "file:///android_asset/electrical/elective2/advanced_power_system.html"
+    },
+    {
+      "name": "Aerodynamics",
+      "url": "file:///android_asset/aerospace/fourth/aerodynamics.html"
+    },
+    {
+      "name": "Aeronautical Telecommunication",
+      "url": "file:///android_asset/computer/elective1/aeronautical_telecom.html"
+    },
+    {
+      "name": "Aerospace Materials",
+      "url": "file:///android_asset/aerospace/fourth/aerospace_materials.html"
+    },
+    {
+      "name": "Agile Software Development",
+      "url": "file:///android_asset/computer/elective2/agile_software.html"
+    },
+    {
+      "name": "Agricultural Engineering Project (Part I)",
+      "url": "file:///android_asset/agricultural/seventh/agricultural_project.html"
+    },
+    {
+      "name": "Agricultural Engineering Project (Part II)",
+      "url": "file:///android_asset/agricultural/eighth/agricultural_project.html"
+    },
+    {
+      "name": "Agricultural Extension Education and Rural Development",
+      "url": "file:///android_asset/agricultural/eighth/agricultural_extension.html"
+    },
+    {
+      "name": "Air Traffic Management",
+      "url": "file:///android_asset/aerospace/seventh/air_traffic_mgmt.html"
+    },
+    {
+      "name": "Aircraft Dynamics",
+      "url": "file:///android_asset/mechanical/elective2/aircraft_dynamics.html"
+    },
+    {
+      "name": "Aircraft Environment Control System",
+      "url": "file:///android_asset/aerospace/sixth/aircraft_environment.html"
+    },
+    {
+      "name": "Aircraft Maintenance Engineering",
+      "url": "file:///android_asset/aerospace/sixth/aircraft_maintenance.html"
+    },
+    {
+      "name": "Aircraft Manufacturing Process",
+      "url": "file:///android_asset/aerospace/fifth/aircraft_mfg_process.html"
+    },
+    {
+      "name": "Aircraft Preliminary Design",
+      "url": "file:///android_asset/aerospace/seventh/aircraft_preliminary_design.html"
+    },
+    {
+      "name": "Aircraft Propulsion",
+      "url": "file:///android_asset/aerospace/fifth/aircraft_propulsion.html"
+    },
+    {
+      "name": "Aircraft Structures",
+      "url": "file:///android_asset/aerospace/seventh/aircraft_structures.html"
+    },
+    {
+      "name": "Alternative Fuels and Vehicles",
+      "url": "file:///android_asset/automobile/elective3/alternative_fuels.html"
+    },
+    {
+      "name": "An Introduction to Construction Equipment",
+      "url": "file:///android_asset/mechanical/elective3/construction_equipment.html"
+    },
+    {
+      "name": "Application of GIS with Python",
+      "url": "file:///android_asset/geomatics/elective1/python.html"
+    },
+    {
+      "name": "Applied Mathematics",
+      "url": "file:///android_asset/computer/fourth/applied_math.html"
+    },
+    {
+      "name": "Applied Mechanics (Dynamics)",
+      "url": "file:///android_asset/civil/third/applied_mechanics_dynamics.html"
+    },
+    {
+      "name": "Applied Mechanics",
+      "url": "file:///android_asset/civil/second/applied_mechanics_statics.html"
+    },
+    {
+      "name": "Applied Photovoltaic Engineering",
+      "url": "file:///android_asset/electrical/elective2/applied_photovoltaic.html"
+    },
+    {
+      "name": "Applied Physics",
+      "url": "file:///android_asset/geomatics/third/applied_physics.html"
+    },
+    {
+      "name": "Applied Thermodynamics and Heat Transfer (BAS)",
+      "url": "file:///android_asset/aerospace/third/applied_thermo.html"
+    },
+    {
+      "name": "Applied Thermodynamics and Heat Transfer (BAM)",
+      "url": "file:///android_asset/automobile/third/applied_thermo.html"
+    },
+    {
+      "name": "Applied Thermodynamics (BME)",
+      "url": "file:///android_asset/mechanical/third/applied_thermo.html"
+    },
+    {
+      "name": "Artificial Intelligence (Elective)",
+      "url": "file:///android_asset/computer/elective3/artificial_intelligence.html"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "url": "file:///android_asset/computer/sixth/artificial_intelligence.html"
+    },
+    {
+      "name": "Artificial Neural Network",
+      "url": "file:///android_asset/electrical/elective3/artificial_neural.html"
+    },
+    {
+      "name": "Automobile Air Conditioning System",
+      "url": "file:///android_asset/automobile/elective1/automobile_ac.html"
+    },
+    {
+      "name": "Automobile Chassis",
+      "url": "file:///android_asset/automobile/fifth/automobile_chassis.html"
+    },
+    {
+      "name": "Automobile Component Design I",
+      "url": "file:///android_asset/automobile/fifth/automobile_component_design_1.html"
+    },
+    {
+      "name": "Automobile Component Design II",
+      "url": "file:///android_asset/automobile/sixth/automobile_component_design_2.html"
+    },
+    {
+      "name": "Automobile Electrical and Electronics",
+      "url": "file:///android_asset/automobile/seventh/automobile_electrical_electronics.html"
+    },
+    {
+      "name": "Automobile Engineering Enterprises",
+      "url": "file:///android_asset/mechanical/elective2/automobile_engg.html"
+    },
+    {
+      "name": "Automobile Engines",
+      "url": "file:///android_asset/automobile/fourth/automobile_engines.html"
+    },
+    {
+      "name": "Automobile Maintenance and Repair",
+      "url": "file:///android_asset/automobile/eighth/automobile_maintenance.html"
+    },
+    {
+      "name": "Automobile Technology (BIE)",
+      "url": "file:///android_asset/industrial/elective3/automobile_tech.html"
+    },
+    {
+      "name": "Automobile Technology (BME)",
+      "url": "file:///android_asset/mechanical/elective1/automobile_tech.html"
+    },
+    {
+      "name": "Aviation Professional Practice",
+      "url": "file:///android_asset/aerospace/eighth/app.html"
+    },
+    {
+      "name": "Avionics (BAS)",
+      "url": "file:///android_asset/aerospace/sixth/avionics.html"
+    },
+    {
+      "name": "Avionics (BME)",
+      "url": "file:///android_asset/mechanical/elective3/avionics.html"
+    },
+    {
+      "name": "Basic Accounting and Finance Course",
+      "url": "file:///android_asset/industrial/elective2/basic_accounting.html"
+    },
+    {
+      "name": "Basic Aircraft and Air Frame",
+      "url": "file:///android_asset/mechanical/elective1/basic_aircraft.html"
+    },
+    {
+      "name": "Basic Electrical Engineering",
+      "url": "file:///android_asset/civil/second/basic_electrical.html"
+    },
+    {
+      "name": "Basic Electronics Engineering",
+      "url": "file:///android_asset/civil/second/basic_electronics.html"
+    },
+    {
+      "name": "Basics of Micro Hydropower Plant (BME)",
+      "url": "file:///android_asset/mechanical/elective1/basics_of_micro_hydro.html"
+    },
+    {
+      "name": "Big Data Technologies",
+      "url": "file:///android_asset/computer/elective2/big_data_tech.html"
+    },
+    {
+      "name": "Bio-Energy Technologies (BAG)",
+      "url": "file:///android_asset/agricultural/elective1/bio_energy_tech.html"
+    },
+    {
+      "name": "Bio-Engineering (BCE)",
+      "url": "file:///android_asset/civil/elective1/bio_engineering.html"
+    },
+    {
+      "name": "Biomedical Instrumentation",
+      "url": "file:///android_asset/computer/elective1/biomedical_instrumentation.html"
+    },
+    {
+      "name": "Broadcast Engineering",
+      "url": "file:///android_asset/computer/elective2/broadcast_engineering.html"
+    },
+    {
+      "name": "Building Drawing",
+      "url": "file:///android_asset/civil/fourth/building_drawing.html"
+    },
+    {
+      "name": "Building Technology",
+      "url": "file:///android_asset/civil/sixth/building_tech.html"
+    },
+    {
+      "name": "Cadastre",
+      "url": "file:///android_asset/geomatics/fifth/cadastre.html"
+    },
+    {
+      "name": "Cartography and Geoinformation Visualization",
+      "url": "file:///android_asset/geomatics/sixth/cartography_and_geoinformation.html"
+    },
+    {
+      "name": "Civil Engineering Construction Survey",
+      "url": "file:///android_asset/geomatics/elective3/construction_survey.html"
+    },
+    {
+      "name": "Civil Engineering Materials",
+      "url": "file:///android_asset/civil/third/cem.html"
+    },
+    {
+      "name": "Climate Change and Adaptation Measures (BAG)",
+      "url": "file:///android_asset/agricultural/eighth/climate_change.html"
+    },
+    {
+      "name": "Climate Change (BCE)",
+      "url": "file:///android_asset/civil/elective2/climate_change.html"
+    },
+    {
+      "name": "Communication English",
+      "url": "file:///android_asset/civil/sixth/english.html"
+    },
+    {
+      "name": "Communication Systems",
+      "url": "file:///android_asset/electronics/sixth/communication_systems.html"
+    },
+    {
+      "name": "Community Development and Participatory Rural Approach",
+      "url": "file:///android_asset/civil/elective1/community_development.html"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "url": "file:///android_asset/aerospace/seventh/computational_fluid_dynamics.html"
+    },
+    {
+      "name": "Computational Techniques in Civil Engineering",
+      "url": "file:///android_asset/civil/eighth/ct.html"
+    },
+    {
+      "name": "Computer Aided Design and Manufacturing (BAS)",
+      "url": "file:///android_asset/aerospace/third/cad_and_mfg.html"
+    },
+    {
+      "name": "Computer Aided Drawing",
+      "url": "file:///android_asset/mechanical/third/cad.html"
+    },
+    {
+      "name": "Computer Graphics",
+      "url": "file:///android_asset/computer/fifth/computer_graphics.html"
+    },
+    {
+      "name": "Computer Network",
+      "url": "file:///android_asset/computer/seventh/computer_network.html"
+    },
+    {
+      "name": "Computer Organization and Architecture",
+      "url": "file:///android_asset/computer/fifth/computer_organization.html"
+    },
+    {
+      "name": "Computer Programming",
+      "url": "file:///android_asset/civil/first/program.html"
+    },
+    {
+      "name": "Computing Techniques for Geomatics Engineers",
+      "url": "file:///android_asset/geomatics/fourth/computing_techniques.html"
+    },
+    {
+      "name": "Concrete Technology and Masonry Structure",
+      "url": "file:///android_asset/civil/fifth/concrete.html"
+    },
+    {
+      "name": "Concurrent Engineering and Value Engineering",
+      "url": "file:///android_asset/industrial/sixth/concurrent_and_value_engineering.html"
+    },
+    {
+      "name": "Construction Equipment",
+      "url": "file:///android_asset/automobile/seventh/construction_equipment.html"
+    },
+    {
+      "name": "Construction Management",
+      "url": "file:///android_asset/civil/eighth/cm.html"
+    },
+    {
+      "name": "Construction Safety Management",
+      "url": "file:///android_asset/civil/elective3/construction_safety.html"
+    },
+    {
+      "name": "Construction of Micro Hydropower Station (BME)",
+      "url": "file:///android_asset/mechanical/elective3/micro_hydropower.html"
+    },
+    {
+      "name": "Continuum Mechanics",
+      "url": "file:///android_asset/aerospace/fifth/continuum_mechanics.html"
+    },
+    {
+      "name": "Control System",
+      "url": "file:///android_asset/electrical/fifth/control_system.html"
+    },
+    {
+      "name": "Dairy and Food Engineering",
+      "url": "file:///android_asset/agricultural/seventh/dairy.html"
+    },
+    {
+      "name": "Data Communication",
+      "url": "file:///android_asset/computer/fifth/data_communication.html"
+    },
+    {
+      "name": "Data Mining",
+      "url": "file:///android_asset/computer/elective1/data_mining.html"
+    },
+    {
+      "name": "Data Structure and Algorithms",
+      "url": "file:///android_asset/computer/fourth/data_structure.html"
+    },
+    {
+      "name": "Database Management Systems (Elective)",
+      "url": "file:///android_asset/computer/elective2/dbms.html"
+    },
+    {
+      "name": "Database Management Systems",
+      "url": "file:///android_asset/computer/sixth/database.html"
+    },
+    {
+      "name": "Design and Implementation of Geospatial Information Systems",
+      "url": "file:///android_asset/geomatics/seventh/design_of_geospatial_is.html"
+    },
+    {
+      "name": "Design of Bridges",
+      "url": "file:///android_asset/civil/elective2/rcc_bridges.html"
+    },
+    {
+      "name": "Design of Hydropower Station",
+      "url": "file:///android_asset/mechanical/elective2/design_of_hydropower.html"
+    },
+    {
+      "name": "Design of Machine Elements",
+      "url": "file:///android_asset/industrial/sixth/design_of_machine_elements.html"
+    },
+    {
+      "name": "Design of Pressurized and Micro Irrigation System",
+      "url": "file:///android_asset/agricultural/elective2/micro_irrigation.html"
+    },
+    {
+      "name": "Design of RCC Structure",
+      "url": "file:///android_asset/civil/seventh/rcc.html"
+    },
+    {
+      "name": "Design of Soil and Water Conservation Structures",
+      "url": "file:///android_asset/agricultural/elective2/soil_water_conservation.html"
+    },
+    {
+      "name": "Design of Steel and Timber Structure",
+      "url": "file:///android_asset/civil/sixth/steel.html"
+    },
+    {
+      "name": "Design of Structures (BAG)",
+      "url": "file:///android_asset/agricultural/sixth/design_of_structures.html"
+    },
+    {
+      "name": "Digital Control System",
+      "url": "file:///android_asset/electrical/sixth/digital_control_system.html"
+    },
+    {
+      "name": "Digital Imaging and Application",
+      "url": "file:///android_asset/geomatics/elective2/digital_imaging.html"
+    },
+    {
+      "name": "Digital Logic",
+      "url": "file:///android_asset/computer/third/digital_logic.html"
+    },
+    {
+      "name": "Digital Signal Analysis and Processing",
+      "url": "file:///android_asset/computer/seventh/digital_signal.html"
+    },
+    {
+      "name": "Digital Terrain Model",
+      "url": "file:///android_asset/geomatics/eighth/digital_terrain_model.html"
+    },
+    {
+      "name": "Disaster Risk Management",
+      "url": "file:///android_asset/civil/elective3/disaster_risk.html"
+    },
+    {
+      "name": "Discrete Structure",
+      "url": "file:///android_asset/computer/fourth/discrete_structure.html"
+    },
+    {
+      "name": "Distributed Systems",
+      "url": "file:///android_asset/computer/seventh/distributed_systems.html"
+    },
+    {
+      "name": "Domestic Water and Waste Water Engineering and Management",
+      "url": "file:///android_asset/civil/elective2/domestic_water.html"
+    },
+    {
+      "name": "Earth Hazard",
+      "url": "file:///android_asset/civil/elective1/earth_hazard.html"
+    },
+    {
+      "name": "Earthquake Resistant Design of Structures",
+      "url": "file:///android_asset/civil/elective2/earthquake_resistant.html"
+    },
+    {
+      "name": "Economics of Automobile",
+      "url": "file:///android_asset/mechanical/elective2/economics_of_auto.html"
+    },
+    {
+      "name": "Economics (BIE)",
+      "url": "file:///android_asset/industrial/third/economics.html"
+    },
+    {
+      "name": "Electric Circuit Theory",
+      "url": "file:///android_asset/computer/third/electric_circuit_theory.html"
+    },
+    {
+      "name": "Electric Circuits and Machines",
+      "url": "file:///android_asset/electronics/second/electric_circuits_machines.html"
+    },
+    {
+      "name": "Electric System and Machines",
+      "url": "file:///android_asset/agricultural/third/electric_system_machines.html"
+    },
+    {
+      "name": "Electrical Energy System Management",
+      "url": "file:///android_asset/electrical/elective1/electrical_energy_system_mgmt.html"
+    },
+    {
+      "name": "Electrical Engineering Material",
+      "url": "file:///android_asset/electrical/third/eem.html"
+    },
+    {
+      "name": "Electrical Machine Design",
+      "url": "file:///android_asset/electrical/fifth/electrical_machine_design.html"
+    },
+    {
+      "name": "Electrical Machines I",
+      "url": "file:///android_asset/electrical/fourth/electric_machines1.html"
+    },
+    {
+      "name": "Electrical Machines II",
+      "url": "file:///android_asset/electrical/fifth/electrical_machines2.html"
+    },
+    {
+      "name": "Electrical Machines",
+      "url": "file:///android_asset/computer/fourth/electrical_machines.html"
+    },
+    {
+      "name": "Electromagnetics",
+      "url": "file:///android_asset/computer/third/electromagnetics.html"
+    },
+    {
+      "name": "Electronic Devices and Circuits",
+      "url": "file:///android_asset/computer/third/electronic_devices_and_circuits.html"
+    },
+    {
+      "name": "Elements of Soil Science",
+      "url": "file:///android_asset/agricultural/third/soil_science.html"
+    },
+    {
+      "name": "Embedded Systems Design Using ARM Technology",
+      "url": "file:///android_asset/computer/elective1/embedded_systems.html"
+    },
+    {
+      "name": "Embedded Systems in Avionics",
+      "url": "file:///android_asset/aerospace/seventh/embedded_system.html"
+    },
+    {
+      "name": "Embedded Systems",
+      "url": "file:///android_asset/computer/sixth/embedded_system.html"
+    },
+    {
+      "name": "Energy Audit and Efficiency",
+      "url": "file:///android_asset/industrial/elective1/energy_audit_and_efficiency.html"
+    },
+    {
+      "name": "Energy Resources",
+      "url": "file:///android_asset/mechanical/sixth/energy_resources.html"
+    },
+    {
+      "name": "Energy, Environment and Society",
+      "url": "file:///android_asset/computer/seventh/energy_environment.html"
+    },
+    {
+      "name": "Energy, Power and Technology",
+      "url": "file:///android_asset/industrial/fifth/energy_power_and_tech.html"
+    },
+    {
+      "name": "Engine Combustion and Pollution Control",
+      "url": "file:///android_asset/automobile/sixth/engine_combustion.html"
+    },
+    {
+      "name": "Engineering Chemistry",
+      "url": "file:///android_asset/civil/first/chemistry.html"
+    },
+    {
+      "name": "Engineering Drawing I",
+      "url": "file:///android_asset/civil/first/drawing1.html"
+    },
+    {
+      "name": "Engineering Drawing II",
+      "url": "file:///android_asset/civil/second/drawing2.html"
+    },
+    {
+      "name": "Engineering Economics",
+      "url": "file:///android_asset/civil/sixth/economics.html"
+    },
+    {
+      "name": "Engineering Economics (BAG)",
+      "url": "file:///android_asset/agricultural/sixth/economics.html"
+    },
+    {
+      "name": "Engineering Economics (BIE)",
+      "url": "file:///android_asset/industrial/fourth/engineering_economics.html"
+    },
+    {
+      "name": "Engineering Economics (BME)",
+      "url": "file:///android_asset/mechanical/seventh/engineering_economics.html"
+    },
+    {
+      "name": "Engineering Geology I",
+      "url": "file:///android_asset/civil/third/geo1.html"
+    },
+    {
+      "name": "Engineering Geology II",
+      "url": "file:///android_asset/civil/fourth/geo2.html"
+    },
+    {
+      "name": "Engineering Hydrology",
+      "url": "file:///android_asset/civil/fifth/hydrology.html"
+    },
+    {
+      "name": "Engineering Materials",
+      "url": "file:///android_asset/agricultural/third/engineering_materials.html"
+    },
+    {
+      "name": "Engineering Mathematics I",
+      "url": "file:///android_asset/civil/first/math1.html"
+    },
+    {
+      "name": "Engineering Mathematics II",
+      "url": "file:///android_asset/civil/second/math2.html"
+    },
+    {
+      "name": "Engineering Mathematics III",
+      "url": "file:///android_asset/civil/third/math3.html"
+    },
+    {
+      "name": "Engineering Mechanics",
+      "url": "file:///android_asset/mechanical/third/engineering_mechanics.html"
+    },
+    {
+      "name": "Engineering Physics",
+      "url": "file:///android_asset/civil/second/physics.html"
+    },
+    {
+      "name": "Engineering Professional Practice",
+      "url": "file:///android_asset/civil/eighth/epp.html"
+    },
+    {
+      "name": "Engineering Properties of Bio-Materials",
+      "url": "file:///android_asset/agricultural/fifth/bio_materials.html"
+    },
+    {
+      "name": "Enterprise Application Design and Development",
+      "url": "file:///android_asset/computer/elective3/enterprise_app.html"
+    },
+    {
+      "name": "Entrepreneurship Development",
+      "url": "file:///android_asset/industrial/sixth/entrepreneurship_development.html"
+    },
+    {
+      "name": "Environment Impact Assessment (EIA)",
+      "url": "file:///android_asset/civil/elective3/eia.html"
+    },
+    {
+      "name": "Environment and Pollution Control",
+      "url": "file:///android_asset/mechanical/seventh/environment_pollution_control.html"
+    },
+    {
+      "name": "Environmental Management System (BCE)",
+      "url": "file:///android_asset/civil/elective2/environmental.html"
+    },
+    {
+      "name": "Environmental Management System (BIE)",
+      "url": "file:///android_asset/industrial/elective4/environment_management.html"
+    },
+    {
+      "name": "Environmental Modeling",
+      "url": "file:///android_asset/geomatics/elective2/environmental_modeling.html"
+    },
+    {
+      "name": "Estimating and Costing (BAG)",
+      "url": "file:///android_asset/agricultural/seventh/estimating.html"
+    },
+    {
+      "name": "Estimating and Costing (BCE)",
+      "url": "file:///android_asset/civil/seventh/estimating.html"
+    },
+    {
+      "name": "Farm Machinery Design",
+      "url": "file:///android_asset/agricultural/elective1/farm_machinery_design.html"
+    },
+    {
+      "name": "Farm Machinery and Equipment",
+      "url": "file:///android_asset/agricultural/fourth/farm_machinery.html"
+    },
+    {
+      "name": "Farm Power and Engine System",
+      "url": "file:///android_asset/agricultural/third/farm_power_and_engine.html"
+    },
+    {
+      "name": "Farm Structures and Building Technology",
+      "url": "file:///android_asset/agricultural/sixth/farm_structures.html"
+    },
+    {
+      "name": "Fault Monitoring and Diagnosis",
+      "url": "file:///android_asset/aerospace/fifth/fault_monitoring.html"
+    },
+    {
+      "name": "Field Operation and Maintenance of Tractors and Farm Machines",
+      "url": "file:///android_asset/agricultural/sixth/field_operation.html"
+    },
+    {
+      "name": "Field Survey I",
+      "url": "file:///android_asset/geomatics/fourth/field_survey1.html"
+    },
+    {
+      "name": "Field Survey II",
+      "url": "file:///android_asset/geomatics/sixth/field_survey2.html"
+    },
+    {
+      "name": "Field/Industrial Training",
+      "url": "file:///android_asset/agricultural/eighth/industrial_training.html"
+    },
+    {
+      "name": "Filter Design",
+      "url": "file:///android_asset/electronics/fifth/filter_design.html"
+    },
+    {
+      "name": "Finite Element Method",
+      "url": "file:///android_asset/mechanical/eighth/finite_element.html"
+    },
+    {
+      "name": "Finite Element Analysis (BIE)",
+      "url": "file:///android_asset/industrial/elective3/finite_element_analysis.html"
+    },
+    {
+      "name": "Finite Element Method (BAM)",
+      "url": "file:///android_asset/automobile/elective1/finite_element_method.html"
+    },
+    {
+      "name": "Flight Dynamics",
+      "url": "file:///android_asset/aerospace/sixth/flight_dynamics.html"
+    },
+    {
+      "name": "Fluid Machines (BME)",
+      "url": "file:///android_asset/mechanical/fifth/fluid_machines.html"
+    },
+    {
+      "name": "Fluid Mechanics (BCE, BAG)",
+      "url": "file:///android_asset/civil/third/fluid.html"
+    },
+    {
+      "name": "Fluid Mechanics (BME)",
+      "url": "file:///android_asset/mechanical/fourth/fluid_mechanics.html"
+    },
+    {
+      "name": "Fluid Mechanics and Machine (BAM, BAS)",
+      "url": "file:///android_asset/automobile/sixth/fluid_mechanics.html"
+    },
+    {
+      "name": "Fluid Mechanics and Machines (BIE)",
+      "url": "file:///android_asset/industrial/third/fluid_mechanics.html"
+    },
+    {
+      "name": "Foundation Engineering",
+      "url": "file:///android_asset/civil/fifth/foundation.html"
+    },
+    {
+      "name": "Fundamental of Aerospace Engineering",
+      "url": "file:///android_asset/aerospace/third/fundamentals_of_aerospace.html"
+    },
+    {
+      "name": "Fundamental of Bio-Technology",
+      "url": "file:///android_asset/industrial/elective3/fundamentals_of_bio_tech.html"
+    },
+    {
+      "name": "Fundamental of Geodesy",
+      "url": "file:///android_asset/geomatics/fifth/fundamental_of_geodesy.html"
+    },
+    {
+      "name": "Fundamental of Geographic Information Systems",
+      "url": "file:///android_asset/geomatics/fourth/fundamental_of_gis.html"
+    },
+    {
+      "name": "Fundamental of Surveying I",
+      "url": "file:///android_asset/geomatics/third/fundamental_of_surveying1.html"
+    },
+    {
+      "name": "Fundamental of Surveying II",
+      "url": "file:///android_asset/geomatics/fourth/fundamental_of_surveying2.html"
+    },
+    {
+      "name": "Fundamental of Thermodynamics and Heat Transfer",
+      "url": "file:///android_asset/civil/first/thermo.html"
+    },
+    {
+      "name": "Fundamentals of Civil Engineering",
+      "url": "file:///android_asset/geomatics/third/fundamental_of_civil_engg.html"
+    },
+    {
+      "name": "GIS Application and Remote Sensing (BCE)",
+      "url": "file:///android_asset/civil/elective3/gis.html"
+    },
+    {
+      "name": "Gaseous Bio-Fuel",
+      "url": "file:///android_asset/mechanical/elective1/gaseous_biofuel.html"
+    },
+    {
+      "name": "Geodetic Positioning and Gravity Field",
+      "url": "file:///android_asset/geomatics/sixth/geodetic_positioning.html"
+    },
+    {
+      "name": "Geographical Information System",
+      "url": "file:///android_asset/computer/elective3/gis.html"
+    },
+    {
+      "name": "Geotechnical Earthquake Engineering",
+      "url": "file:///android_asset/civil/elective2/geo_earthquake.html"
+    },
+    {
+      "name": "Ground Water Development and Tubewell Technology",
+      "url": "file:///android_asset/agricultural/seventh/groundwater.html"
+    },
+    {
+      "name": "Groundwater Engineering",
+      "url": "file:///android_asset/civil/elective2/groundwater.html"
+    },
+    {
+      "name": "Group Work and Presentation I (BIE)",
+      "url": "file:///android_asset/industrial/third/group_work_1.html"
+    },
+    {
+      "name": "Group Work and Presentation II (BIE)",
+      "url": "file:///android_asset/industrial/fourth/group_work_2.html"
+    },
+    {
+      "name": "Group Work and Presentation III (BIE)",
+      "url": "file:///android_asset/industrial/fifth/group_work_3.html"
+    },
+    {
+      "name": "Heat Transfer (BME)",
+      "url": "file:///android_asset/mechanical/fifth/heat_transfer.html"
+    },
+    {
+      "name": "Heat and Mass Transfer (BIE)",
+      "url": "file:///android_asset/industrial/fourth/heat_and_mass_transfer.html"
+    },
+    {
+      "name": "Heating Ventilating and Air Conditioning",
+      "url": "file:///android_asset/mechanical/elective1/hvac.html"
+    },
+    {
+      "name": "High Voltage Engineering",
+      "url": "file:///android_asset/electrical/eighth/high_voltage.html"
+    },
+    {
+      "name": "Hill Irrigation Engineering",
+      "url": "file:///android_asset/civil/elective2/hill_irrigation.html"
+    },
+    {
+      "name": "Human Resource Development",
+      "url": "file:///android_asset/industrial/elective2/human_resource.html"
+    },
+    {
+      "name": "Hydraulic and Pneumatic Controls",
+      "url": "file:///android_asset/industrial/elective1/hydraulic_and_pneumatic.html"
+    },
+    {
+      "name": "Hydraulics",
+      "url": "file:///android_asset/civil/fourth/hydraulics.html"
+    },
+    {
+      "name": "Hydrology and Agricultural Meteorology",
+      "url": "file:///android_asset/agricultural/fifth/hydrology_and_meteorology.html"
+    },
+    {
+      "name": "Hydropower Engineering (BCE)",
+      "url": "file:///android_asset/civil/seventh/hydropower.html"
+    },
+    {
+      "name": "Hydropower (BEL)",
+      "url": "file:///android_asset/electrical/sixth/hydropower.html"
+    },
+    {
+      "name": "Image Processing and Pattern Recognition",
+      "url": "file:///android_asset/computer/elective1/image_processing.html"
+    },
+    {
+      "name": "Industrial Attachment (On the Job Training: OJT) (BIE)",
+      "url": "file:///android_asset/industrial/eighth/industrial_attachment.html"
+    },
+    {
+      "name": "Industrial Attachment (BAM)",
+      "url": "file:///android_asset/automobile/seventh/industrial_attachment.html"
+    },
+    {
+      "name": "Industrial Attachment (BME)",
+      "url": "file:///android_asset/mechanical/seventh/industrial_attachment.html"
+    },
+    {
+      "name": "Industrial Engineering and Management",
+      "url": "file:///android_asset/mechanical/sixth/industrial.html"
+    },
+    {
+      "name": "Industrial Ethics and Industrial Law",
+      "url": "file:///android_asset/industrial/seventh/engineering_ethics.html"
+    },
+    {
+      "name": "Industrial Management",
+      "url": "file:///android_asset/industrial/fourth/industrial_management.html"
+    },
+    {
+      "name": "Industrial Power Distribution and Illumination",
+      "url": "file:///android_asset/electrical/sixth/industrial_distribution.html"
+    },
+    {
+      "name": "Information System",
+      "url": "file:///android_asset/computer/eighth/information_system.html"
+    },
+    {
+      "name": "Instrumentation I",
+      "url": "file:///android_asset/computer/fourth/instrumentation1.html"
+    },
+    {
+      "name": "Instrumentation II",
+      "url": "file:///android_asset/computer/fifth/instrumentation2.html"
+    },
+    {
+      "name": "Instrumentation and Measurement",
+      "url": "file:///android_asset/mechanical/fourth/instrumentation_and_measurement.html"
+    },
+    {
+      "name": "Instrumentation",
+      "url": "file:///android_asset/electronics/third/instrumentation.html"
+    },
+    {
+      "name": "Internal Combustion Engine",
+      "url": "file:///android_asset/mechanical/sixth/internal_combustion.html"
+    },
+    {
+      "name": "Internet and Intranet",
+      "url": "file:///android_asset/computer/eighth/internet.html"
+    },
+    {
+      "name": "Internship (BAS)",
+      "url": "file:///android_asset/aerospace/eighth/internship.html"
+    },
+    {
+      "name": "Introduction to Bio-medical Engineering",
+      "url": "file:///android_asset/industrial/elective1/biomedical_engineering.html"
+    },
+    {
+      "name": "Introduction to Prestressed Concrete Analysis and Design",
+      "url": "file:///android_asset/civil/elective2/prestressed_concrete.html"
+    },
+    {
+      "name": "Irrigation and Drainage Engineering (BAG)",
+      "url": "file:///android_asset/agricultural/sixth/irrigation_drainage.html"
+    },
+    {
+      "name": "Irrigation and Drainage Engineering (BCE)",
+      "url": "file:///android_asset/civil/sixth/irrigation.html"
+    },
+    {
+      "name": "Land Administration and Management",
+      "url": "file:///android_asset/geomatics/seventh/land_administration.html"
+    },
+    {
+      "name": "Land Law",
+      "url": "file:///android_asset/geomatics/elective3/land_law.html"
+    },
+    {
+      "name": "Land Use Planning",
+      "url": "file:///android_asset/geomatics/elective2/land_use_planning.html"
+    },
+    {
+      "name": "Lean Manufacturing",
+      "url": "file:///android_asset/industrial/elective4/lean_manufacturing.html"
+    },
+    {
+      "name": "Liquid Bio-Fuel",
+      "url": "file:///android_asset/mechanical/elective2/liquid_biofuel.html"
+    },
+    {
+      "name": "Machine Design I",
+      "url": "file:///android_asset/mechanical/sixth/machine_design1.html"
+    },
+    {
+      "name": "Machine Design II",
+      "url": "file:///android_asset/mechanical/seventh/machine_design2.html"
+    },
+    {
+      "name": "Maintenance Engineering",
+      "url": "file:///android_asset/industrial/sixth/maintenance_engineering.html"
+    },
+    {
+      "name": "Management Information System",
+      "url": "file:///android_asset/industrial/elective4/management_information_system.html"
+    },
+    {
+      "name": "Manufacturing Technology",
+      "url": "file:///android_asset/industrial/third/manufacturing_tech.html"
+    },
+    {
+      "name": "Manufacturing and Production Process",
+      "url": "file:///android_asset/mechanical/fourth/manufacturing_and_production.html"
+    },
+    {
+      "name": "Marketing Management",
+      "url": "file:///android_asset/industrial/elective2/marketing_management.html"
+    },
+    {
+      "name": "Material Science and Metallurgy (BIE)",
+      "url": "file:///android_asset/industrial/third/material_science_and_metallurgy.html"
+    },
+    {
+      "name": "Material Science (BME)",
+      "url": "file:///android_asset/mechanical/third/material_science.html"
+    },
+    {
+      "name": "Mechanics of Materials",
+      "url": "file:///android_asset/automobile/fourth/mechanics_of_materials.html"
+    },
+    {
+      "name": "Mechanics of Solids",
+      "url": "file:///android_asset/mechanical/fifth/mechanics_of_solids.html"
+    },
+    {
+      "name": "Mechatronics",
+      "url": "file:///android_asset/industrial/elective3/mechatronics.html"
+    },
+    {
+      "name": "Metrology and Measurement (BIE)",
+      "url": "file:///android_asset/industrial/fifth/metrology_and_measurement.html"
+    },
+    {
+      "name": "Metrology (BME)",
+      "url": "file:///android_asset/mechanical/third/metrology.html"
+    },
+    {
+      "name": "Micro-Hydropower (BEL)",
+      "url": "file:///android_asset/electrical/elective3/micro_hydro.html"
+    },
+    {
+      "name": "Microprocessors",
+      "url": "file:///android_asset/computer/fourth/microprocessors.html"
+    },
+    {
+      "name": "Minor Project (BCT)",
+      "url": "file:///android_asset/computer/sixth/minor_project.html"
+    },
+    {
+      "name": "Minor Project (BEI)",
+      "url": "file:///android_asset/electronics/sixth/minor_project.html"
+    },
+    {
+      "name": "Multimedia System",
+      "url": "file:///android_asset/computer/elective3/multimedia.html"
+    },
+    {
+      "name": "Networking with IPV6",
+      "url": "file:///android_asset/computer/elective2/networking_ipv6.html"
+    },
+    {
+      "name": "New Product Development",
+      "url": "file:///android_asset/industrial/elective2/new_product.html"
+    },
+    {
+      "name": "Numerical Methods",
+      "url": "file:///android_asset/civil/fifth/numerical_methods.html"
+    },
+    {
+      "name": "Object Oriented Analysis and Design",
+      "url": "file:///android_asset/computer/sixth/object_oriented.html"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "url": "file:///android_asset/computer/third/oop.html"
+    },
+    {
+      "name": "Object Oriented Software Engineering",
+      "url": "file:///android_asset/electronics/sixth/object_oriented_soft_dev.html"
+    },
+    {
+      "name": "Operating System (Elective)",
+      "url": "file:///android_asset/computer/elective1/operating_system.html"
+    },
+    {
+      "name": "Operating System",
+      "url": "file:///android_asset/computer/sixth/operating_system.html"
+    },
+    {
+      "name": "Operation Research (BIE)",
+      "url": "file:///android_asset/industrial/seventh/operation_research.html"
+    },
+    {
+      "name": "Operations Research (BAM)",
+      "url": "file:///android_asset/automobile/elective2/operations_research.html"
+    },
+    {
+      "name": "Operations Research / Management Science (BME)",
+      "url": "file:///android_asset/mechanical/elective1/operations_research.html"
+    },
+    {
+      "name": "Optical Fiber Communication System",
+      "url": "file:///android_asset/computer/elective2/optical_fiber.html"
+    },
+    {
+      "name": "Organization and Management",
+      "url": "file:///android_asset/computer/seventh/organization_management.html"
+    },
+    {
+      "name": "Organizational Behaviour",
+      "url": "file:///android_asset/industrial/elective2/organizational_behaviour.html"
+    },
+    {
+      "name": "Planning and Design of Surface Irrigation System",
+      "url": "file:///android_asset/agricultural/elective1/surface_irrigation_system.html"
+    },
+    {
+      "name": "Plant Layout Design and Operations Health and Safety",
+      "url": "file:///android_asset/industrial/seventh/plant_layout_design.html"
+    },
+    {
+      "name": "Post Disaster Water and Sanitation Management",
+      "url": "file:///android_asset/civil/elective2/post_disaster.html"
+    },
+    {
+      "name": "Post Harvest Engineering",
+      "url": "file:///android_asset/agricultural/sixth/post_harvest.html"
+    },
+    {
+      "name": "Power Electronics (Elective)",
+      "url": "file:///android_asset/computer/elective3/power_electronics.html"
+    },
+    {
+      "name": "Power Electronics (BEL)",
+      "url": "file:///android_asset/electrical/seventh/power_electronics.html"
+    },
+    {
+      "name": "Power Plant Design",
+      "url": "file:///android_asset/electrical/eighth/power_plant_design.html"
+    },
+    {
+      "name": "Power Plant Engineering (BIE)",
+      "url": "file:///android_asset/industrial/elective1/power_plant_engineering.html"
+    },
+    {
+      "name": "Power Plant Equipment",
+      "url": "file:///android_asset/electrical/seventh/power_plant_equipment.html"
+    },
+    {
+      "name": "Power System Analysis I",
+      "url": "file:///android_asset/electrical/fourth/power_system_analysis1.html"
+    },
+    {
+      "name": "Power System Analysis II",
+      "url": "file:///android_asset/electrical/fifth/power_system_analysis2.html"
+    },
+    {
+      "name": "Principles of Crop Science and Management",
+      "url": "file:///android_asset/agricultural/fourth/crop_science.html"
+    },
+    {
+      "name": "Principles of Photogrammetry",
+      "url": "file:///android_asset/geomatics/fifth/principles_of_photogrammetry.html"
+    },
+    {
+      "name": "Principles of Robotics and Modeling",
+      "url": "file:///android_asset/industrial/elective3/principles_of_robotics.html"
+    },
+    {
+      "name": "Probability and Statistics",
+      "url": "file:///android_asset/civil/fourth/probability.html"
+    },
+    {
+      "name": "Procurement Management",
+      "url": "file:///android_asset/civil/elective3/procurement.html"
+    },
+    {
+      "name": "Production Planning Design and Control",
+      "url": "file:///android_asset/industrial/elective4/production_planning_design.html"
+    },
+    {
+      "name": "Production Process and Technology",
+      "url": "file:///android_asset/industrial/fourth/production_process_and_tech.html"
+    },
+    {
+      "name": "Project (BIE)",
+      "url": "file:///android_asset/industrial/seventh/project.html"
+    },
+    {
+      "name": "Project (Part A) (BEI)",
+      "url": "file:///android_asset/electronics/seventh/project1.html"
+    },
+    {
+      "name": "Project (Part B) (BEI)",
+      "url": "file:///android_asset/electronics/eighth/project2.html"
+    },
+    {
+      "name": "Project Engineering",
+      "url": "file:///android_asset/civil/seventh/project.html"
+    },
+    {
+      "name": "Project I (BAM)",
+      "url": "file:///android_asset/automobile/seventh/project1.html"
+    },
+    {
+      "name": "Project I (BCE)",
+      "url": "file:///android_asset/civil/seventh/project1.html"
+    },
+    {
+      "name": "Project I (BCT)",
+      "url": "file:///android_asset/computer/seventh/project1.html"
+    },
+    {
+      "name": "Project I (BGE)",
+      "url": "file:///android_asset/geomatics/seventh/project1.html"
+    },
+    {
+      "name": "Project I (BME)",
+      "url": "file:///android_asset/mechanical/seventh/project1.html"
+    },
+    {
+      "name": "Project I",
+      "url": "file:///android_asset/electrical/seventh/project1.html"
+    },
+    {
+      "name": "Project II (BAM)",
+      "url": "file:///android_asset/automobile/eighth/project2.html"
+    },
+    {
+      "name": "Project II (BCT)",
+      "url": "file:///android_asset/computer/eighth/project2.html"
+    },
+    {
+      "name": "Project II (BEL)",
+      "url": "file:///android_asset/electrical/eighth/project2.html"
+    },
+    {
+      "name": "Project II (BGE)",
+      "url": "file:///android_asset/geomatics/eighth/project2.html"
+    },
+    {
+      "name": "Project II (BME)",
+      "url": "file:///android_asset/mechanical/eighth/project2.html"
+    },
+    {
+      "name": "Project Management (BIE)",
+      "url": "file:///android_asset/industrial/fifth/project_management.html"
+    },
+    {
+      "name": "Project Management",
+      "url": "file:///android_asset/computer/seventh/project_management.html"
+    },
+    {
+      "name": "Project Work II (BCE)",
+      "url": "file:///android_asset/civil/eighth/project2.html"
+    },
+    {
+      "name": "Propagation and Antenna",
+      "url": "file:///android_asset/electronics/sixth/propagation_and_antenna.html"
+    },
+    {
+      "name": "Public Health and Risk Assessment",
+      "url": "file:///android_asset/civil/elective2/public_health.html"
+    },
+    {
+      "name": "Quality Control Management",
+      "url": "file:///android_asset/industrial/elective4/quality_control.html"
+    },
+    {
+      "name": "Quality Management (BAM)",
+      "url": "file:///android_asset/automobile/elective3/quality_management.html"
+    },
+    {
+      "name": "Quality Management (BME)",
+      "url": "file:///android_asset/mechanical/elective2/quality_mgmt.html"
+    },
+    {
+      "name": "RF and Microwave Engineering",
+      "url": "file:///android_asset/computer/elective1/microwave_engineering.html"
+    },
+    {
+      "name": "Radar Technology",
+      "url": "file:///android_asset/computer/elective1/radar_technology.html"
+    },
+    {
+      "name": "Refrigeration and Cold Storage (BAG)",
+      "url": "file:///android_asset/agricultural/third/refrigeration_cold_storage.html"
+    },
+    {
+      "name": "Refrigeration (BME)",
+      "url": "file:///android_asset/mechanical/elective2/refrigeration.html"
+    },
+    {
+      "name": "Refrigeration, HVAC System Design (BIE)",
+      "url": "file:///android_asset/industrial/seventh/refrigeration_hvac_system_design.html"
+    },
+    {
+      "name": "Reliability Engineering",
+      "url": "file:///android_asset/electrical/elective1/reliability_engineering.html"
+    },
+    {
+      "name": "Remote Sensing and GIS (BAG)",
+      "url": "file:///android_asset/agricultural/elective3/remote_sensing.html"
+    },
+    {
+      "name": "Remote Sensing",
+      "url": "file:///android_asset/computer/elective3/remote_sensing.html"
+    },
+    {
+      "name": "Remote Sensing (BGE)",
+      "url": "file:///android_asset/geomatics/sixth/remote_sensing.html"
+    },
+    {
+      "name": "Renewable Energy System Design",
+      "url": "file:///android_asset/industrial/elective3/renewable_energy_system.html"
+    },
+    {
+      "name": "Renewable Energy and Energy Conversion Devices",
+      "url": "file:///android_asset/agricultural/seventh/renewable_energy.html"
+    },
+    {
+      "name": "Road Transport Management",
+      "url": "file:///android_asset/automobile/sixth/road_transport_management.html"
+    },
+    {
+      "name": "Rock Engineering",
+      "url": "file:///android_asset/civil/elective1/rock_engineering.html"
+    },
+    {
+      "name": "Rock Mechanics",
+      "url": "file:///android_asset/civil/elective2/rock_mechanics.html"
+    },
+    {
+      "name": "Rock Slope Engineering",
+      "url": "file:///android_asset/civil/elective2/rock_slope.html"
+    },
+    {
+      "name": "Ropeway Engineering",
+      "url": "file:///android_asset/civil/elective1/ropeway.html"
+    },
+    {
+      "name": "Rural Electrification",
+      "url": "file:///android_asset/electrical/elective1/rural_electrification.html"
+    },
+    {
+      "name": "Rural Engineering and Infrastructure",
+      "url": "file:///android_asset/agricultural/eighth/rural_engineering.html"
+    },
+    {
+      "name": "Rural Road Engineering",
+      "url": "file:///android_asset/civil/elective2/rural_road.html"
+    },
+    {
+      "name": "Sanitary Engineering",
+      "url": "file:///android_asset/civil/sixth/sanitary.html"
+    },
+    {
+      "name": "Satellite Communication",
+      "url": "file:///android_asset/computer/elective1/satellite_comm.html"
+    },
+    {
+      "name": "Satellite Positioning",
+      "url": "file:///android_asset/geomatics/seventh/satellite_positioning.html"
+    },
+    {
+      "name": "Seismic Resistant Design of Masonry Structures",
+      "url": "file:///android_asset/civil/elective1/seismic.html"
+    },
+    {
+      "name": "Seismic Risk Assessment",
+      "url": "file:///android_asset/civil/elective2/seismic_risk.html"
+    },
+    {
+      "name": "Seminar (BIE)",
+      "url": "file:///android_asset/industrial/eighth/seminar.html"
+    },
+    {
+      "name": "Signal Analysis",
+      "url": "file:///android_asset/electrical/sixth/signal_analysis.html"
+    },
+    {
+      "name": "Signals and Transforms",
+      "url": "file:///android_asset/geomatics/fifth/signals_and_transforms.html"
+    },
+    {
+      "name": "Simulation and Modeling",
+      "url": "file:///android_asset/computer/eighth/simulation.html"
+    },
+    {
+      "name": "Small Dams and Reservoirs",
+      "url": "file:///android_asset/agricultural/elective3/small_dams.html"
+    },
+    {
+      "name": "Small and Micro Hydropower System (BAG)",
+      "url": "file:///android_asset/agricultural/elective3/small_and_micro_hydropower.html"
+    },
+    {
+      "name": "Software Engineering",
+      "url": "file:///android_asset/computer/fifth/software.html"
+    },
+    {
+      "name": "Soil Conservation and Watershed Management",
+      "url": "file:///android_asset/civil/elective1/watershed.html"
+    },
+    {
+      "name": "Soil Mechanics and Foundation Engineering (BAG)",
+      "url": "file:///android_asset/agricultural/fifth/soil_foundation.html"
+    },
+    {
+      "name": "Soil Mechanics (BCE)",
+      "url": "file:///android_asset/civil/fourth/soil.html"
+    },
+    {
+      "name": "Soil and Water Conservation Engineering",
+      "url": "file:///android_asset/agricultural/sixth/soil_water_conservation.html"
+    },
+    {
+      "name": "Solar Photovoltaic System and Application",
+      "url": "file:///android_asset/agricultural/elective2/solar_photovoltaic_system.html"
+    },
+    {
+      "name": "Solid Bio-Fuel",
+      "url": "file:///android_asset/mechanical/elective3/solid_biofuel.html"
+    },
+    {
+      "name": "Solid Waste Management",
+      "url": "file:///android_asset/civil/elective1/solid_waste.html"
+    },
+    {
+      "name": "Speech Processing",
+      "url": "file:///android_asset/computer/elective3/speech_processing.html"
+    },
+    {
+      "name": "Strategic and Technology Management",
+      "url": "file:///android_asset/industrial/elective4/strategic_and_technology.html"
+    },
+    {
+      "name": "Strength of Materials (BCE)",
+      "url": "file:///android_asset/civil/third/som.html"
+    },
+    {
+      "name": "Strength of Materials",
+      "url": "file:///android_asset/mechanical/fourth/som.html"
+    },
+    {
+      "name": "Strength of Materials and Theory of Structures (BAG)",
+      "url": "file:///android_asset/agricultural/fourth/som_and_tos.html"
+    },
+    {
+      "name": "Structural Dynamics",
+      "url": "file:///android_asset/civil/elective1/structural_dynamics.html"
+    },
+    {
+      "name": "Structural Reliability",
+      "url": "file:///android_asset/civil/elective2/structural_reliability.html"
+    },
+    {
+      "name": "Supply Chain Management",
+      "url": "file:///android_asset/industrial/fifth/supply_chain_management.html"
+    },
+    {
+      "name": "Survey Camp (BAG)",
+      "url": "file:///android_asset/agricultural/fifth/survey_camp.html"
+    },
+    {
+      "name": "Survey Camp (BCE)",
+      "url": "file:///android_asset/civil/fifth/survey_camp.html"
+    },
+    {
+      "name": "Survey Networks",
+      "url": "file:///android_asset/geomatics/fifth/survey_networks.html"
+    },
+    {
+      "name": "Surveying I",
+      "url": "file:///android_asset/civil/third/surveying1.html"
+    },
+    {
+      "name": "Surveying II",
+      "url": "file:///android_asset/civil/fourth/surveying2.html"
+    },
+    {
+      "name": "Surveying and Leveling (BAG)",
+      "url": "file:///android_asset/agricultural/fourth/surveying_leveling.html"
+    },
+    {
+      "name": "Switchgear and Protection",
+      "url": "file:///android_asset/electrical/sixth/switchgear.html"
+    },
+    {
+      "name": "System Design and Simulation (BAM)",
+      "url": "file:///android_asset/automobile/elective3/system_design.html"
+    },
+    {
+      "name": "System Design and Simulation (BME)",
+      "url": "file:///android_asset/mechanical/elective2/system_design.html"
+    },
+    {
+      "name": "Technology Environment and Society",
+      "url": "file:///android_asset/civil/eighth/tes.html"
+    },
+    {
+      "name": "Telecommunication",
+      "url": "file:///android_asset/computer/elective3/telecommunications.html"
+    },
+    {
+      "name": "Testing and Evaluation of Agricultural Machinery and Tractor",
+      "url": "file:///android_asset/agricultural/elective2/agriculture_machinery.html"
+    },
+    {
+      "name": "Theory and Design of Machine Elements",
+      "url": "file:///android_asset/agricultural/fifth/machine_elements.html"
+    },
+    {
+      "name": "Theory of Computation",
+      "url": "file:///android_asset/computer/third/theory_of_computation.html"
+    },
+    {
+      "name": "Theory of Machine",
+      "url": "file:///android_asset/industrial/sixth/theory_of_machine.html"
+    },
+    {
+      "name": "Theory of Mechanism and Machine (BAM)",
+      "url": "file:///android_asset/automobile/fifth/theory_of_mechanism_and_machine.html"
+    },
+    {
+      "name": "Theory of Mechanism and Machine I",
+      "url": "file:///android_asset/mechanical/sixth/theory_of_mechanism1.html"
+    },
+    {
+      "name": "Theory of Mechanism and Machine II",
+      "url": "file:///android_asset/mechanical/seventh/theory_of_mechanism2.html"
+    },
+    {
+      "name": "Theory of Structures I",
+      "url": "file:///android_asset/civil/fourth/tos1.html"
+    },
+    {
+      "name": "Theory of Structures II",
+      "url": "file:///android_asset/civil/fifth/tos2.html"
+    },
+    {
+      "name": "Theory of Vibration",
+      "url": "file:///android_asset/aerospace/fifth/theory_of_vibration.html"
+    },
+    {
+      "name": "Tillage and Traction and Land Management Machinery",
+      "url": "file:///android_asset/agricultural/elective3/tillage_and_traction.html"
+    },
+    {
+      "name": "Time Series Analysis",
+      "url": "file:///android_asset/civil/elective3/time_series.html"
+    },
+    {
+      "name": "Tool Design for Economic Production",
+      "url": "file:///android_asset/mechanical/elective1/tool_design.html"
+    },
+    {
+      "name": "Tractor Systems and Control",
+      "url": "file:///android_asset/agricultural/fifth/tractor_systems.html"
+    },
+    {
+      "name": "Traffic Engineering and Management",
+      "url": "file:///android_asset/civil/elective2/traffic_engineering.html"
+    },
+    {
+      "name": "Traffic and Transport Modeling",
+      "url": "file:///android_asset/civil/elective2/transport_modeling.html"
+    },
+    {
+      "name": "Trail Suspension Bridge",
+      "url": "file:///android_asset/civil/elective1/trail_bridge.html"
+    },
+    {
+      "name": "Transmission and Distribution Design",
+      "url": "file:///android_asset/electrical/eighth/transmission_and_distribution.html"
+    },
+    {
+      "name": "Transportation Engineering II",
+      "url": "file:///android_asset/civil/seventh/transportation2.html"
+    },
+    {
+      "name": "Transportation Engineering I",
+      "url": "file:///android_asset/civil/sixth/transportation1.html"
+    },
+    {
+      "name": "Transportation Planning and Engineering",
+      "url": "file:///android_asset/civil/elective1/transportation_planning.html"
+    },
+    {
+      "name": "Turbo Machines",
+      "url": "file:///android_asset/mechanical/seventh/turbo_machines.html"
+    },
+    {
+      "name": "Unmanned Air Vehicle Synthesis",
+      "url": "file:///android_asset/aerospace/sixth/uav_synthesis.html"
+    },
+    {
+      "name": "Utilization of Electrical Energy",
+      "url": "file:///android_asset/electrical/seventh/utilization_of_electrical_energy.html"
+    },
+    {
+      "name": "Vehicle Body Engineering and Safety",
+      "url": "file:///android_asset/automobile/elective2/vehicle_body_engineering.html"
+    },
+    {
+      "name": "Vehicle Dynamics",
+      "url": "file:///android_asset/automobile/seventh/vehicle_dynamics.html"
+    },
+    {
+      "name": "Vulnerability Assessment and Retrofitting Techniques",
+      "url": "file:///android_asset/civil/elective2/retrofitting.html"
+    },
+    {
+      "name": "Water Quality Management",
+      "url": "file:///android_asset/civil/elective2/water_quality.html"
+    },
+    {
+      "name": "Water Supply Engineering",
+      "url": "file:///android_asset/civil/fifth/water_supply.html"
+    },
+    {
+      "name": "Water and Wastewater Quality Analysis",
+      "url": "file:///android_asset/civil/elective1/wastewater.html"
+    },
+    {
+      "name": "Watershed Management and Planning",
+      "url": "file:///android_asset/agricultural/elective1/watershed_management.html"
+    },
+    {
+      "name": "Web Technology and Applications",
+      "url": "file:///android_asset/computer/elective1/web_technology.html"
+    },
+    {
+      "name": "Wind Energy Conversion System",
+      "url": "file:///android_asset/electrical/elective3/wind_energy_conversion.html"
+    },
+    {
+      "name": "Wireless Communications",
+      "url": "file:///android_asset/computer/elective2/wireless_comm.html"
+    },
+    {
+      "name": "Work Study and Ergonomics",
+      "url": "file:///android_asset/industrial/third/work_study_and_ergonomics.html"
+    },
+    {
+      "name": "Workshop Technology",
+      "url": "file:///android_asset/civil/first/workshop.html"
+    },
+    {
+      "name": "XML: Foundations, Techniques and Applications",
+      "url": "file:///android_asset/computer/elective3/xml.html"
+    }
+  ]
+}

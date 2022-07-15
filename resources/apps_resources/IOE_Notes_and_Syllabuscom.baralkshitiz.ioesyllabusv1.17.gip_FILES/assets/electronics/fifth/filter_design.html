@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="..\..\css\style.css">
+</head>
+
+<body>
+<div class="bold">
+    <p class="center">FILTER DESIGN<br>EX 605</p>
+    <p>Lecture&nbsp;&nbsp;&nbsp;: 3
+        <br>Tutorial&nbsp;&nbsp;&nbsp;: 1
+        <br>Practical&nbsp;: 3/2</p>
+</div>
+
+<p><strong>Course Objective:</strong></p>
+<p>To familiarize student with the concept of analog filter design: passive filters, RC active filters and
+    switched-capacitor filters.</p>
+
+<div class="list">
+<ol>
+    <li>Introduction <br><span class="colour">(4 hours)</span>
+        <ol>
+            <li>Filter and its importance in communication</li>
+            <li>Kinds of filters in terms of frequency response</li>
+            <li>Ideal response and response of practical filters</li>
+            <li>Normalization and denormalization in filter design</li>
+            <li>Impedance (magnitude) scaling and frequency scaling</li>
+            <li>History of filter design and available filter technologies</li>
+        </ol>
+    </li>
+    <li>Approximation Methods <br><span class="colour">(8 hours)</span>
+        <ol>
+            <li>Approximation and its importance in filter design</li>
+            <li>Lowpass approximations methods</li>
+            <li>Butterworth response, Butterworth pole locations, Butterworth filter design from specifications</li>
+            <li>Chebyshev and inverse Chebyshev characteristics, network functions and pole zero locations</li>
+            <li>Characteristics of Cauer (elliptic) response</li>
+            <li>Bessel-Thomson approximation of constant delay</li>
+            <li>Delay Equalization</li>
+        </ol>
+    </li>
+    <li>Frequency transformation <br><span class="colour">(2 hours)</span>
+        <ol>
+            <li>Frequency transformation and its importance in filter design</li>
+            <li>Lowpass to highpass transformation</li>
+            <li>Lowpass to bandpass transformation and</li>
+            <li>Lowpass to bandstop transformation</li>
+        </ol>
+    </li>
+    <li>Properties and Synthesis of Passive Networks <br><span class="colour">(7 hours)</span>
+        <ol>
+            <li>One-port passive circuits
+                <ol>
+                    <li>Properties of passive circuits, positive real functions</li>
+                    <li>Properties of lossless circuits</li>
+                    <li>Synthesis of LC one-port circuits, Foster and Cauer circuits</li>
+                    <li>Properties and synthesis of RC one-port circuits</li>
+                </ol>
+            </li>
+            <li>Two-port Passive Circuits
+                <ol>
+                    <li>Properties of passive two-port circuits, residue condition, transmission zeros</li>
+                    <li>Synthesis of two-port LC and RC ladder circuits based on zero-shifting by partial pole removal
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+    <li>Design of Resistively-Terminated Lossless Filter <br><span class="colour">(4 hours)</span>
+        <ol>
+            <li>Properties of resistively-terminated lossless ladder circuits, transmission and reflection
+                coefficients
+            </li>
+            <li>Synthesis of LC ladder circuits to realize all-pole lowpass functions</li>
+            <li>Synthesis of LC ladder circuits to realize functions with finite transmission zeros</li>
+        </ol>
+    </li>
+    <li>Active Filter <br><span class="colour">(7 hours)</span>
+        <ol>
+            <li>Fundamentals of Active Filter Circuits
+                <ol>
+                    <li>Active filter and passive filter</li>
+                    <li>Ideal and real operational amplifiers, gain-bandwidth product</li>
+                    <li>Active building blocks: amplifiers, summers, integrators</li>
+                    <li>First order active sections using inverting and non-inverting op-amp configuration</li>
+                </ol>
+            </li>
+            <li>Second order active sections (biquads)
+                <ol>
+                    <li>Tow-Thomas biquad circuit, design of active filter using Tow-Thomas biquad</li>
+                    <li>Sallen-Key biquad circuit and Multiple-feedback biquad (MFB) circuit</li>
+                    <li>Gain reduction and gain enhancement</li>
+                    <li>RC-CR transformation</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+    <li>Sensitivity <br><span class="colour">(3 hours)</span>
+        <ol>
+            <li>Sensitivity and importance of sensitivity analysis</li>
+            <li>Definition of single parameter sensitivity</li>
+            <li>Centre frequency and Q-factor sensitivity</li>
+            <li>Sensitivity properties of biquads</li>
+            <li>Sensitivity of passive circuits</li>
+        </ol>
+    </li>
+    <li>Design of High-Order Active Filters <br><span class="colour">(6 hours)</span>
+        <ol>
+            <li>Cascade of biquads
+                <ol>
+                    <li>Sequencing of filter blocks, center frequency, Q-factor and gain</li>
+                </ol>
+            </li>
+            <li>Active simulation of passive filters
+                <ol>
+                    <li>Ladder design with simulated inductors</li>
+                    <li>Ladder design with frequency-dependent negative resistors (FDNR)</li>
+                    <li>Leapfrog simulation of ladders</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+    <li>Switched-Capacitor Filters <br><span class="colour">(4 hours)</span>
+        <ol>
+            <li>The MOS switch and switched capacitor</li>
+            <li>Simulation of resistor by switched capacitor</li>
+            <li>Switched-capacitor circuits for analog operations: addition, subtraction, multiplication and
+                integration
+            </li>
+            <li>First-order and second-order switched-capacitor circuits</li>
+        </ol>
+    </li>
+</ol>
+</div>
+
+<p><strong>Practical:</strong><br/>The laboratory experiments consist computer simulation as well hardware realization
+    for analysis and design of passive and active filters which include.</p>
+<ol>
+    <li>Analysis and design of passive &amp; active filter circuits using computer simulation</li>
+    <li>Design of active filters using biquad circuits</li>
+    <li>Design of higher order active filters using inductor simulation</li>
+    <li>Design of higher order active filters using functional simulation</li>
+</ol>
+<p><strong>References:</strong></p>
+<ol>
+    <li>Rolf Schaumann, Mac E. Van Valkenburg, "Design of Analog Filters"</li>
+    <li>Wai-Kai Chen, "Passive and Active Filters (Theory and Implementations)"</li>
+    <li>Kendal L Su, "Analog Filter"</li>
+</ol>
+<p><strong>Evaluation Scheme:</strong></p>
+<p>The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table
+    below.</p>
+<table>
+    <tbody>
+    <tr>
+        <td>
+            <strong>Unit</strong>
+        </td>
+        <td>
+            <strong>Hour</strong>
+        </td>
+        <td>
+            <strong>Marks Distribution*</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            1
+        </td>
+        <td>
+            4
+        </td>
+        <td>
+            7
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2
+        </td>
+        <td>
+            8
+        </td>
+        <td>
+            14
+        </td>
+    </tr>
+    <tr>
+        <td>
+            3
+        </td>
+        <td>
+            2
+        </td>
+        <td>
+            4
+        </td>
+    </tr>
+    <tr>
+        <td>
+            4
+        </td>
+        <td>
+            7
+        </td>
+        <td>
+            13
+        </td>
+    </tr>
+    <tr>
+        <td>
+            5
+        </td>
+        <td>
+            4
+        </td>
+        <td>
+            7
+        </td>
+    </tr>
+    <tr>
+        <td>
+            6
+        </td>
+        <td>
+            7
+        </td>
+        <td>
+            12
+        </td>
+    </tr>
+    <tr>
+        <td>
+            7
+        </td>
+        <td>
+            3
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            8
+        </td>
+        <td>
+            6
+        </td>
+        <td>
+            11
+        </td>
+    </tr>
+    <tr>
+        <td>
+            9
+        </td>
+        <td>
+            4
+        </td>
+        <td>
+            7
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Total</strong>
+        </td>
+        <td>
+            <strong>45</strong>
+        </td>
+        <td>
+            <strong>80</strong>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>* There may be minor deviation in marks distribution.</p>
+
+</body>
+</html>

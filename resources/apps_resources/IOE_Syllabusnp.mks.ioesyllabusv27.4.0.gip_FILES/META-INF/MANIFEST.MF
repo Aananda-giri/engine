@@ -1,0 +1,4568 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: X/31OOPxif21/SQr27YyNTZkQZsZAV/wpoUJ4EPjrLU=
+
+Name: DebugProbesKt.bin
+SHA-256-Digest: JgfdenN513WouMAR8DNldvVzIGF+nWpeFStS283J3a4=
+
+Name: LICENSE-junit.txt
+SHA-256-Digest: lki7KJG5gTlwvdto1L6KXm7IKA0BgKU9+ykja1ecVbs=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA-256-Digest: HltRzeUVOWqfp2KQnPjKZYTMxWSzJdLuvup2F1/pXE0=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA-256-Digest: HltRzeUVOWqfp2KQnPjKZYTMxWSzJdLuvup2F1/pXE0=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.browser_browser.version
+SHA-256-Digest: ZNI/hY71Gw+Zbklm1OJ8A3G0N+LSeHiQsfetItTsVmM=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: yx2aMLxKuKOX85t9eGu4KsoLgWB37vw118giAX119qU=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.legacy_legacy-support-v4.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: xKI4OgO9tnOdFqDiQFjkucfaTmPSA+C+L0SIaMwDxTA=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: yJuHwmLp1f/SDnOqx0oXcq3Mn1ohaCzDOtz1CG5f71w=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.media_media.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.print_print.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: zFL2eISLgUNzdXtGA4O/YZYOSUPCA3Na3eCjULPlCYk=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.webkit_webkit.version
+SHA-256-Digest: eLWRQAxWt7Z7jLOyuKjmXpCTiX8Czgh45rVAXGhiD6c=
+
+Name: META-INF/androidx.window_window-java.version
+SHA-256-Digest: DkvW3tg1gEfGKKAz/CVvninEaNQmZjnh1VLN0J4cAgg=
+
+Name: META-INF/androidx.window_window.version
+SHA-256-Digest: DkvW3tg1gEfGKKAz/CVvninEaNQmZjnh1VLN0J4cAgg=
+
+Name: META-INF/annotation-experimental_release.kotlin_module
+SHA-256-Digest: FSkzw/2woM+1O1GxqpN1073/dyK5Ioi9vttPuclmZe8=
+
+Name: META-INF/app_release.kotlin_module
+SHA-256-Digest: FSkzw/2woM+1O1GxqpN1073/dyK5Ioi9vttPuclmZe8=
+
+Name: META-INF/com.google.firebase-firebase-common-ktx.kotlin_module
+SHA-256-Digest: XLHdNPnnZq7lxP9j64RAy3/qLfm9svDwkW9mhCLSQ94=
+
+Name: META-INF/fluttertoast_release.kotlin_module
+SHA-256-Digest: FSkzw/2woM+1O1GxqpN1073/dyK5Ioi9vttPuclmZe8=
+
+Name: META-INF/in_app_update_release.kotlin_module
+SHA-256-Digest: FSkzw/2woM+1O1GxqpN1073/dyK5Ioi9vttPuclmZe8=
+
+Name: META-INF/java.com.google.android.libraries.firebase.firebase_ana
+ lytics_ktx_granule.kotlin_module
+SHA-256-Digest: 4UORtpwZUbzdVMaAJmIRVVi1PM8xju0Ov0AETH7vg08=
+
+Name: META-INF/kotlin-stdlib-common.kotlin_module
+SHA-256-Digest: KkDvVe1+Ogl2R9pVurVJoqY2rxepI1soG6sDkF6vtWs=
+
+Name: META-INF/kotlin-stdlib-jdk7.kotlin_module
+SHA-256-Digest: f1du2FsfuzdxNkp5kfXyoL6oJ0leTCrLfd2iF68+fCM=
+
+Name: META-INF/kotlin-stdlib-jdk8.kotlin_module
+SHA-256-Digest: JIYU6jy0chDKEQUUyvR1UX4jBwZbtrzxEgJkmt6JyUI=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA-256-Digest: dzpixIl2n+iptLDP1b1o+eWTmiiWWQKp8aJJveWfuGk=
+
+Name: META-INF/kotlinx-coroutines-android.kotlin_module
+SHA-256-Digest: 0wzQbNpZ/7+861//EOtiqommJELVvyeLaIyAeGcWL+8=
+
+Name: META-INF/kotlinx-coroutines-core.kotlin_module
+SHA-256-Digest: /e9liwCpTa7PH3Y+e3rSr+jVqlCcgvDii5iFJijgsvg=
+
+Name: META-INF/services/kotlinx.coroutines.CoroutineExceptionHandler
+SHA-256-Digest: IRHXaeAz1CYH68FT4E1menqYizYprS2MBtT58GkAdYo=
+
+Name: META-INF/services/kotlinx.coroutines.internal.MainDispatcherFact
+ ory
+SHA-256-Digest: OwN8sjGLAKr8CwUE/Vz/8yHAcvJhtuzUuwbjPaNEjv4=
+
+Name: META-INF/window-java_release.kotlin_module
+SHA-256-Digest: mKckouYv5xWcyulM7nBj+CzFrb1dIGyWvUIJIPZkC9g=
+
+Name: META-INF/window_release.kotlin_module
+SHA-256-Digest: mKckouYv5xWcyulM7nBj+CzFrb1dIGyWvUIJIPZkC9g=
+
+Name: androidsupportmultidexversion.txt
+SHA-256-Digest: ZdX4cZhwGXAjcRcYYEnbRa6OkVHtWD8STmvLjqW6ihY=
+
+Name: assets/audience_network.dex
+SHA-256-Digest: kg5GWoeiQJ/I1xhupOMZxhPATRVr7HXouRy00Hsd63U=
+
+Name: assets/flutter_assets/AssetManifest.json
+SHA-256-Digest: fwSTvppifY1v0m9r/S/P8y1teBrW/y5tYkTTSGynpyQ=
+
+Name: assets/flutter_assets/FontManifest.json
+SHA-256-Digest: LNlBG1QOXG4VrGVSOjYBvuZorsqRBOHeE2/DSzqRJ3E=
+
+Name: assets/flutter_assets/NOTICES.Z
+SHA-256-Digest: /cFnmR/ez2ptjiF7Mg0e/9RP14c9V7OcwVUkZN04r0c=
+
+Name: assets/flutter_assets/assets/data/formulae.json
+SHA-256-Digest: 7SU1f4ZQ7EPofA8htyoW7V+1tcFUxDPvX9k7X3Sa11Q=
+
+Name: assets/flutter_assets/assets/data/loksewa.json
+SHA-256-Digest: 52/dz/lqX7aNsNmudZ0O9F7LWR62OSuzPyUCl98D71M=
+
+Name: assets/flutter_assets/assets/data/msc.json
+SHA-256-Digest: G+Bj1tdxP1KnvYdTaCkdpYYID2zz7LrnuqjW3gh+gNw=
+
+Name: assets/flutter_assets/assets/data/notes.json
+SHA-256-Digest: +YLtfZJWSsGwhimw77mEcpp8OJ6xn4FQRbezrri21a0=
+
+Name: assets/flutter_assets/assets/data/questions.json
+SHA-256-Digest: sqMUAACVEDoKM99CyX/tB8GREGmcP+JQLZCHDbMoMM4=
+
+Name: assets/flutter_assets/assets/html/css/jquery.mobile-1.4.5.min.cs
+ s
+SHA-256-Digest: 4O+yaYAiGSFWzHgEdDeYjVXdo7LznOT6O0zdzjAS3PI=
+
+Name: assets/flutter_assets/assets/html/index.html
+SHA-256-Digest: hUZkDw39mJpCsJC7mTVSVxkhoXv76E3m0bpoOCjHU+c=
+
+Name: assets/flutter_assets/assets/html/js/jquery-1.11.1.min.js
+SHA-256-Digest: kSIvlvNHNevIjfIIAX5U1DKbkgLj5SNn+4sUlpihpe8=
+
+Name: assets/flutter_assets/assets/html/js/jquery.mobile-1.4.5.min.js
+SHA-256-Digest: NMkHN06TjvztYvE/KmdV+e3NVjTslGp02TYljvEzXFg=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/Applie
+ dMechanics.html
+SHA-256-Digest: COS0Z+lj3BkqiUgqJJyOgRu7bzsASCB/0vb9iY+uRV4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/basic_
+ electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/drawin
+ g_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/eng_ph
+ ysics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/math_i
+ .html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/1sem/worksh
+ op_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/basic_
+ electronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/c_prog
+ ramming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/eng_ch
+ emistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/eng_dr
+ awing_ii.html
+SHA-256-Digest: KoByMrCIofwuSRNqXcxAyB44uEy7ww7HGntYIX29y2U=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/eng_ma
+ th_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/2sem/fundam
+ ental_of_heat_transfer.html
+SHA-256-Digest: 6xBwkisRh32oQwWGpPpoKoH350L3A3jmL78Oa37VeVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/Applie
+ dThermodyanmicsAndHeatTransfer.html
+SHA-256-Digest: ncxxRJ+Uo7si/CPYXZnJ/PLDYPpB47Q1lRFtbqJT150=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/Comput
+ erAidedDesignAndManufacturing.html
+SHA-256-Digest: UE2BcwSjbsSKF3sm0iSLXmUnkq/UtYwE/0GgBaIonuM=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/Engine
+ eringMechanics.html
+SHA-256-Digest: pvm/ooVAf6l3mOpPrso94/QtaCcrVJ3liU3pUe6ymYY=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/Fundam
+ entalofAerospaceEngineering.html
+SHA-256-Digest: QP9TBsaSl5lhTkxXQ89PHSL8iVreGKpa2hiBPxdgGPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/fluid_
+ Mechanics.html
+SHA-256-Digest: y0uqvEhnmQIBKmZ4y4RD42XFus96S5jd/goEQ/eiTvk=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/3sem/mathii
+ i.html
+SHA-256-Digest: TasLQ0q2uu6PGcvsV/WhntH9Gn7Tl3dlfEGwb9ih5FY=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/Aerody
+ namics.html
+SHA-256-Digest: qZ+3hEUxmCitv4LQ0BP+iOqnkSMg1NaoF/sljvLLP/E=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/Aerosp
+ aceMaterials.html
+SHA-256-Digest: Q3eTuSqtYbXFiB5irZg3EEdH2ndYxcgq1oLvy+t3uSk=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/Streng
+ thOfMaterials.html
+SHA-256-Digest: y2HREm7O6DJQCRRyOG6lBn4DSiJTzKordU21R3Rm+cA=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/Theory
+ OfMechanismAndMachineI.html
+SHA-256-Digest: 6p3es1t2eUaEUma0Ra0L5PMlMCdIBdVpmCd2MlMZEcg=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/contro
+ l_system.html
+SHA-256-Digest: ePk9XD3UXvB4dDpMcy234LNUC64+H3IlEpJaZ4N+JP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/4sem/probab
+ ility_stats.html
+SHA-256-Digest: hfSFMgPz0uqbX5siCVOwqOnJz3tvN3lfennmmXfTFcQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/Aircra
+ ftManufacturingProcess.html
+SHA-256-Digest: EMu6BL+l3AmgpFgYnbMBfcqrt7gaTjzv2MdbNSRyPs4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/Aircra
+ ftPropulsion.html
+SHA-256-Digest: uSLw7BKIhp9bjaviXIhf9nqd9i17B48TR0l/fG+Z4s8=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/Contin
+ uumMechanics.html
+SHA-256-Digest: Pvsu/nzQ4tSIsUXJ+Oq6I8bky32KbjP9DFb3chAb+dM=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/FaultM
+ onitoringAndDiagnosis.html
+SHA-256-Digest: 2olRJSGwbNg/qZJciVH6mLP2omS5MoE8FB3JAjFBbCw=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/Numeri
+ calMethods.html
+SHA-256-Digest: BIRvtlgJwHlN2DFvFTf6wvjSiiIon2BW68knfMCcuv0=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/5sem/Theory
+ OfVibration.html
+SHA-256-Digest: Wzy2czjukHtn4p1xUF3Fbm3/YzHzyL3TpSIWMWaNWxA=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/Aircra
+ ftEnvironmentControlSystem.html
+SHA-256-Digest: NS+k2zrMkmWyPjlgAI2cVr7yqNI6+YFTIA9XYtVCv6Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/Avioni
+ cs.html
+SHA-256-Digest: 2SuvUTjRlN+6nu3QX0tGVS4M1ZwQWysR2AAmjR/38ds=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/Electi
+ veI/fleet_planning_for_airlines.html
+SHA-256-Digest: A8mRI64DYSAIbU4bhNeD4OLE19an+tvgSDqYwAeJwsA=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/Electi
+ veI/human_reliability_error_&_factor_in_aviation.html
+SHA-256-Digest: 3TgvbG0Mf8qoF9IGgqWxdxZWPvPum4N1S5dTOBBeYd4=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/aircra
+ ft_maintenance_engineering.html
+SHA-256-Digest: De5HQ1tFSDh5Am/R4hfPl27iH4pBIdVurdI8FEut5Wc=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/e1.htm
+ l
+SHA-256-Digest: 888VPq7ClcZV7UrRLPSO27zkCR5a3d1glCsPCXZhitY=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/finite
+ _element.html
+SHA-256-Digest: WMSdROgZMO3A0b17SBl1boayLeM2rdRrCy5h7HZUOw8=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/flight
+ _dynamics.html
+SHA-256-Digest: YlT6dFSsa0S173Lo2HoEslxU3RfhFF1ANZHFfs/174Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/6sem/unmann
+ ed_air_vehicle_synthesis.html
+SHA-256-Digest: 6JtGwTkYhKk/MsbSI9ezAUlsD4aGH79CJiw8qn/AdUc=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/7sem/air_tr
+ affic_mgmt.html
+SHA-256-Digest: GK/ctonTsyFRKfw79/fZsedx8cqVMXFuf21TU37CZuk=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/7sem/aircra
+ ft_preliminary_design.html
+SHA-256-Digest: hQk7yk9oQE31irb+BL/UbT5ZRsweiIzIu42iKDthIA0=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/7sem/aircra
+ ft_structures.html
+SHA-256-Digest: ygdFGIxMB4kZF6Mx66WtOhl/9wZ1Q9plEK/XPb3Y2pM=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/7sem/comput
+ ational_fluid_dynamics.html
+SHA-256-Digest: wSNG1TJGzxrNFbuftTTMYu+XntZ5xiwLe4I6VCyL5Xw=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/7sem/embedd
+ ed_system.html
+SHA-256-Digest: kwdigazp2pWw833hzpdosyYhuiU4DdrOoizwXd94hx0=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/8sem/Electi
+ veII/aviation_legislation.html
+SHA-256-Digest: wB8Nt9Cvjis/U713RccPAXL6PCWycOOsyPOMG4sBbOI=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/8sem/aviati
+ on_professional_practice.html
+SHA-256-Digest: NuF9O5QIp3P4+Wmf5lWhjS6VxEYnbN+TmzKVPF64Fjc=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/8sem/e2.htm
+ l
+SHA-256-Digest: r0eV41bCrK/lcZbgnZSTVd9s9UYkM/jr6t/PqG+pqWE=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/8sem/intern
+ ship.html
+SHA-256-Digest: V81ag35MbV3qrePd3+Is7MMi/vsF+ZAS9U/+YAy/JuM=
+
+Name: assets/flutter_assets/assets/html/syllabus/aerospace/index.html
+SHA-256-Digest: ywdBBUrCcbvt7S+yuTT9jdHeMO2XcySUgq7gcbV0m0E=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/appl
+ ied_mechanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/basi
+ c_electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/c_pr
+ ogramming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/draw
+ ing_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/eng_
+ physics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/1sem/math
+ _i.html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/basi
+ c_electronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/eng_
+ chemistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/eng_
+ drawing_ii.html
+SHA-256-Digest: 4GuOX2pJccL3FfJwAJ+2JJb74/9OQ8nSIpXMzaksf4I=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/eng_
+ math_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/fund
+ amental_of_heat_transfer.html
+SHA-256-Digest: TNKhNJCvf5GXmbdhOjsRkj+Xn+t1clgzFgm0Hup2tkU=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/2sem/work
+ shop_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/elec
+ tric_system_and_machines.html
+SHA-256-Digest: wxxWxtRvZ7KBgD8ra2yOvsy7omdMAmjyi/9xR+UFTjo=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/elem
+ ents_of_soil_science.html
+SHA-256-Digest: Glq4rEoAuiVudXY5nxEjJtPxvIrCAz3S3egJCB3PoPY=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/eng_
+ materials.html
+SHA-256-Digest: DAie2NVdIWADnsxKFmsm0FQgXTkgq5AnRWzEDVdPyn0=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/eng_
+ math_iii.html
+SHA-256-Digest: 6g+BNMUtjPf2zI15Vr/c4zt17cMP2xow7940Vi9xrOI=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/farm
+ _power_and_engine_system.html
+SHA-256-Digest: TfUJFO5jQnUGS2O664oOgaBgS0Y7W6qjQFdajkyF03w=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/flui
+ d_mechanics.html
+SHA-256-Digest: QsGE/kDi2FVF7B0qFrfhwEjB15G2ae+LmRJDtoZS7zA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/3sem/refr
+ igeration_and_cold_storage.html
+SHA-256-Digest: jGtCGV1mSrq0896pCsOAxoZJW6tGix8mapgHIhh9pbE=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/Hydr
+ aulics.html
+SHA-256-Digest: XXUOhEfXsrJLe/oqBY+8xLJPIxP3oEmSfqQ/i8Z/50E=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/farm
+ _machinery_and_equipment.html
+SHA-256-Digest: TDK9DrSrOZOnWsp1GK5H1tCFh3BSs8VbQ1QCI9DEsW4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/nume
+ rical_methods.html
+SHA-256-Digest: sZGuKuJjNUoSnkp6g+SECuwKzMySOaNZXHzYkJJIkNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/prin
+ ciple_of_crop_science_and_management.html
+SHA-256-Digest: Iew1LiJsHpsDUB9RRtWnIhUxCw3yfXmPwNog0aaYJFE=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/stre
+ ngth_of_materials_and_theory_of_structure.html
+SHA-256-Digest: 8lOswzmkma5GdttfAWhOGy1vi4uUkZdN3w0pVzluNPw=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/4sem/surv
+ eying_and_leveling.html
+SHA-256-Digest: 9jefnokJ8l1ozYZisSBjBUJOABeXDkvs7AJ9XeKnrzA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/comm
+ unication_english.html
+SHA-256-Digest: avxAK81xKSUzz9qnhZk2akYZpI+tIcZLRrUsLiZgWpo=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/eng_
+ propertirs_biomaterials.html
+SHA-256-Digest: t3LEQ6hSjvXT97+TpPLBsNKjeukhdl1J6h/3BXG5Vn8=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/hydr
+ ology_agriculturemeterology.html
+SHA-256-Digest: O6rHb4wvow0cEYO3UgqoL6eCpT7ymXCrNoLZ16CFOGY=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/prob
+ ability_stats.html
+SHA-256-Digest: n0WbkS/QYVxekApV5n92Maj58hgmJUTKOXCixRyH3U0=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/soil
+ mechanics_foundationengineering.html
+SHA-256-Digest: K3OSWSLPiC//GzF1iqXM1ZgK/thFShzCSLh0CYCJlok=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/surv
+ ey_camp.html
+SHA-256-Digest: ktbj48PmOXiNBuT3N0vGRGNvI9FKz3gRa0QhNxjlULM=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/theo
+ ry_designmachineelements.html
+SHA-256-Digest: bM9iCTlTlSpxUvXfsq2T0MyS67z/9/3ckU0V6n0YXuA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/5sem/trac
+ torsystems_control.html
+SHA-256-Digest: gucyk4hJbRH7WUt9PwNxiwisQQ6/wzoUEOa0Fe+mxH4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/FARM
+ STRUCTURES_BUILDINGTECH.html
+SHA-256-Digest: NJfEWAi/95QAdXVeveIYZ9tGTI8HiOX7WRdZcZ4Cz7E=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/desi
+ gn_structures.html
+SHA-256-Digest: oKLYEvHRRhIxYyvavZYVv/eubWs6EMUZ2WwYKUWTfKc=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/engi
+ neering_economics.html
+SHA-256-Digest: uJYQ6WO5kc0WowkLZNlCYSO5uTLcNIyLdJs5LFFJgks=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/fiel
+ doperation_maintainatractor.html
+SHA-256-Digest: qaZSzUNcBiZ8548TIJ0dDtm+g0onsdTMO3phj2gSAa4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/irri
+ gation_drainageengg.html
+SHA-256-Digest: TAH7381SX/0PUbLWePf4R3hekXvMb/n8/nCJgRxjE68=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/post
+ _harvestingengg.html
+SHA-256-Digest: xKN9Q33oY+iG1AvTLrD8wuLEwKrKwYhHDAw9678Kyic=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/6sem/soil
+ _waterconservengg.html
+SHA-256-Digest: Az7E4CwxP6SUp+aM0hYVYriqPWAwvHvC68X+sWqfTGA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/Elec
+ tiveI/Bio_energy_technologies.html
+SHA-256-Digest: +sTfSQKHeO8k2ECK1QgGIbFQwANHHBipwRXGQUYJF2M=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/Elec
+ tiveI/Farm_machinery_design.html
+SHA-256-Digest: W4g6Gv6/6G22+WvNVvrETQnU0zWUlcKSOyADesah7Ok=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/Elec
+ tiveI/planning_&_design_of_surface_irrigation_system.html
+SHA-256-Digest: 88fz0NX6RFOOCP5vYp3YWWiWzc1bmfxPIUQDc6nMaiA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/Elec
+ tiveI/watershed_management_&_planning.html
+SHA-256-Digest: MMES6O2pRC2Vpf4MmTVYfFSiiPKB5AwLQ5GKcA1fycM=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/agri
+ cultureproject_i.html
+SHA-256-Digest: rTjrr8l+6iPlimosmXR67VSeYpmg6YMZYkg59CpX0cY=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/dair
+ y_foodengg.html
+SHA-256-Digest: by4JTAb00DyL+4E+dkGem9b3eCANOyBgs0GArwfQHIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/elec
+ tiveI.html
+SHA-256-Digest: oxehHITldNQbV+l8SS7hVy7x3E6ZAJwIvjx1+NmOHUs=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/esti
+ mating_and_costing.html
+SHA-256-Digest: BeadmVNIpvqQ52DpZyLWmYtLl5AB0ixddJ0ViftE/JQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/grou
+ nd_water_development_and_tubewell_technology.html
+SHA-256-Digest: ukpyjD4h9/zrxpbCBCnSkxYtv+ksvnFqzedK/qEqSD8=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/proj
+ ect_engg.html
+SHA-256-Digest: Z4lgeUBUjUIS4MGbmqqrkUpzm9hgtGgGMyQthtRNRWg=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/7sem/rene
+ wable_energy_and_energy_conserversion_devices.html
+SHA-256-Digest: v9QXiXhx4xA78nyBjLP8iGkzC71w5W+xh9wWdb0f/LM=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveII/SOLAR_PHOTO_VOLTAIC_SYSTEM_AND_APPLICATION.html
+SHA-256-Digest: oDF58zYWfofM4WagaUFgfi3+w4AwuvP2ejpWGmXri8I=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveII/design_of_pressurized_and_micro_irrigation_system.html
+SHA-256-Digest: oWayeJ620mntMDAEyuyXjZtbt5MRwQIX3Vx/vUBRkIo=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveII/design_of_soil_&_water_conservation_structures.html
+SHA-256-Digest: LbjAD5H2U992qbDOjzTkDP17I6LcDvi/bPwefz2o/Ns=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveII/testing_&_evaluation_of_agricultural_machinery_&_tractor.html
+SHA-256-Digest: 1P0XmNwWdwHL7il19TD/xtnCoRRC8Se3pUchMoYrCSM=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveIII/REMOTE_SENSING_&_GEOGRAPHIC_INFORMATION_SYSTEM.html
+SHA-256-Digest: bKfNm5C3E4pokt3JLOW9OrG/+a7y8yDGUE3lPQmurNE=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveIII/SMALL_DAMS_&_RESERVOIRS.html
+SHA-256-Digest: Fwxb5J0pC9vvEfG/pxRE5IYkZTHesb/Ycp7cHPgULLc=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveIII/TILLAGE_TRACTION_&_LAND_DEVELOPMENT_MACHINERY.html
+SHA-256-Digest: 2DKsESPZRZRBAgZ3NpIPxvjF3+l4LfCWDFA28f3ADag=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/Elec
+ tiveIII/small_&_micro_hydropower_system.html
+SHA-256-Digest: BDHF+QeCfhBDdgOTih7gyIq5Ns1ExIVz+wipElyvzu4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/agri
+ culture_engineering_project_part_ii.html
+SHA-256-Digest: NsFxExN/IUl1SeJ+Z6vC32nJPFffP4IBd0ecehFdodw=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/agri
+ culture_extension_education_and_rural_development.html
+SHA-256-Digest: Ibd1uNcR3g5aHLo5oCrQDX7KvxS4iEaM+Fbdj7tVfyI=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/clim
+ ate_change_and_adaptation_measures.html
+SHA-256-Digest: rCQiCkB/eKbn3cOnu07EiuJxDT7mpxd7d2+KTnyNY+Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/elec
+ tiveII.html
+SHA-256-Digest: FyOpA4qLpcfKJ2SzxhovNk2g9XPcXLhcPqt8ET6OKi4=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/elec
+ tiveIII.html
+SHA-256-Digest: jAy5+jHLZobK+a09Oj9B5Xlykw4EiZa9ZjXMw+M199o=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/engi
+ neering_professional_practice.html
+SHA-256-Digest: G3uR+4sG9m5gYjh/Tn1vE/26SsbDP+tPKBVaAhsZS2U=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/fiel
+ d_industrial_training.html
+SHA-256-Digest: pBqS+4tBj5IyjgPqAVmwFlzI5bZu8MukJyJ16noYyW0=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/8sem/rura
+ l_engineering_and_infrastructure.html
+SHA-256-Digest: hXtsOdc3ankUNAwhxXHn/6bcOaF5XX7fL+Wt6CQ7qUA=
+
+Name: assets/flutter_assets/assets/html/syllabus/agriculture/index.htm
+ l
+SHA-256-Digest: mMDEh/lAs20Fm3Iy3Tm5n6qzy7a/HF+gfjFy+XJpqPo=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/10sem/th
+ esis_design.html
+SHA-256-Digest: y8ge9+Fi6FDGO+US9K7sdkyz+F7xmhNMBvDg4D2mugM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/app
+ lied_mechanics.html
+SHA-256-Digest: BlSX0cIhK5GcdLrtfSr91vi0e2JC2zPmdmLCzWNyTrA=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/bas
+ ic_design_i.html
+SHA-256-Digest: f4MwrUZeafzjOf6Qsr+2U5VRAwX5TCFrlLZo5aiYHKw=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/dra
+ fting_i.html
+SHA-256-Digest: DNdGAZ3AiQXteAfInsNK3ZnwUsxgf0mbGA6Qlgwo8B0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/fre
+ e_hand_sketching_i.html
+SHA-256-Digest: o9guvEcKCkYd1uM4eK3QJEwjds5GRxki4UDoc7w3l4k=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/int
+ roduction_to_architecture.html
+SHA-256-Digest: uBVlxJ5K3tFo7JRvS/tn+VOO9ESJSFnTAiR726/6OwU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/1sem/mat
+ h_i.html
+SHA-256-Digest: EmrLINTQhUqvAQ+uxImtT0XWuYL2PMBS2Qi1YXM8UO8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/art
+ s_and_graphic.html
+SHA-256-Digest: UFepmcW/MFjotuyyo9N3/c8lCX7lGybQAYMJVPDjxq0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/bas
+ ic_design_ii.html
+SHA-256-Digest: whuWEaGfUb9tCxxzUrNNIaD2Krq0QT6vdlVFNGFNHZc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/bas
+ ic_skills_workshop.html
+SHA-256-Digest: CI/5OBzTvskpXskqDECGif0BFyWm/udCm/F5KIjvvQc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/bui
+ lding_construction_i.html
+SHA-256-Digest: 8uwcabccrgVPehZlBxbQteH4ct4r8xBJ9Bx439XSr/M=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/bui
+ lding_materials_i.html
+SHA-256-Digest: knNMd5sGs7KOilAjANkS3dipVSNSq37lEI1b8iUXIyM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/dra
+ fting_ii.html
+SHA-256-Digest: +wiraj8bDiUQNWxf8MtaikCehOrNddTwvE3XGsInvSM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/eng
+ _math_ii.html
+SHA-256-Digest: AydLqHMDx7mwrtvG2afA5JkLfkPeDETEnUDthFi56GM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/2sem/fre
+ e_hand_sketching_II.html
+SHA-256-Digest: NBVCyXOyJH+BuV/W6UGwZY68uBVEKq/NFiLwMJVK+a4=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/bui
+ lding_construction_ii.html
+SHA-256-Digest: nFrE7EnJKh1hB+dKh51HmaekIKFwZzZSn+h1M9gBiBg=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/bui
+ lding_materials_ii.html
+SHA-256-Digest: NC9Bl4hKJC1NrVYI2w2QpVWhExrf+JQkd2+J5/xpNxU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/bui
+ lding_science_i.html
+SHA-256-Digest: ZUyj6xsdenKb2ugJAAYo5Ntxlfk9qsEK4oNfRjjVJ1U=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/des
+ ign_studio_iii.html
+SHA-256-Digest: 0XJzhyQCkKOgxiNcJU20rLjLLbCD4L2C9VY4UE3RY1Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/des
+ ign_theory_i.html
+SHA-256-Digest: qQuLOcCfe/IdZSbaRHtnVAMzSuQDLEYLuOWpHIJZAb0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/his
+ tory_of_architecture_i.html
+SHA-256-Digest: 53lzkCJc44rJV4WlI5XTz/ReVFrHLEhB5yXzsajRtKs=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/3sem/str
+ ucture_i.html
+SHA-256-Digest: I7IMwGInNfIFs+mnNDPO7LlqeBgzME+9zeMBgQY2mSI=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/bui
+ lding_construction_iii.html
+SHA-256-Digest: 1IgVI8MlYO8s1RzVic87450KEVgbGSjtqa3Cjqew7ug=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/des
+ ign_studio_iv.html
+SHA-256-Digest: pIgkU6HHe3pBj5/2VZ7gd0ZlidBKQC9/W+5K9VDJLuA=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/des
+ ign_theory_ii.html
+SHA-256-Digest: DqRDlzHo31aV6u03qW8B+oRotGIrSVve8s5vVGaQpf8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/his
+ tory_of_architecture_ii.html
+SHA-256-Digest: K5SnsjNXv0mqhSKtuc4uVcR/qUoX1hjv7GrXf66Gxv0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/str
+ ucture_ii.html
+SHA-256-Digest: z67ph8bNEsqS8cSkHkMaCW0THU+G8seh9xU6yrVUPUc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/4sem/sur
+ veying.html
+SHA-256-Digest: 2MeM1y/1pwM6ClyaXA8PM2v0cs4poC40EmFri86fwOM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/bui
+ lding_construction_iv.html
+SHA-256-Digest: ii7nuGxmpRR2FapCDTKe5kXhAoM09cEJWaQX2V7hRP8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/bui
+ lding_services_i.html
+SHA-256-Digest: oc8CTuIzgqHVku0h3hPdVbSAUNdoCGSe7dRzl6XAuIc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/com
+ puter_aided_design_and_drafting.html
+SHA-256-Digest: ku4gefTzxyW+CHKKM50N9U9a54Ugf4BbgDy/efroTs8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/con
+ temporary_architecture.html
+SHA-256-Digest: rkDNfu6qb/JMVNZBMIYmDMOQavZrfluAklXXFnQ0pz8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/des
+ ign_studio_v.html
+SHA-256-Digest: 4PSn9806Ucn+R4bpDr7seUl1VNT19Xb1Vbre4UGKNQw=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/5sem/wor
+ king_drawing.html
+SHA-256-Digest: GCVt9WnAV12qbLuoW7u82wuNsSzEPpjgdt/PLZqzzP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/bui
+ lding_economics.html
+SHA-256-Digest: WO4OKGI+7CR844jaiqpJu4ZuDU2Wp9UACKrgRvtv1ws=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/bui
+ lding_science_ii.html
+SHA-256-Digest: Wou1vnff4GyqHcV7r8NCsqE8zdVE9GZRMYTRBIy6o98=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/bui
+ lding_services_ii.html
+SHA-256-Digest: rgZcnDYdzNOurWlAx1QSbEwVP7nVObeAOX17TgzDLyM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/des
+ ign_studio_vi.html
+SHA-256-Digest: scwTLRWn99QeNJ1SmmKqg3V5vPL7vKVQYZM+YqXuhGk=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/est
+ imating_and_costing.html
+SHA-256-Digest: wQMyx0VFvyu+ZhrblTEvyQClDRcp3KO40q/9vAwlnZM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/soc
+ iology.html
+SHA-256-Digest: cjWbLUjFQiXBhSmPzDtUFzkINwy3YHrMnILPYjbGBpE=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/spe
+ cifications.html
+SHA-256-Digest: Va7hK5ITfXzfNqqfyvoefJjCSkFUrzOFd5sn/OCFLIo=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/str
+ ucture_iii.html
+SHA-256-Digest: hZAe9dDLcqEhVoFsn3IXjt5P6htcX/NCa2gyebmRxC8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/6sem/urb
+ an_and_settlement_planning.html
+SHA-256-Digest: CM9Ra6c4VX6c75qDXtRCXn1hP5CmgW6LK2IDRS/JnEc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/7sem/pra
+ cticum.html
+SHA-256-Digest: /oSdO+QIsD6BqVthDa18/Y3UQr+pnVyL9Zk5KeG+Tg8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/Ele
+ ctiveI/advance_computer_aided_architectural_graphics.html
+SHA-256-Digest: Y3AZiBqYSyLk3xN0a5rBIIxLWtjPVwmGLM678H32f0k=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/Ele
+ ctiveI/disaster_risk_management.html
+SHA-256-Digest: UV3YGze/7vnmbGoq9utR8QuWzQ9THDCmeey6vSRsU20=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/Ele
+ ctiveI/interior_design.html
+SHA-256-Digest: OD78em3gkrimJ/eZxhK0yhksfdBdCYP9cmNOwKWo3YY=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/Ele
+ ctiveI/low_cost_housing.html
+SHA-256-Digest: bgxX+ziTO4xJ5KVsFZQFLwjTB8jzQHHcbDznlIPOkGU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/Ele
+ ctiveI/passive_solar_architecture.html
+SHA-256-Digest: rXf1lQZNzLV8aEhgA3inVzITNIDbUpBv9l6TCCpbdWk=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/arc
+ hitectural_conservation.html
+SHA-256-Digest: VrMzcx80CnlX3ySlqpXbLsTCFkeQMQTaeicP5jFPZ6E=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/bui
+ lding_services_iii.html
+SHA-256-Digest: F/3GfpS50ViBHVQ0KPotBOGmVhqyBp2A9nI8WF46yFg=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/com
+ munication.html
+SHA-256-Digest: fgrh4L3+OHRfpKnZW9WeSUl54Ls1S8uR3IJ4URB2YTU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/con
+ struction_management.html
+SHA-256-Digest: EJuO135VRioy/4b/H679KGiFaRYhLssyxI6c5rQNnC0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/des
+ ign_studio_vii.html
+SHA-256-Digest: cGdRKAGSGi0ZM68C+c7H62XW/XrxAN+x6FagpsAeE/0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/e1.
+ html
+SHA-256-Digest: ifINjd1+XOsXDK9Ptmo+MxGoc4sPRMXv2Dr4Dkoc2WI=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/8sem/str
+ ucture_iv.html
+SHA-256-Digest: Hiji188JM17CtRsm2ILu1wJeREE4hDVMKc0Cdt2v9CI=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/Ele
+ ctiveII/energy_efficient_building_design.html
+SHA-256-Digest: lJAjbLYsZ65NbtlC9bnh2mX+RhsHB4GsvcJYYrao5oU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/Ele
+ ctiveII/geographic_information_system.html
+SHA-256-Digest: 1W56lKDl7PCAZn0GoHiZG7Wfri2bFIG6jm/CP1n93uc=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/Ele
+ ctiveII/green_building_design.html
+SHA-256-Digest: LkTfOexYx2bU9NrgQGD3tmprhDVOCioPPBLpJAKSM/Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/Ele
+ ctiveII/housing.html
+SHA-256-Digest: pwe7KXcQP3M/Y/EqdahzEr2PdSklGRC6csAOrluc9tQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/Ele
+ ctiveII/vernacular_architecture.html
+SHA-256-Digest: g7y9gwKpiOjOmNPknSahuXcMkGKjpi4h2Lwl8zZO3d8=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/des
+ ign_studio_viii.html
+SHA-256-Digest: QE+QwOMt0+aQ47cONGaIYhACEfo5i/4lGC7U0m1D6NU=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/e2.
+ html
+SHA-256-Digest: qx5FqwggPt/J0Ys6YX8MgC8yDHmXJKFFdlX8xROOxRs=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/lan
+ dscape_design_and_site_planning.html
+SHA-256-Digest: zfFcZ9GG0irNoha2o8OYOyvGmLpvqZGnOEfb1AHMZFM=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/pro
+ fessional_practice.html
+SHA-256-Digest: RJxvFoPn97yssKlg1qUWXUo0i3E8EhK9NlDiq+L6My0=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/sem
+ inar_directed_studies.html
+SHA-256-Digest: ATW6Ls7IeNjaelpKnAYk3N0th2nEpV7guDIruS/hi6Y=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/9sem/the
+ sis_proposal_and_research.html
+SHA-256-Digest: uL7ypqT6ltUBkuG8tO+ZqrDTiL1Q38zFohFyKxQOTZk=
+
+Name: assets/flutter_assets/assets/html/syllabus/architecture/index.ht
+ ml
+SHA-256-Digest: ZMYP5aL8Lhto2MO2Aw3ZtjhdUSDX2/P1a/yM9Kg0nWs=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/appli
+ ed_mechanics.html
+SHA-256-Digest: 3vLxrqIoF+8TDIZpKQeS3P7GDBTf4pgNc+3NtNImsO0=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/basic
+ _electrical_eng.html
+SHA-256-Digest: 8zxoh2L49qBAqnluR8hcQAzg39QKrfeGYFnek9cGyD4=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/c_pro
+ gramming.html
+SHA-256-Digest: ml5Z2uR/i7ii2siq5MZG8BeiqAY1zY1OsXK/VXuIo2E=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/drawi
+ ng_i.html
+SHA-256-Digest: vwrS56jZhQOhfhesBM+oDeP0fmAEFOpvtKFTvlTX748=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/eng_p
+ hysics.html
+SHA-256-Digest: Ag5D/ejKuMu+DddpNivuH7i7tua1tTggmA5A053ZOpI=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/1sem/math_
+ i.html
+SHA-256-Digest: WBupY3h7F8SsbUClPHqSgKjG/cHL5VB8MIsFmLxotvE=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/basic
+ _electronics.html
+SHA-256-Digest: 12cgT9qEbEsrHHlMRODirptGWAgdnGjkurqL6RXvukY=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/eng_c
+ hemistry.html
+SHA-256-Digest: 2FQnShyt2brW6UEPK4GD90WLHRUrYeWTRY3dXKEujK0=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/eng_d
+ rawing_ii.html
+SHA-256-Digest: TUVb+Fn24rZbVo7pK6lHj+JcqNVYmPWwAuAq7rBB68E=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/eng_m
+ ath_ii.html
+SHA-256-Digest: vCbVzzBUqhZ9jP5zzdqUd0mvAjMPA/QhrAj3tfSu/OM=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/funda
+ mental_of_heat_transfer.html
+SHA-256-Digest: wSnr4fMBBXacqEG6fzThjQJjo/3QvCOjb8+nr3XUbeU=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/2sem/works
+ hop_technology.html
+SHA-256-Digest: 7NWt21zRe1wsjTekXM/HG+oAETE24sREqrPUC/Lq9zc=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/appli
+ ed_thermodynamics_&_heat_transfer.html
+SHA-256-Digest: HK+3zmzCk0ogRioNGdPvWI6UxziZxGg9WXmFCSLvwKI=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/compu
+ ter_aided_drawing.html
+SHA-256-Digest: r0JXMEzyAIGbRvPKT+HRSCO3+ksNXVm4FD0I2daQhzw=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/eng_m
+ ath_iii.html
+SHA-256-Digest: 8jRA2LDgcbpacDexsRVVE36LX2nUFkASE9C5YPHjH2o=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/engin
+ eering_mechanics.html
+SHA-256-Digest: FJ5/IW23jqm5MQoPZCbeRlPmJXRYinG19BcAA8cpDDQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/mater
+ ial_science.html
+SHA-256-Digest: P3pS6nv9lrKwf5dR7/ODDxyn7mNF8RNekhA9sAw6tlU=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/3sem/metro
+ logy.html
+SHA-256-Digest: PCra/cVTYlhMp4GmaKoUjkN2JDcaWwtrbj4UHzu89DE=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/autom
+ obile_engines.html
+SHA-256-Digest: J1UMQxKJl6J2Mpa7mzwPXIsED0qS5tBgTkkhj52ffoI=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/elect
+ rical_machines.html
+SHA-256-Digest: Dbl66S6XOoGgvpXAr1d6kFSpw1caN4k1QUTKYTt8Pdo=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/instr
+ umentation_and_measurement.html
+SHA-256-Digest: JoGqEDhGp9v1EIopQl3h+J7e6NwKnLNPx5F3ihXdGwA=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/manuf
+ acturing_and_production_processes.html
+SHA-256-Digest: Vm58wKU2AM6gtHK/2QFyMX1Ut1ZPFEj8mAUDJOoDsDU=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/mecha
+ nics_of_materials.html
+SHA-256-Digest: IYC6chHjPpx7q9r8dP/VXiquAHcBDrytLe1+AN9dV9o=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/4sem/proba
+ bility_stats.html
+SHA-256-Digest: 5EUyd9JPScRjrQlhc2hZv+D8kDVA41wo92afFMjtgTY=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/autom
+ obile_chassis.html
+SHA-256-Digest: jevbSxjKUcEzNfQEE4fPcY3tKMl3bNlIJCJmTv8s19Y=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/autom
+ obile_component_design_i.html
+SHA-256-Digest: DMAZYvOu4tW4RJzIOlzbxfhxp36WPYlWROEMP7S/5j8=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/contr
+ ol_system.html
+SHA-256-Digest: y8+VfThL9sBaCGniAguhb4NAcYS4UPc0Jpkl/kG5+RE=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/numer
+ ical_methods.html
+SHA-256-Digest: 9mJ8LOzo81kpu31DIx2QwHpcisJMemibk1+DWQbWPks=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/organ
+ ization_and_management.html
+SHA-256-Digest: DcDJVR8YXkcCoq9Sb0aqPXW2kpQvatMtv1fjOmvvy3U=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/5sem/theor
+ y_of_mechanism_and_machine.html
+SHA-256-Digest: miRJ+DoDdvKk7MuYRCDM2PsHbilDTMz5PHer1VXYZzc=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/autom
+ obile_component_design_ii.html
+SHA-256-Digest: 2yy7ugT+0ySBnHOAd7ZqATNcRQVALZhzH1np8dgB0Vs=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/commu
+ nication_english.html
+SHA-256-Digest: XbBWgeUnlFg517yKLH5Gey5b5xnZoSzghIGJb107vB8=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/engin
+ e_combustion_and_pollution_control.html
+SHA-256-Digest: MeRB2CnV6s797sojDB2nRjU9Glby7r2G1OGGsGAgB0w=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/fluid
+ _mechanics_and_machine.html
+SHA-256-Digest: vYB4ec52RpH8/UilpuQmK+1W0BHGJUWtduBRxWYfZJs=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/indus
+ trial_engineering_and_management.html
+SHA-256-Digest: /Xh2BwOFJoA8Qi5Md0EeTCv7LRxU1KN0mw7nMnM+cw0=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/6sem/road_
+ transport_management.html
+SHA-256-Digest: pfuoSOul0nGAKVugbrejtm3UN9ekOW5I3MkF4niC9uw=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/autom
+ obile_electrical_and_electronics.html
+SHA-256-Digest: NdlILN0v3WaHwLq0AYMtq4BtUm8+lSZK8K9vrPIWMxs=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/const
+ ruction_equipment.html
+SHA-256-Digest: 7HWeDlj3Yq8/26ThOtpoMYJ4ijTMcMcSSzU8jLS/K48=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/e1.ht
+ ml
+SHA-256-Digest: M1CIEGjcXAz4Z7UsSi2r8dHIEHSIXZvebpcxbhbPz68=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/e1/au
+ tomobile_air_conditioning_system.html
+SHA-256-Digest: ZYqo4hzBsJWH2dcgerSWlHM2r2TRcEB+IO24L2YA1as=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/e1/fi
+ nite_element_method.html
+SHA-256-Digest: mJH/7w5/f9xE3NXsY0XeZcwE72epsoUmQw4wCDWq6Ko=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/engin
+ eering_economics.html
+SHA-256-Digest: E6g035i5e9uGyRv7qu58hHJFpJTajjLgWd5tFqEvAR0=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/indus
+ trial_attachment.html
+SHA-256-Digest: lm+mjzw0eQSRDxKKHG/eZEwaNaQCevZ+QLF6eWWihk0=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/proje
+ ct_i.html
+SHA-256-Digest: lxRbnkZW7jbuFdraovGe2Nts3GLnx6sl5yep2g9IsPY=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/7sem/vehic
+ le_dynamics.html
+SHA-256-Digest: pmCO++dKg2Cpk2Ty6Hvv9WVoa2tOK3OeqJcOqBgyTGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/autom
+ obile_maintenance_and_repair.html
+SHA-256-Digest: UI7IP/FAkdPicyi1ogfizf7IPtbiFSGgrSFhEeDL5Q8=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e2.ht
+ ml
+SHA-256-Digest: aS05wMw8Y9sYwG23LuQjfCQoXSDxP1BnLprUKmyoWY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e2/op
+ erations_research.html
+SHA-256-Digest: pB5PdaAvZzB+bInF7xv41Aahu73YJD+qLgAS39JXHQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e2/ve
+ hicle_body_engineering_and_safety.html
+SHA-256-Digest: Nl2t0+blbiZ1DuezZgcXoT+zzJyWI9Klq1K6KsuqSnA=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e3.ht
+ ml
+SHA-256-Digest: r5UOiLAZ5rsqE1Pmb7T09byyvazi+utlq+wGSKK5WZE=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e3/al
+ ternative_fuels_and_vehicles.html
+SHA-256-Digest: jxNG4BMo3zDrQGnQgqFPcMfPYArF7OpgGM+YM9oldsE=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e3/qu
+ ality_management.html
+SHA-256-Digest: F9Ks210hNl1R6G1IZ/L6GKrKWZlM9TeERBv6LWz8V+I=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/e3/sy
+ stem_design_and_simulation.html
+SHA-256-Digest: 0Jeg/Mm7rWouUjXEkL1aD5yRuA9U9a+j29s5ZSvlzbI=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/engin
+ eering_professional_practice.html
+SHA-256-Digest: QDKM+NfdMIgclhCbdf0OD6kE9/c0InCbRcNB+AZm5Xc=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/proje
+ ct_enginering.html
+SHA-256-Digest: TtYL0Ldfb5wpMAKSyhEluVSYHNQz/BliehdSb0syfyg=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/8sem/proje
+ ct_ii.html
+SHA-256-Digest: PquMHkqEcZ8Ii2HIZjmnGZxAdqDndMkryNtdF3Lsc9E=
+
+Name: assets/flutter_assets/assets/html/syllabus/automobile/index.html
+SHA-256-Digest: 9naaOVOTJ7EtJzPvdu4Feey1Kgw/jrc5T3fiIofuak4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/c_programm
+ ing.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/drawing_i.
+ html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/eng_chemis
+ try.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/fundamenta
+ l_of_heat_transfer.html
+SHA-256-Digest: 6xBwkisRh32oQwWGpPpoKoH350L3A3jmL78Oa37VeVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/math_i.htm
+ l
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/1sem/workshop_t
+ echnology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/applied_me
+ chanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/basic_elec
+ trical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/basic_elec
+ tronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/eng_drawin
+ g_ii.html
+SHA-256-Digest: xgu7pQbXrALUmvrkdPS27AzeiF0cU2/mKXjFAFEl0qQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/eng_math_i
+ i.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/2sem/eng_physic
+ s.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/applied_me
+ chanics(dynamics).html
+SHA-256-Digest: yRjLpdPzHcnLDFA984h3TiFuywRg3gE/+lB6b3LNfx4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/civil_engi
+ neering_materials.html
+SHA-256-Digest: 7ZsuDlZny26+TAuvPb2Qc6oTToGGg1PYMY2bNBaqbn8=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/eng_geolog
+ y_i.html
+SHA-256-Digest: 6j3sfXXmEIpHAUdkyexzwHeutmFlvlhHqBnZrKgqTQs=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/eng_math_i
+ ii.html
+SHA-256-Digest: vZ5yRTfLPxaGgDtoPXp5xuftzGYa/dhWTh4a06hJ4d0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/fluid_mech
+ anics.html
+SHA-256-Digest: 2Rxz5e+eOouNUJ8sKvswZ3eO+d73XkL2hYVDbs5Vawk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/strength_o
+ f_materials.html
+SHA-256-Digest: wvNBGPPgKkyTRftWry6vpwrMPE8xNyH0CoDTCZxJdso=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/3sem/surveying_
+ i.html
+SHA-256-Digest: 4vxd2hJnYsiKVcyFAjiA7LXTSklELKLX/cNI9xiak7c=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/Hydraulics
+ .html
+SHA-256-Digest: FuyNFagpTBYRst2BcL5UC2454qmCT4madwJK4hvPzOE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/building_d
+ rawing.html
+SHA-256-Digest: VTDzgoRgbAtOBQatfH7wyWBOr1AvFRfrqcglUm4f0FI=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/eng_geolog
+ y_ii.html
+SHA-256-Digest: NUOy98t26XJbGfvmDzbXnSOD1MNNCGo2XNsIowagJSA=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/probabilit
+ y_stats.html
+SHA-256-Digest: hfSFMgPz0uqbX5siCVOwqOnJz3tvN3lfennmmXfTFcQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/soil_mecha
+ nics.html
+SHA-256-Digest: TMOe42hfiKJWe4fVy2fk2n7y9PBqw0fm5YplFKWtaXQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/surveying_
+ ii.html
+SHA-256-Digest: +RPJ4svg48+h2NCkk7o5HJmSZAnjNSKfjvv6/h/WsPc=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/4sem/theory_of_
+ structures_of_i.html
+SHA-256-Digest: aR68BUx9ygy6zJ5IgGYWXpqoVJBwfjdK0NewF9U6XnY=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/concrete_t
+ echnology_and_masonry_structure.html
+SHA-256-Digest: raCX70a82FvBQRM/R1YQcCezMnWTnz0EcGWZ1s3UiDk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/eng_hydrol
+ ogy.html
+SHA-256-Digest: xxn7Wbi2sQse1uCGi8wJukXxmyiUhxYfZt6HovmGga4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/foundation
+ _eng.html
+SHA-256-Digest: 9enlQb33P6hR1dUjYm1LhcbddfnQlNNwJNHxCNiTsVo=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/numerical_
+ methods.html
+SHA-256-Digest: FHD5NVUdJLPFe5NeWkyr8iwty5dbk+PdrWtwL5+trWM=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/survey_cam
+ p.html
+SHA-256-Digest: MIun51SQK656BupTtOFop9wz+dI4FmBWWMqOmeKg26A=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/theory_of_
+ structures_of_ii.html
+SHA-256-Digest: 23G8UC8eJUkLeQytq+OVw76nSex6W/UGJxEK0O44aKA=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/5sem/water_supp
+ ly_eng.html
+SHA-256-Digest: gLA4WavQjY4Z/212F7bPxh9ovcYkHaHxPxHtx1Wx1hg=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/building_t
+ echnology.html
+SHA-256-Digest: YKws6yvCasGZJk+ZCClo5ef+9hfS3p+sElcOYEp82v4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/communicat
+ ion_english.html
+SHA-256-Digest: mhdAJ6X9iWc5y/6U/wVLh3w2cJLs+iRQDi/6shGLKP0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/design_of_
+ steel_and_timber_structure.html
+SHA-256-Digest: FJVWiKBnbbilu7I8Qwsz9kRb09CRK2PihjMQp7wbEV4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/engineerin
+ g_economics.html
+SHA-256-Digest: 18U5ySSHm5JAMNRmIV6fXD1cPrBLfGiH+/QPEy9kI6w=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/irrigation
+ _and_drainage.html
+SHA-256-Digest: s2M7vMGMFrE9KMBCCXfTxgRwKyQ0LxOogx3lCE84JTU=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/sanitary_e
+ ng.html
+SHA-256-Digest: kLG9HlGHcaQ5d8i0hkm6AW4km6Z3QN4xeI1UIOJ8Mew=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/6sem/transporta
+ tion_eng.html
+SHA-256-Digest: S/nyh5873FSOI8kAyJsLPybAVbmcO/VT1EgS2MGZGY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/design_of_
+ rcc_structure.html
+SHA-256-Digest: MgcIr90xAuvgQ9scGfBIjmIhlLyPbXqMw2oZzA7rcGQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1.html
+SHA-256-Digest: ivocWh5eK7V3ukffTgYFyfgOCWOJCm1PE1aP6RkEWZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/bio_eng
+ ineering.html
+SHA-256-Digest: nIQO6Klsb9eSAhep5A4YdBw4GOEloJp8aOC9crKWS7g=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/communi
+ ty_development.html
+SHA-256-Digest: XNIa2rYPWBpk3uQ/Hn2HsDZ4ceZVzRPUggiJMUqYim8=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/earth_h
+ azard.html
+SHA-256-Digest: uS3E1safDnhwze7FfAUfZvG6MAz24d0occoKsXGJFEQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/rock_en
+ gineering.html
+SHA-256-Digest: 5a8C1yNdUOMYJYwgxMoum18/N3aRtfnUel6f04SeXP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/ropeway
+ _engineering.html
+SHA-256-Digest: LkZ8l9HUxQSspd3LEZzw1WjtIl8BlR2rRdn1br0zZX0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/seismic
+ _resistant_design_of_masonry_Structure.html
+SHA-256-Digest: cO8YoWEnNx+D3w2T3jwIUd2KotkOjJjKn28wFOt1hzo=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/soil_co
+ nservation_&_watershed_management.html
+SHA-256-Digest: I5jjlMykOqmsA3kO5E9Gtgkshb+zJMJs4NHnK8508l4=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/solid_w
+ aste_management.html
+SHA-256-Digest: JwlYaMTf+q5LwV21HI9r7b/gHzptoyKJhVz9Dq9Mf0U=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/structu
+ ral_dynamics.html
+SHA-256-Digest: ZY3vrPDlmRHrpDDIBnLzpdUEOFJhBG9xUOCCZlx+myc=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/trail_s
+ uspension_bridge.html
+SHA-256-Digest: GafOwemJQtKAZ2vb8mohUhxvbws9Qmak6KWfsn5va54=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/transpo
+ rtation_planning_&_engineering.html
+SHA-256-Digest: ltE4w6HpMD2IhhwLuDIQRFhK3R3me9OinSwhxwl1lSY=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/e1/water_&
+ _wastewater_quality_analysis.html
+SHA-256-Digest: 5E85JGQ9pD90TaJJ0LXWcOSXlOPRV59fLAyJauprOBw=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/estimating
+ _and_costing.html
+SHA-256-Digest: juHwieD1nTStDzccJLrUXUFovbrJhBxmKohXssr7YHE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/hydropower
+ _eng.html
+SHA-256-Digest: D8vMx4ckAXRdoGhuG7XZznVVIoKzkoA+w551qaI7p3c=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/project_en
+ gineering.html
+SHA-256-Digest: lcqyoXmWL36/fqzpDw/sCmsGJlvGweRn4KRp4dQ70ks=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/project_i.
+ html
+SHA-256-Digest: TVARq/0aZT1PNg2TNamnz6JsYf+jlNZK9TEak3t5GiE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/7sem/transporta
+ tion_eng_ii.html
+SHA-256-Digest: IkPFteLTfztUKugpN5ryRhdq37uXGa+ISHVqPWAbckE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/computatio
+ nal_techniques_in_civil_eng.html
+SHA-256-Digest: HZhD6H9ym31J3cv0+P6ZnbyWfIyTlEQLwjjRM9xDa+U=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/constructi
+ on_management.html
+SHA-256-Digest: I2OjWOlbokcXY/TA1KTGVa0abJuscUHS6oiCkW7ECBY=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2.html
+SHA-256-Digest: vg4rMH4707oVuU5nZVHlYyAaj/CJXLav/QeYeVARFmw=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/advance
+ d_geotechnical_engineering.html
+SHA-256-Digest: Ra3p9W+oXEP1O/sKFkXVCO2DlLhm7Tlbfe+iwd3+w/k=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/climate
+ _change.html
+SHA-256-Digest: 3on/HnQMInoMh+8iN+JD8FI7v96v3jevNQhIoBpER6w=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/design_
+ of_bridges.html
+SHA-256-Digest: 08Iry21+Iq8/M12ztpBXad39XA3Vgb79V/3Fd3Kmy3M=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/domesti
+ c_water_&_waste_water_engineering.html
+SHA-256-Digest: wqz6XbwFRrM4+Y+IbuPkjDEiOO0FCXJBGecXJyNJ7GU=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/earthqu
+ ake_resistant_design_of_structures.html
+SHA-256-Digest: zu7qjBCtzjcunHT8Bfz8y21UKIZs040qBAZXkUG7TBc=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/environ
+ mental_management_system.html
+SHA-256-Digest: XkDI252WSqXg8YxSiqB1S+5iea1isl208bStVg0kO1Y=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/geo_tec
+ hnical_earthquake.html
+SHA-256-Digest: 4NOtx4ShWTuUvVXwQff3ItwtV3Pt0oepHlZH/X3Zp1g=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/groundw
+ ater_engineering.html
+SHA-256-Digest: myeoHBh73emqXJiCFHTuTW+ZjqVa0WtmPhsElgb/KU0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/hill_ir
+ rigation_engoineering.html
+SHA-256-Digest: uTiJ2XyTcoSeq+Uw+JrHNbor404HD59XDVu00qVEjPg=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/introdu
+ ction_to_prestressed_concrete_analysis.html
+SHA-256-Digest: 3pQ/EaSBn9aWhLKrtJElyaHyyyC9DrycLydw73SSHR0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/post_di
+ saster_water_&_sanitation_management.html
+SHA-256-Digest: xtydYQBdmJQbZ+GKg0b3p2/kBIaHL9dHm38WrvzgpMk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/public_
+ health_&_risk_assessment.html
+SHA-256-Digest: eLZ04GehqtZvsrX64fjd/EF1Qy4Mllx32NP0tDCWemM=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/rock_me
+ chanics.html
+SHA-256-Digest: ztl3gwcfLcCxag25Ny1WRQOxpfWgS5361ZbXMfB0nbI=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/rock_sl
+ ope_engineering.html
+SHA-256-Digest: 189KBCgLUcEsq8cb1R6k5pLpjmisCaemo8zEpuCEirk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/rural_r
+ oad_engineering.html
+SHA-256-Digest: /Pe3vz5qsDoWpmxXShCU47uX4KGX5ykd5fmF1yYXoXw=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/seismic
+ _risk_assessment.html
+SHA-256-Digest: p/CCR8KhgdhGiatuXbkjaWyvBFdn8TyLKDwDwEg0cPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/structu
+ ral_reliability.html
+SHA-256-Digest: CSSxfnpYvvtj829YtICUXVWTdZV/ESTH1f9/xvGlosU=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/traffic
+ _and_transport_modeling.html
+SHA-256-Digest: frMPpVPS9sAemoie9B/LAKYYHS06O3iZk/p7zayKcsk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/traffic
+ _engineering_&_managment.html
+SHA-256-Digest: ROGENDWzQ1uJDI7ZeD9Ff5jbQ6tWo+a576ZlhFYcC9w=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/vulnear
+ bility_assessment_&_retrofitting.html
+SHA-256-Digest: xEAtxm0eG1iWW4c0QXMkt1GeK8vLtr1GLZ1DQ1NC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e2/water_q
+ uality_management.html
+SHA-256-Digest: jneWLnZNOVIjCHvEO9BgYdaL4uWHhNd/xhr5fBMVISo=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3.html
+SHA-256-Digest: QN1PyQYn2wbN7rPztD4hyzfLIUnxyla2KjeYGP2wXSg=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/constru
+ ction-safety_management.html
+SHA-256-Digest: 9waAjmelKOlr1WmwaA/a9EJ4ymBH37N4ULXur0XO+4c=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/disaste
+ r_risk_management.html
+SHA-256-Digest: MB8w1zzxt4AlWDqBBTYAHDs85NzO1LtvMVQyGjaGBrk=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/environ
+ memtal_impact_assessment.html
+SHA-256-Digest: DCT0xUfY/OBbjpuwguugOEsSOmaxrH0rmMTka5YoHk0=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/gis_rem
+ ote_sensing.html
+SHA-256-Digest: 3Z13H+Y2imqncxzVTc8DxlhG/clzicogPssfpkcjPBE=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/procure
+ ment_management.html
+SHA-256-Digest: 24UYZoFvYxe/3eyM2oTN54YwdhBtVpwevkZpwE0/m70=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/e3/time_se
+ ries_analysis.html
+SHA-256-Digest: e70JI7mGaDk7LKxXdeiU+jUc12+6WEdffXDPjk/nB+k=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/engineerin
+ g_professional_practice.html
+SHA-256-Digest: Mv0zyvTS9irOdIMjVwstjgAOAqDC3f63kjAihuKFndM=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/project_ii
+ .html
+SHA-256-Digest: GtJ2IEIEpmEZJGcS7CYt1nRSfsuV7K/TXP98TFGhDOo=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/8sem/technology
+ _environment_and_society.html
+SHA-256-Digest: ymYo97ShYzMV74pyb3rqj/ZBbJqip2jZQrkDrlkjAwM=
+
+Name: assets/flutter_assets/assets/html/syllabus/civil/index.html
+SHA-256-Digest: mnJoyw2aDNFv5vKYx/ntl6/ELylmIfSxbTrgDDPBjG8=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/applied
+ _mechanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/basic_e
+ lectrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/c_progr
+ amming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/drawing
+ _i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/eng_phy
+ sics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/1sem/math_i.
+ html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/basic_e
+ lectronics.html
+SHA-256-Digest: NpzvfIEloXBy8tdqIDY6S6UrWfUgAHY4pcCGIXdS20E=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/eng_che
+ mistry.html
+SHA-256-Digest: Ilxh1peO77SuEbAmZsCV6KOYVICW/rYf7NX4ZofOEv8=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/eng_dra
+ wing_ii.html
+SHA-256-Digest: PI6X9DK2x+alKNy0XEMi4bAS9aPWNCaA+CL9EL3zf0Y=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/eng_mat
+ h_ii.html
+SHA-256-Digest: 5itS4ZKHHAdN3HwNhiN0Jw/18G2SIBJkVkzkerhxfbw=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/fundame
+ ntal_of_heat_transfer.html
+SHA-256-Digest: 6xBwkisRh32oQwWGpPpoKoH350L3A3jmL78Oa37VeVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/2sem/worksho
+ p_technology.html
+SHA-256-Digest: jBni/8Z7fKVXIeFyRv0INr/9B+uH4iEg6K5N5qz1Zbg=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/digital
+ _logic.html
+SHA-256-Digest: D2K6mdtyhYunyzAmB7jaFT2Oh5y9b8PU8buRRA3bd1M=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/electri
+ c_circuit_theory.html
+SHA-256-Digest: Jpw6jt5QN2NGCVzW4yjCAzvOLbebEQT1cWCo2cAt+XU=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/electro
+ magnetics.html
+SHA-256-Digest: pWzzO7xLvK6ZRuJKx+7tyibhboHu2y0p9WJ7KiiEE1Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/electro
+ nic_devices_and_circuits.html
+SHA-256-Digest: ZHRcA2gayuHD2FX6jO98E/KlbjL0PEST+YZhDanjwkI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/eng_mat
+ h_iii.html
+SHA-256-Digest: R/wzkOJkb/5V9ThWrPocX6755Z89rD1AZlCHkxhcX9g=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/object_
+ oriented_programming.html
+SHA-256-Digest: YODqvNuc3GZGLkMyjz8EQYIU028iNKI6qbEhLSFq7P4=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/3sem/theory_
+ of_computation.html
+SHA-256-Digest: fRENDszi1w+3hMUHRqDpIwTeJF5y17m7eHkWji4+hrk=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/applied
+ _mathematics.html
+SHA-256-Digest: N33Dw+tkR7L4wp/f/h3Vji6gxPccuntam+OtLHxmGsE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/data_st
+ ructure_and_algorithm.html
+SHA-256-Digest: mcfXx4hFmGITNxOkkj3MVSUjyAHrybs/qWreUtBGoQA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/discret
+ e_structure.html
+SHA-256-Digest: KDMnSIV8CcGigXaJRxDK/OASClB1ekZ2BSFUYf/om60=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/electri
+ cal_machines.html
+SHA-256-Digest: hOgeT1ilz9T86VKGVcbmTD+3eJqOFAo0i2vB1BVk1cg=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/instrum
+ entation_i.html
+SHA-256-Digest: XQG96eoipe0TjP2CYXMSqMToZiDBOtyCwe0YPyxMgHQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/micropr
+ ocessor.html
+SHA-256-Digest: bsAgO68hIpUKWHC/SoxsLHb0wjZyGGDxGZYmGV3L/WQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/4sem/numeric
+ al_methods.html
+SHA-256-Digest: sZGuKuJjNUoSnkp6g+SECuwKzMySOaNZXHzYkJJIkNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/communi
+ cation_english.html
+SHA-256-Digest: G8Ib6bgTxC08H2aZ8jMPaxxpdg1YFC3xVUVOLl3qrNI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/compute
+ r_graphics.html
+SHA-256-Digest: a9XMCxQwPgfq0Iq175lrxTc/ZEqJcUUdwJQQWjP5pqE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/compute
+ r_organization_and_architecture.html
+SHA-256-Digest: 3t/8PXfoIfR7qM1aEDriJEiGHL3QscGK/JkQPQkcUas=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/data_co
+ mmunication.html
+SHA-256-Digest: Ks4Omb5sM+pEnP5TJKxFuBwccRXD7woBb9drftDc7y4=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/instrum
+ entation_ii.html
+SHA-256-Digest: kWQc29Dpt9yZcXS0nVCSuLmavDbZZI1BKumFlx+HqK4=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/probabi
+ lity_stats.html
+SHA-256-Digest: Nr3uNYJS1jrt78N5RI3ULUaffb7gHlq7/XDyWZTv1cA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/5sem/softwar
+ e_engineering.html
+SHA-256-Digest: fU40vTDWQ8qoqEaB4di72jTe7XDucJ/bjsImaJqVdk0=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/artific
+ ial_intelligence.html
+SHA-256-Digest: PLBeHtDfuLSwJ4UPl/qtWzRz27sp8PIUyoAWimmtP3M=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/databas
+ e_management_system.html
+SHA-256-Digest: a/0HUgg3VdQuU+PbgZMbiSQsycnKx360MOuGLXue35s=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/embedde
+ d_system.html
+SHA-256-Digest: EpE4DQZdsv6mq1Gtgn/8fS3EEXyj27xPmI7RDJdd50Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/enginee
+ ring_economics.html
+SHA-256-Digest: 74x0esa8OYPnNHDwCOu1yprZF5fCiMuCBV5JUf7cv4k=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/minor_p
+ roject_bct.html
+SHA-256-Digest: mJtrUqGrSsDcoOiDrhJq3nYby4r2h2I4/F9LjKum6xU=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/object_
+ oriented_analysis_and_design.html
+SHA-256-Digest: Nk+nls+J/t2QJwxVpW2rm/YdaWkV922e+d2X991IcHQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/6sem/operati
+ ng_system.html
+SHA-256-Digest: K4O4Q3eIls6jcY3/YjiK6tmmNcdq2td8D5mWBkbVNbg=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/AdvancedJavaProgramming.html
+SHA-256-Digest: /WF+GO455jVArqHvH+Il8N6bXlggS6vrpr/yt5C8ppg=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/Aeronautical_Telecommunication.html
+SHA-256-Digest: xRMpVqXIqw9lc8fbiKNp5bIIPCsB7e4oMz5spBcWqhA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/BIOMEDICAL_INSTRUMENTATION.html
+SHA-256-Digest: dlrtBf4tC/uJzU9utvcRVexurDyESJKj6a8ArCYUTeg=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/DataMining.html
+SHA-256-Digest: zDq2cgdWGCj+OcOe408QpQfZ2TRTpQxTSGa0KUbNth8=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/EMBEDDED_SYSTEMS_DESIGN_USING_ARM_TECHNOLOGY.html
+SHA-256-Digest: sXsHiyTRHztQkSu5VxLUWXLi8n+B55r8cfI/uMsPY08=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/IMAGE_PROCESSING_AND_PATTERN_RECOGNITION.html
+SHA-256-Digest: DhcNGLXZbA5vqRQFExuosPZQylYKz/dKUH+EHwH/qCY=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/OPERATING_SYSTEM.html
+SHA-256-Digest: WUXKf9+0uCYWg46dDqMIBuTfEkZ7kyf6DZQ4O9ub4xc=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/RF_AND_MICROWAVE_ENGINEERING.html
+SHA-256-Digest: L5dxbMjVa5nm0hDS2UNyL0Z1aj2tz6rMbI6zpeo7LdY=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/RadarTechnology.html
+SHA-256-Digest: ZjkoS7rbsliFDAPhR/kFgpBlBZE4KOtSe75Ifos4juE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/SATELLITE_COMMUNICATION.html
+SHA-256-Digest: FIVYSVHPEk0TBQye0qc7+jERuYpntMZHFXDRqYqrJQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/Electiv
+ eI/Web_Technologies_and_Applications.html
+SHA-256-Digest: FoxLh86esEZF0EwTPkpUbZLwtbiQBirmYk67qCfIS+c=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/compute
+ r_network.html
+SHA-256-Digest: gjAFsqLJdAl2mwmoyyTpjHogKEAQi5JqA8f4hOMAmVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/digital
+ _signal_analysis_and_processing.html
+SHA-256-Digest: 00a4hibnB8zp/8rSn5DSaEcvz7TUjNyxw96L1KLRqrE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/distrib
+ uted_system.html
+SHA-256-Digest: XplRREVdII4eespWeuCPlovpYXCjsFwm9kj5aa8W3nc=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/electiv
+ eI.html
+SHA-256-Digest: XyY7BjTmWi6kiFGAUbUQ0IBPxAQkEDQQFps+PL31dao=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/energy_
+ environment_&_society.html
+SHA-256-Digest: ZfR1qAEcwE1PlpVYOY1Tqy4ItRXjgc1WxCd7B6O/YV8=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/organiz
+ ation_and_management.html
+SHA-256-Digest: OssdSTrZ0GnMJQpKZ73pmGBPEF9W5zALzGqNT/bSlPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/project
+ _i.html
+SHA-256-Digest: NubSrdREQkaRUS1niZd+Z9rh6VRx/QagLKV6RTmTyEk=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/7sem/project
+ _management.html
+SHA-256-Digest: +8Fa4GZU9hFuG1jcSiCfDqM62aWMQfVYPd1w4dMFR7o=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/ADVANCED_COMPUTER_ARCHITECTURE.html
+SHA-256-Digest: whMWVzyfpNShFiy4InkrypLIt2gU2kyCbJlxF2/Q58M=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/AGILE_SOFTWARE_DEVELOPMENT.html
+SHA-256-Digest: 4FA48KnNpfp/10qmZe+G92zith7TeHuwberzKrrHviQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/BIG_DATA_TECHNOLOGIES.html
+SHA-256-Digest: dq/R+nx9hHM5fk9ZQkBj9gIROjVH6NOMMLTEfYhvqRM=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/BROADCAST_ENGINEERING.html
+SHA-256-Digest: 42y7HaZ9SsbKN1/MRPaD5lzoUKrQqA9ldSDXgLqANPk=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/DATABASE_MANAGEMENT_SYSTEMS.html
+SHA-256-Digest: nuyZFoPduWpvjJswT99uSs0NwNWJdfEMoeqpID1nHKQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/INFORMATION_SYSTEMS.html
+SHA-256-Digest: ZZCKVkb9U9JvA6ArjZ5tEkR49GbdzxYFt7sFNCYtXWE=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/NETWORKING_WITH_IPV6.html
+SHA-256-Digest: Gm+AFsqy5t0Y2qf5MFtxzBtwKQb7xkOPUsntk9rpUhw=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/OPTICAL_FIBER_COMMUNICATION_SYSTEM.html
+SHA-256-Digest: 7FfipAbOkGLdwAlJhzGk8e10ExO1W8nEcltNlzK6n9U=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eII/WIRELESS_COMMUNICATIONS%C2%A0.html
+SHA-256-Digest: 7HlzE3SelogvShGGHnzKop/X/EPQpR4iqGeKchnRG3Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/ARTIFICIAL_INTELLIGENCE.html
+SHA-256-Digest: FY/YXbZ6Etd1p3mo99SLmVLOphXryOHEL9T4eTvg9os=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/ENTERPRISE_APPLICATION_DESIGN_AND_DEVELOPMENT.html
+SHA-256-Digest: SDgiKYwJWqf2wmVvNEhEYUbJD40QLIIMNa+ZPFiS2PU=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/GEOGRAPHICAL_INFORMATION_SYSTEM.html
+SHA-256-Digest: WQcajRmz+vUVOiSx5vqjUiCDzlXcvWZLiQrpc2m/Ilw=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/MULTIMEDIA_SYSTEM.html
+SHA-256-Digest: Ml8chSDdoZ3cXhgImDZsJn9NtcRuyiFO3zT3M1bZKYc=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/POWER_ELECTRONICS.html
+SHA-256-Digest: VTOXeLcZiya2cIA/g0uACcPXgrDpIZjNLZ9WDedIfF4=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/REMOTE_SENSING.html
+SHA-256-Digest: edPssdPoZoZyQyk9vysaxrYyLjW5JO3te0Yd05vdTCk=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/SPEECH_PROCESSING.html
+SHA-256-Digest: qmfa2RaoQ/NlYYy23SlUT6ETiibdFM4JG9V3NFM1Vh8=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/TELECOMMUNICATION.html
+SHA-256-Digest: Z7YP0QW0lxsc1oDGEZzA+19YSOwqL0Cys6KGfoT/o40=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/Electiv
+ eIII/XML_FOUNDATIONS_TECHNIQUES_AND_APPLICATIONS.html
+SHA-256-Digest: lSYvVYxUrkYJWPyUukL1EYu0iz7/POwWpih2LO6k68s=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/electiv
+ eII.html
+SHA-256-Digest: YWPQORAAjfO1U0w+IwErN32/YmqItxz9UXpOzE7QJkA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/electiv
+ eIII.html
+SHA-256-Digest: IPjpl97suNHnkn2l4YNBzZG7HbGr4K5D9JiItcWKMFc=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/enginee
+ ring_professional_practice.html
+SHA-256-Digest: rWM4uJOzgSTKZPR0BIay2nJR5Ya9N00tTiRtEIiuSMQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/informa
+ tion_system.html
+SHA-256-Digest: hJZriascN+PQCoy/sK7PO/h3z1CzHpCuDD1Z7w25h3c=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/interne
+ t_and_intranet.html
+SHA-256-Digest: Oxct/ArG05xQKlfAHhZfYfvE76FdCdI6FuowayiZgaA=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/project
+ _ii.html
+SHA-256-Digest: c7CLTgG1Nz0SS8bHsJjmMjiEfMxrNU0H+LjU1+41lWI=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/8sem/simulat
+ ion_and_modeling.html
+SHA-256-Digest: nqIW06nhtlAA3Ilw+ihrtMsO3Z6tWZGFjzDpXES2F9E=
+
+Name: assets/flutter_assets/assets/html/syllabus/computer/index.html
+SHA-256-Digest: hgzjPU7rzvaJzhUefeG2NbAm34WMf7UcqHlgF9T8l2k=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/appli
+ ed_mechanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/basic
+ _electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/c_pro
+ gramming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/drawi
+ ng_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/eng_p
+ hysics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/1sem/math_
+ i.html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/basic
+ _electronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/eng_c
+ hemistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/eng_d
+ rawing_ii.html
+SHA-256-Digest: xgu7pQbXrALUmvrkdPS27AzeiF0cU2/mKXjFAFEl0qQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/eng_m
+ ath_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/funda
+ mental_of_heat_transfer.html
+SHA-256-Digest: 6xBwkisRh32oQwWGpPpoKoH350L3A3jmL78Oa37VeVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/2sem/works
+ hop_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/digit
+ al_logic.html
+SHA-256-Digest: Y0SqlVbL6tmNcxV0XGdhTdZ9NataN+1WfV3+YPSlGjM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/elect
+ ric_circuit_theory.html
+SHA-256-Digest: yVEd4pqzZEVnJ9jKbU26uK0PorJuKqACNNKDBirUnk8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/elect
+ rical_engineering_material.html
+SHA-256-Digest: sB9LtCmLkUpln//63HtkuQN12jH0x6bZk2VlSEtd1Dg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/elect
+ romagnetics.html
+SHA-256-Digest: xaJnm9xK+ZTKReDFK349hBPA3qYuTQZTw5MmcF2ABFM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/elect
+ ronic_devices_and_circuits.html
+SHA-256-Digest: AUuf00jLhMDfcymaNpP59EA/iao7es+Oq/Xh67ZsFNo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/eng_m
+ ath_iii.html
+SHA-256-Digest: az/BtIIDZ5IKgVl5mNyG5Yrad1Szt5wja3ozUnWXLWw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/3sem/objec
+ t_oriented_programming.html
+SHA-256-Digest: bvTFQ4buR7O8Rqm5J/8vI7lC8BqHUIMF2zsdVplF+X8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/appli
+ ed_mathematics.html
+SHA-256-Digest: RBdntKnefrZ7GxJARd/BKhpdNKI4WtLqxl/y3Iy8cD0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/elect
+ rical_machine_i.html
+SHA-256-Digest: U9F+VBSz4d1K/8n80JoQea3Dn43Mn/QJL6PnA72h6Xg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/instr
+ umentation_i.html
+SHA-256-Digest: E7NhtuPKbqE98bv2zcW4FyHKeWh3BLFupGCfe5Xersw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/micro
+ processor.html
+SHA-256-Digest: 2d691QeI8B8bLFzMfcVBoRIknmaWKMRuDImmLcMcdCA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/numer
+ ical_methods.html
+SHA-256-Digest: FHD5NVUdJLPFe5NeWkyr8iwty5dbk+PdrWtwL5+trWM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/4sem/power
+ _system_analysis_i.html
+SHA-256-Digest: YC/kc0mXb+V1vqNGQxpMVnz+lPJddklQhRlgWfG46ys=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/commu
+ nication_english.html
+SHA-256-Digest: sjWfRnLrqbrFVTGp9WBa2yojWbWPkrECj4Sfxrukro0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/contr
+ ol_system.html
+SHA-256-Digest: ePk9XD3UXvB4dDpMcy234LNUC64+H3IlEpJaZ4N+JP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/elect
+ ric_machine_design.html
+SHA-256-Digest: 5AMLPrWBVm2siKv3XlpmdIdGIFQzPRgif5jXk+mpnx4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/elect
+ rical_machines_ii.html
+SHA-256-Digest: 2174dRoxCt3pIp20rvJ+GZ0jriwk0HFJb0ARzWAgVRs=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/instr
+ umentation_ii.html
+SHA-256-Digest: LsWEgEv2VVp0wGuGXEx66CMojJtfR/W4j6/Dm7NPr9Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/power
+ _system_analysis_ii.html
+SHA-256-Digest: Kk6rf4hqYz5DkOTF1bzohVHZdUK8uQHCEorvXZ6Ff2s=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/5sem/proba
+ bility_stats.html
+SHA-256-Digest: hfSFMgPz0uqbX5siCVOwqOnJz3tvN3lfennmmXfTFcQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/digit
+ al_control_system.html
+SHA-256-Digest: leuN+iNdy1Qbpn/UJAKIthRti+qPIoiXCXnpEKkFtpk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/engin
+ eering_economics.html
+SHA-256-Digest: NrmhVrIskWfwnTWdhyVn4weTAsIQrFEVIhuGh/uNzoI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/hydro
+ _power.html
+SHA-256-Digest: VJbPHudL9XCpI5X4fr0Wh1UOOG7KxB0iCKp6556/sxQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/indus
+ trial_power_distribution_and_illumination.html
+SHA-256-Digest: +f8Qp5HMHhyJMwnVxyZz8eOQMtRMDaA42N2FVtFTVOE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/signa
+ l_analysis.html
+SHA-256-Digest: icpMBRwInbsygUc7GOKn9fVLliIMaEJEz9fnV42ccQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/6sem/switc
+ hgear_and_protection.html
+SHA-256-Digest: dtaWkcMqckhqKiJvWCYvMm5uphPT2FuJY1hs+9VK+Co=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/Elect
+ iveI/electrical_energy.html
+SHA-256-Digest: zjHs4dJLht6XdD1Bz+h5qRLVRpxwVU2HG/ZvKuEsr1c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/Elect
+ iveI/reliability.html
+SHA-256-Digest: 0f2LMG2y86C9YbSrPNR9rthG5H1TnE+oGuajpQSievc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/Elect
+ iveI/rural.html
+SHA-256-Digest: XcY2ua/VlEvjNCRElJPwWLwFFIefaZu3oJ8tJ91sPmM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/e1.ht
+ ml
+SHA-256-Digest: a9448jNMHI4KxcWcfd8FAofoF0jamxf290YP3dfcJM0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/organ
+ ization_and_management.html
+SHA-256-Digest: OssdSTrZ0GnMJQpKZ73pmGBPEF9W5zALzGqNT/bSlPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/power
+ _electronics.html
+SHA-256-Digest: sUPs5zZc2+eJSWMch7/tOQC1b6RgCUSngztBpX7kajQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/power
+ _plant_equipment.html
+SHA-256-Digest: rmK+mqsbpY8sIfas62GPsdOkSimMcTlLQ8JioskVGNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/proje
+ ct_eng.html
+SHA-256-Digest: 7jLlXbS4EsQq6HBy5MsjgLkjRwuckO9+xROcCzVrXC8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/proje
+ ct_i.html
+SHA-256-Digest: iXyGSHpYw1dgwaed8C8oHSi9Bqgk3vAkkBOccsoS5Jk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/techn
+ ology_environment_and_society.html
+SHA-256-Digest: ymYo97ShYzMV74pyb3rqj/ZBbJqip2jZQrkDrlkjAwM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/7sem/utili
+ zation_of_electrical_energy.html
+SHA-256-Digest: Ak4D+HVqZ4xioCbn2+8yfao/Jhq7uLhhn2pTj6Afi4A=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e2.ht
+ ml
+SHA-256-Digest: 69NBMhH2AFVJyohla8Inkg+qBykR8tdScDqyBgqqIt0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e2/ad
+ vance_power_system.html
+SHA-256-Digest: fxenc1nCus4MXM6x7SRqyYBdV3iUQF/WUF3VTclJlqA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e2/bi
+ omedical.html
+SHA-256-Digest: 0GIIiDqPDBhBPO5mUAmp4RwVTeRbU2wsAwGx2KCyS/8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e2/ph
+ otovoltaic.html
+SHA-256-Digest: 44gqwttVAhI8lR0bau44GpeVkngojeSuULdRcd4fp2I=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e3.ht
+ ml
+SHA-256-Digest: 5QImDf67wvsjLcZFL22TJumtPqnsFdWe82l7d5TGUjM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e3/ar
+ tificial_neural.html
+SHA-256-Digest: TYqieXvhYeHzu0wZ2JFrlbwIRRF/BoFh9Coc4yaYXh8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e3/mi
+ cro_hydro.html
+SHA-256-Digest: lTJDDw2u7MJ/cXt28NUXxULKl6In18iWfrYKF/WwYxg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/e3/wi
+ nd_energy.html
+SHA-256-Digest: /JWfQKe8SkEI/LCcfos7in/GplsHVMpOmbggsHlGCdA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/engin
+ eering_professional_practice.html
+SHA-256-Digest: uh+lv5uLzhcmKZbnyVIeOnJ/i6IpKUKaRN+MKTWCVTI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/high_
+ voltage_engineering.html
+SHA-256-Digest: qsxSoPEsHAOH18SyyApACn6igfRHoM+SconGQGJC0Tw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/power
+ _plant_design.html
+SHA-256-Digest: uvpnfH9iswwcsRvC7/+61MgvYHrj5Fi4MJJhJbbUxog=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/proje
+ ct_ii.html
+SHA-256-Digest: EY7dAils41TXNFI7/3hQL6vUxYLUkRyow+l1TCIWaPM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/8sem/trans
+ mission_and_distribution_design.html
+SHA-256-Digest: vEg4VjZ0nPvQ8LKy63jt9K5+Vg0hHXJjFi9pbTtQZw8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electrical/index.html
+SHA-256-Digest: +2BfVuOOxrP635SsMoA7mpGCGbjOBOsUcwOjRgUriH8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/appl
+ ied_mechanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/basi
+ c_electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/c_pr
+ ogramming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/draw
+ ing_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/eng_
+ physics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/1sem/math
+ _i.html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/basi
+ c_electronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/eng_
+ chemistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/eng_
+ drawing_ii.html
+SHA-256-Digest: xgu7pQbXrALUmvrkdPS27AzeiF0cU2/mKXjFAFEl0qQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/eng_
+ math_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/fund
+ amental_of_heat_transfer.html
+SHA-256-Digest: 6xBwkisRh32oQwWGpPpoKoH350L3A3jmL78Oa37VeVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/2sem/work
+ shop_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/digi
+ tal_logic.html
+SHA-256-Digest: Y0SqlVbL6tmNcxV0XGdhTdZ9NataN+1WfV3+YPSlGjM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/elec
+ tric_circuit_theory.html
+SHA-256-Digest: yVEd4pqzZEVnJ9jKbU26uK0PorJuKqACNNKDBirUnk8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/elec
+ trical_engineering_material.html
+SHA-256-Digest: sB9LtCmLkUpln//63HtkuQN12jH0x6bZk2VlSEtd1Dg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/elec
+ tromagnetics.html
+SHA-256-Digest: xaJnm9xK+ZTKReDFK349hBPA3qYuTQZTw5MmcF2ABFM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/elec
+ tronic_devices_and_circuits.html
+SHA-256-Digest: AUuf00jLhMDfcymaNpP59EA/iao7es+Oq/Xh67ZsFNo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/eng_
+ math_iii.html
+SHA-256-Digest: az/BtIIDZ5IKgVl5mNyG5Yrad1Szt5wja3ozUnWXLWw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/3sem/obje
+ ct_oriented_programming.html
+SHA-256-Digest: bvTFQ4buR7O8Rqm5J/8vI7lC8BqHUIMF2zsdVplF+X8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/appl
+ ied_mathematics.html
+SHA-256-Digest: N33Dw+tkR7L4wp/f/h3Vji6gxPccuntam+OtLHxmGsE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/disc
+ rete_structure.html
+SHA-256-Digest: KDMnSIV8CcGigXaJRxDK/OASClB1ekZ2BSFUYf/om60=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/elec
+ trical_machines.html
+SHA-256-Digest: hOgeT1ilz9T86VKGVcbmTD+3eJqOFAo0i2vB1BVk1cg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/inst
+ rumentation_i.html
+SHA-256-Digest: XQG96eoipe0TjP2CYXMSqMToZiDBOtyCwe0YPyxMgHQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/micr
+ oprocessor.html
+SHA-256-Digest: bsAgO68hIpUKWHC/SoxsLHb0wjZyGGDxGZYmGV3L/WQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/nume
+ rical_methods.html
+SHA-256-Digest: sZGuKuJjNUoSnkp6g+SECuwKzMySOaNZXHzYkJJIkNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/4sem/powe
+ r_system.html
+SHA-256-Digest: qxKZhCX2j0dSGdDE3NU+q+AFBBF1scr7zHKi0E3OPwo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/adva
+ nced_electronics.html
+SHA-256-Digest: itQKiP6B/J6gtaiUp/QLTzWsyziXvhLzXIdQRJoN+u0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/comm
+ unication_english.html
+SHA-256-Digest: G8Ib6bgTxC08H2aZ8jMPaxxpdg1YFC3xVUVOLl3qrNI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/comp
+ uter_graphics.html
+SHA-256-Digest: a9XMCxQwPgfq0Iq175lrxTc/ZEqJcUUdwJQQWjP5pqE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/comp
+ uter_organization_and_architecture.html
+SHA-256-Digest: 3t/8PXfoIfR7qM1aEDriJEiGHL3QscGK/JkQPQkcUas=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/cont
+ rol_system.html
+SHA-256-Digest: ePk9XD3UXvB4dDpMcy234LNUC64+H3IlEpJaZ4N+JP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/inst
+ rumentation_ii.html
+SHA-256-Digest: kWQc29Dpt9yZcXS0nVCSuLmavDbZZI1BKumFlx+HqK4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/5sem/prob
+ ability_stats.html
+SHA-256-Digest: Nr3uNYJS1jrt78N5RI3ULUaffb7gHlq7/XDyWZTv1cA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/comm
+ unication_system_i.html
+SHA-256-Digest: 2hiNuuqCJU9ABq6RKV9EpbKhmOQiacuZh49c86g/btg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/comp
+ uter_network.html
+SHA-256-Digest: gjAFsqLJdAl2mwmoyyTpjHogKEAQi5JqA8f4hOMAmVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/embe
+ dded_system.html
+SHA-256-Digest: pjfMgA7Mg8qSonuRsHdZ+c6MGeMon1qMppNq2fen4oo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/engi
+ neering_economics.html
+SHA-256-Digest: NrmhVrIskWfwnTWdhyVn4weTAsIQrFEVIhuGh/uNzoI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/mino
+ r_project.html
+SHA-256-Digest: mNuDDxdKxdCqv0jXaUGbGbWeEodRzJ+WlDyLoB0UB2I=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/prop
+ agation_and_antenna.html
+SHA-256-Digest: 5rkospzSJewSlw6smb0ziFi6c1Gh8KeFx0dwrOfjWgw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/6sem/sign
+ al_analysis.html
+SHA-256-Digest: icpMBRwInbsygUc7GOKn9fVLliIMaEJEz9fnV42ccQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/AdvancedJavaProgramming.html
+SHA-256-Digest: /WF+GO455jVArqHvH+Il8N6bXlggS6vrpr/yt5C8ppg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/Aeronautical_Telecommunication.html
+SHA-256-Digest: xRMpVqXIqw9lc8fbiKNp5bIIPCsB7e4oMz5spBcWqhA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/BIOMEDICAL_INSTRUMENTATION.html
+SHA-256-Digest: dlrtBf4tC/uJzU9utvcRVexurDyESJKj6a8ArCYUTeg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/DataMining.html
+SHA-256-Digest: zDq2cgdWGCj+OcOe408QpQfZ2TRTpQxTSGa0KUbNth8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/EMBEDDED_SYSTEMS_DESIGN_USING_ARM_TECHNOLOGY.html
+SHA-256-Digest: sXsHiyTRHztQkSu5VxLUWXLi8n+B55r8cfI/uMsPY08=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/IMAGE_PROCESSING_AND_PATTERN_RECOGNITION.html
+SHA-256-Digest: DhcNGLXZbA5vqRQFExuosPZQylYKz/dKUH+EHwH/qCY=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/OPERATING_SYSTEM.html
+SHA-256-Digest: WUXKf9+0uCYWg46dDqMIBuTfEkZ7kyf6DZQ4O9ub4xc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/RadarTechnology.html
+SHA-256-Digest: ZjkoS7rbsliFDAPhR/kFgpBlBZE4KOtSe75Ifos4juE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/SATELLITE_COMMUNICATION.html
+SHA-256-Digest: FIVYSVHPEk0TBQye0qc7+jERuYpntMZHFXDRqYqrJQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/Elec
+ tiveI/Web_Technologies_and_Applications.html
+SHA-256-Digest: FoxLh86esEZF0EwTPkpUbZLwtbiQBirmYk67qCfIS+c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/comm
+ unication_systems_ii.html
+SHA-256-Digest: k8c+ahFSq7yAar6EN8EiH7t9anq03tsOqlVgWppvUCc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/elec
+ tiveI.html
+SHA-256-Digest: ekiUUaTTjDzpfdoBJOnWcfw3FIbk+MzmCKuad40vfOw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/ener
+ gy_environment_&_society.html
+SHA-256-Digest: ZfR1qAEcwE1PlpVYOY1Tqy4ItRXjgc1WxCd7B6O/YV8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/filt
+ er_design.html
+SHA-256-Digest: ImMIMgn763DFYqF5mfxp6TYGow49y73lgBL9vQlPrGo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/orga
+ nization_and_management.html
+SHA-256-Digest: OssdSTrZ0GnMJQpKZ73pmGBPEF9W5zALzGqNT/bSlPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/proj
+ ect_i.html
+SHA-256-Digest: 3ZH9ptJcZuv7Np13N+wEGsHdFAugpRvSNDl15YMYors=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/proj
+ ect_management.html
+SHA-256-Digest: +8Fa4GZU9hFuG1jcSiCfDqM62aWMQfVYPd1w4dMFR7o=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/7sem/tele
+ communication.html
+SHA-256-Digest: SJMm+kt0ITLuOED3py6F6fp/5u7Z3CXKek2ovML5shg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/ADVANCED_COMPUTER_ARCHITECTURE.html
+SHA-256-Digest: whMWVzyfpNShFiy4InkrypLIt2gU2kyCbJlxF2/Q58M=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/AGILE_SOFTWARE_DEVELOPMENT.html
+SHA-256-Digest: 4FA48KnNpfp/10qmZe+G92zith7TeHuwberzKrrHviQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/BIG_DATA_TECHNOLOGIES.html
+SHA-256-Digest: dq/R+nx9hHM5fk9ZQkBj9gIROjVH6NOMMLTEfYhvqRM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/BROADCAST_ENGINEERING.html
+SHA-256-Digest: 42y7HaZ9SsbKN1/MRPaD5lzoUKrQqA9ldSDXgLqANPk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/DATABASE_MANAGEMENT_SYSTEMS.html
+SHA-256-Digest: nuyZFoPduWpvjJswT99uSs0NwNWJdfEMoeqpID1nHKQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/INFORMATION_SYSTEMS.html
+SHA-256-Digest: ZZCKVkb9U9JvA6ArjZ5tEkR49GbdzxYFt7sFNCYtXWE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/NETWORKING_WITH_IPV6.html
+SHA-256-Digest: Gm+AFsqy5t0Y2qf5MFtxzBtwKQb7xkOPUsntk9rpUhw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveII/OPTICAL_FIBER_COMMUNICATION_SYSTEM.html
+SHA-256-Digest: 7FfipAbOkGLdwAlJhzGk8e10ExO1W8nEcltNlzK6n9U=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/ARTIFICIAL_INTELLIGENCE.html
+SHA-256-Digest: FY/YXbZ6Etd1p3mo99SLmVLOphXryOHEL9T4eTvg9os=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/ENTERPRISE_APPLICATION_DESIGN_AND_DEVELOPMENT.html
+SHA-256-Digest: SDgiKYwJWqf2wmVvNEhEYUbJD40QLIIMNa+ZPFiS2PU=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/GEOGRAPHICAL_INFORMATION_SYSTEM.html
+SHA-256-Digest: WQcajRmz+vUVOiSx5vqjUiCDzlXcvWZLiQrpc2m/Ilw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/MULTIMEDIA_SYSTEM.html
+SHA-256-Digest: Ml8chSDdoZ3cXhgImDZsJn9NtcRuyiFO3zT3M1bZKYc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/POWER_ELECTRONICS.html
+SHA-256-Digest: VTOXeLcZiya2cIA/g0uACcPXgrDpIZjNLZ9WDedIfF4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/REMOTE_SENSING.html
+SHA-256-Digest: edPssdPoZoZyQyk9vysaxrYyLjW5JO3te0Yd05vdTCk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/SPEECH_PROCESSING.html
+SHA-256-Digest: qmfa2RaoQ/NlYYy23SlUT6ETiibdFM4JG9V3NFM1Vh8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/Elec
+ tiveIII/XML_FOUNDATIONS_TECHNIQUES_AND_APPLICATIONS.html
+SHA-256-Digest: lSYvVYxUrkYJWPyUukL1EYu0iz7/POwWpih2LO6k68s=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/RF_A
+ ND_MICROWAVE_ENGINEERING.html
+SHA-256-Digest: RCnOZF5ggQsgboDmOdQ9lFx1EfM81vTQ3bY3J/Co608=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/digi
+ tal_signal_processing.html
+SHA-256-Digest: 9Sey14vVZldSx67hmCdDW0iFSlFgyGelHlf+YMa++0I=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/elec
+ tiveII.html
+SHA-256-Digest: UqJRaarXlw1A4SPpnkTy0hB+bwSEsxmXJN1zyZXBnAc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/elec
+ tiveIII.html
+SHA-256-Digest: ShjhHz7OBP0iMSD/DVKyJn9qfvjaB+2N/pSen/WgeZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/engi
+ neering_professional_practice.html
+SHA-256-Digest: uh+lv5uLzhcmKZbnyVIeOnJ/i6IpKUKaRN+MKTWCVTI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/8sem/wire
+ less_communication.html
+SHA-256-Digest: iMbAkrAJV6GVsgK9hxDdHxKVaKGo6UKz6XHYQZRVWn4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics/index.htm
+ l
+SHA-256-Digest: f1qHf56focy5xTeQ+LeXM+V+BJuYzUWIT3aJ/Nv1fgA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ basic_electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ c_programming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ digital_logic.html
+SHA-256-Digest: Y0SqlVbL6tmNcxV0XGdhTdZ9NataN+1WfV3+YPSlGjM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ drawing_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ eng_physics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/1sem/
+ math_i.html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ electric_circuits_&_machine.html
+SHA-256-Digest: q95tzpm2+T3mg31FZSI9Z9pmNerTI1qNSbdiIVJYp80=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ eng_chemistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ eng_math_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ microprocessor.html
+SHA-256-Digest: bsAgO68hIpUKWHC/SoxsLHb0wjZyGGDxGZYmGV3L/WQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ object_oriented_programming.html
+SHA-256-Digest: YODqvNuc3GZGLkMyjz8EQYIU028iNKI6qbEhLSFq7P4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/2sem/
+ workshop_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ control_system.html
+SHA-256-Digest: ePk9XD3UXvB4dDpMcy234LNUC64+H3IlEpJaZ4N+JP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ electromagnetics.html
+SHA-256-Digest: pWzzO7xLvK6ZRuJKx+7tyibhboHu2y0p9WJ7KiiEE1Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ electronic_devices_and_circuits.html
+SHA-256-Digest: AUuf00jLhMDfcymaNpP59EA/iao7es+Oq/Xh67ZsFNo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ eng_math_iii.html
+SHA-256-Digest: az/BtIIDZ5IKgVl5mNyG5Yrad1Szt5wja3ozUnWXLWw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ instrumentation.html
+SHA-256-Digest: q95tzpm2+T3mg31FZSI9Z9pmNerTI1qNSbdiIVJYp80=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/3sem/
+ probability_stats.html
+SHA-256-Digest: Nr3uNYJS1jrt78N5RI3ULUaffb7gHlq7/XDyWZTv1cA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ advanced_electronics.html
+SHA-256-Digest: itQKiP6B/J6gtaiUp/QLTzWsyziXvhLzXIdQRJoN+u0=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ applied_mathematics.html
+SHA-256-Digest: N33Dw+tkR7L4wp/f/h3Vji6gxPccuntam+OtLHxmGsE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ computer_graphics.html
+SHA-256-Digest: a9XMCxQwPgfq0Iq175lrxTc/ZEqJcUUdwJQQWjP5pqE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ data_structure_and_algorithm.html
+SHA-256-Digest: mcfXx4hFmGITNxOkkj3MVSUjyAHrybs/qWreUtBGoQA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ discrete_structure.html
+SHA-256-Digest: KDMnSIV8CcGigXaJRxDK/OASClB1ekZ2BSFUYf/om60=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/4sem/
+ numerical_methods.html
+SHA-256-Digest: sZGuKuJjNUoSnkp6g+SECuwKzMySOaNZXHzYkJJIkNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ computer_network.html
+SHA-256-Digest: gjAFsqLJdAl2mwmoyyTpjHogKEAQi5JqA8f4hOMAmVI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ computer_organization_and_architecture.html
+SHA-256-Digest: 3t/8PXfoIfR7qM1aEDriJEiGHL3QscGK/JkQPQkcUas=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ database_management_system.html
+SHA-256-Digest: a/0HUgg3VdQuU+PbgZMbiSQsycnKx360MOuGLXue35s=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ engineering_economics.html
+SHA-256-Digest: NrmhVrIskWfwnTWdhyVn4weTAsIQrFEVIhuGh/uNzoI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ filter_design.html
+SHA-256-Digest: ImMIMgn763DFYqF5mfxp6TYGow49y73lgBL9vQlPrGo=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/5sem/
+ operating_system.html
+SHA-256-Digest: K4O4Q3eIls6jcY3/YjiK6tmmNcdq2td8D5mWBkbVNbg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ communication_english.html
+SHA-256-Digest: G8Ib6bgTxC08H2aZ8jMPaxxpdg1YFC3xVUVOLl3qrNI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ communication_systm.html
+SHA-256-Digest: q95tzpm2+T3mg31FZSI9Z9pmNerTI1qNSbdiIVJYp80=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ embedded_system.html
+SHA-256-Digest: EpE4DQZdsv6mq1Gtgn/8fS3EEXyj27xPmI7RDJdd50Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ minor_project.html
+SHA-256-Digest: mNuDDxdKxdCqv0jXaUGbGbWeEodRzJ+WlDyLoB0UB2I=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ object_oriented_software_engineering.html
+SHA-256-Digest: q95tzpm2+T3mg31FZSI9Z9pmNerTI1qNSbdiIVJYp80=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ project_management.html
+SHA-256-Digest: +8Fa4GZU9hFuG1jcSiCfDqM62aWMQfVYPd1w4dMFR7o=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/6sem/
+ propagation_and_antenna.html
+SHA-256-Digest: 5rkospzSJewSlw6smb0ziFi6c1Gh8KeFx0dwrOfjWgw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/AdvancedJavaProgramming.html
+SHA-256-Digest: /WF+GO455jVArqHvH+Il8N6bXlggS6vrpr/yt5C8ppg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/Aeronautical_Telecommunication.html
+SHA-256-Digest: xRMpVqXIqw9lc8fbiKNp5bIIPCsB7e4oMz5spBcWqhA=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/BIOMEDICAL_INSTRUMENTATION.html
+SHA-256-Digest: dlrtBf4tC/uJzU9utvcRVexurDyESJKj6a8ArCYUTeg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/DataMining.html
+SHA-256-Digest: zDq2cgdWGCj+OcOe408QpQfZ2TRTpQxTSGa0KUbNth8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/EMBEDDED_SYSTEMS_DESIGN_USING_ARM_TECHNOLOGY.html
+SHA-256-Digest: sXsHiyTRHztQkSu5VxLUWXLi8n+B55r8cfI/uMsPY08=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/IMAGE_PROCESSING_AND_PATTERN_RECOGNITION.html
+SHA-256-Digest: DhcNGLXZbA5vqRQFExuosPZQylYKz/dKUH+EHwH/qCY=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/OPERATING_SYSTEM.html
+SHA-256-Digest: WUXKf9+0uCYWg46dDqMIBuTfEkZ7kyf6DZQ4O9ub4xc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/RadarTechnology.html
+SHA-256-Digest: ZjkoS7rbsliFDAPhR/kFgpBlBZE4KOtSe75Ifos4juE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/SATELLITE_COMMUNICATION.html
+SHA-256-Digest: FIVYSVHPEk0TBQye0qc7+jERuYpntMZHFXDRqYqrJQQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ ElectiveI/Web_Technologies_and_Applications.html
+SHA-256-Digest: FoxLh86esEZF0EwTPkpUbZLwtbiQBirmYk67qCfIS+c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ RF_AND_MICROWAVE_ENGINEERING.html
+SHA-256-Digest: RCnOZF5ggQsgboDmOdQ9lFx1EfM81vTQ3bY3J/Co608=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ artificial_intelligence.html
+SHA-256-Digest: PLBeHtDfuLSwJ4UPl/qtWzRz27sp8PIUyoAWimmtP3M=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ digital_signal_analysis_and_processing.html
+SHA-256-Digest: 00a4hibnB8zp/8rSn5DSaEcvz7TUjNyxw96L1KLRqrE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ electiveI.html
+SHA-256-Digest: ekiUUaTTjDzpfdoBJOnWcfw3FIbk+MzmCKuad40vfOw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ organization_and_management.html
+SHA-256-Digest: OssdSTrZ0GnMJQpKZ73pmGBPEF9W5zALzGqNT/bSlPE=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ project_i.html
+SHA-256-Digest: NubSrdREQkaRUS1niZd+Z9rh6VRx/QagLKV6RTmTyEk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/7sem/
+ wireless_communication.html
+SHA-256-Digest: iMbAkrAJV6GVsgK9hxDdHxKVaKGo6UKz6XHYQZRVWn4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/ADVANCED_COMPUTER_ARCHITECTURE.html
+SHA-256-Digest: whMWVzyfpNShFiy4InkrypLIt2gU2kyCbJlxF2/Q58M=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/AGILE_SOFTWARE_DEVELOPMENT.html
+SHA-256-Digest: 4FA48KnNpfp/10qmZe+G92zith7TeHuwberzKrrHviQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/BIG_DATA_TECHNOLOGIES.html
+SHA-256-Digest: dq/R+nx9hHM5fk9ZQkBj9gIROjVH6NOMMLTEfYhvqRM=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/BROADCAST_ENGINEERING.html
+SHA-256-Digest: 42y7HaZ9SsbKN1/MRPaD5lzoUKrQqA9ldSDXgLqANPk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/NETWORKING_WITH_IPV6.html
+SHA-256-Digest: Gm+AFsqy5t0Y2qf5MFtxzBtwKQb7xkOPUsntk9rpUhw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveII/OPTICAL_FIBER_COMMUNICATION_SYSTEM.html
+SHA-256-Digest: 7FfipAbOkGLdwAlJhzGk8e10ExO1W8nEcltNlzK6n9U=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/ENTERPRISE_APPLICATION_DESIGN_AND_DEVELOPMENT.html
+SHA-256-Digest: SDgiKYwJWqf2wmVvNEhEYUbJD40QLIIMNa+ZPFiS2PU=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/GEOGRAPHICAL_INFORMATION_SYSTEM.html
+SHA-256-Digest: WQcajRmz+vUVOiSx5vqjUiCDzlXcvWZLiQrpc2m/Ilw=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/MULTIMEDIA_SYSTEM.html
+SHA-256-Digest: Ml8chSDdoZ3cXhgImDZsJn9NtcRuyiFO3zT3M1bZKYc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/POWER_ELECTRONICS.html
+SHA-256-Digest: VTOXeLcZiya2cIA/g0uACcPXgrDpIZjNLZ9WDedIfF4=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/REMOTE_SENSING.html
+SHA-256-Digest: edPssdPoZoZyQyk9vysaxrYyLjW5JO3te0Yd05vdTCk=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/SPEECH_PROCESSING.html
+SHA-256-Digest: qmfa2RaoQ/NlYYy23SlUT6ETiibdFM4JG9V3NFM1Vh8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ ElectiveIII/XML_FOUNDATIONS_TECHNIQUES_AND_APPLICATIONS.html
+SHA-256-Digest: lSYvVYxUrkYJWPyUukL1EYu0iz7/POwWpih2LO6k68s=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ digital_signal_processing.html
+SHA-256-Digest: 9Sey14vVZldSx67hmCdDW0iFSlFgyGelHlf+YMa++0I=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ electiveII.html
+SHA-256-Digest: J8JEhl2xMjrUSdJaic3Fv5STM5qgnvj2YBnYKL7JyNc=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ electiveIII.html
+SHA-256-Digest: IfzXkpXqS5ylN3FDiQuUNKQ3IHInEsHgfzH41b3kL/g=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ energy_environment_&_society.html
+SHA-256-Digest: ZfR1qAEcwE1PlpVYOY1Tqy4ItRXjgc1WxCd7B6O/YV8=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ engineering_professional_practice.html
+SHA-256-Digest: uh+lv5uLzhcmKZbnyVIeOnJ/i6IpKUKaRN+MKTWCVTI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ information_system.html
+SHA-256-Digest: hJZriascN+PQCoy/sK7PO/h3z1CzHpCuDD1Z7w25h3c=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ project_ii.html
+SHA-256-Digest: c7CLTgG1Nz0SS8bHsJjmMjiEfMxrNU0H+LjU1+41lWI=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/8sem/
+ telecommunication.html
+SHA-256-Digest: SJMm+kt0ITLuOED3py6F6fp/5u7Z3CXKek2ovML5shg=
+
+Name: assets/flutter_assets/assets/html/syllabus/electronics_new/index
+ .html
+SHA-256-Digest: tj2H4Il3wspviGuxmq6vrfE8TmQExTsrY3u4j3vb4ng=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/C_prog
+ ramming.html
+SHA-256-Digest: 8VEXPuZ4NrvsFnFiddqHlNNMXRU/PFZR7f7BsmWjass=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/Engine
+ eringChemistry.html
+SHA-256-Digest: JqCy95MReaUNwCevi3r9DmzXQ94GZpPxAk10PtKWzUo=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/Engine
+ eringDrawingI.html
+SHA-256-Digest: fepCJpVGyByPFs08To5WK0PLrzV8hTLQ+2UfbYs9sI8=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/Engine
+ eringMathI.html
+SHA-256-Digest: h9h6o5fW7wmE1i9FB3o2oLbGaSwtt6/8gPWQ4UDBUXc=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/Thermo
+ .html
+SHA-256-Digest: kEGanAyBGBk33m1CV+LKmp1AFbor/g6/GwqXTbzdd3g=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/1sem/Worksh
+ opTechnology.html
+SHA-256-Digest: 5YftDTcO2TA6QY67STaFJR3iAxveDk9dPcQKHlzZ1NA=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/Applie
+ dMechanics.html
+SHA-256-Digest: COS0Z+lj3BkqiUgqJJyOgRu7bzsASCB/0vb9iY+uRV4=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/BasicE
+ lectricalEngineering.html
+SHA-256-Digest: nNZCA0yUE3yktgr9Dv1vZnzZNkMF7NnSGp4FHJiRU+I=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/BasicE
+ lectronis.html
+SHA-256-Digest: 5eP1E9fRUs76Q71YsS3WDQTmtTa5xynWq+x5tpo6mOQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/Engine
+ eringPhysics.html
+SHA-256-Digest: YXfeR4Wtdh01XHaojquV/pd9vJOhzbvp4fkuPe03y8Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/MathII
+ .html
+SHA-256-Digest: Bbikb2NuVJ1dG3qRjmDmBlmk0Zl0c6bZZY6AJq6Phps=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/2sem/eng_dr
+ awing_ii.html
+SHA-256-Digest: uI78MCeJS9hisez2X4DuE4r1PBtiJE1dAb9lPODs2gc=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/applie
+ d_mechanics(dynamics).html
+SHA-256-Digest: yRjLpdPzHcnLDFA984h3TiFuywRg3gE/+lB6b3LNfx4=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/applie
+ d_physics.html
+SHA-256-Digest: oGP8kgK8U8Rx8UxhJi8hHGwZiqKj/sLLUs55GI/9+0E=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/eng_ma
+ th_iii.html
+SHA-256-Digest: R/wzkOJkb/5V9ThWrPocX6755Z89rD1AZlCHkxhcX9g=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/fundam
+ ental_of_civil_engineering.html
+SHA-256-Digest: yIyilDkEuD6ydLddNugyO8CshS/mbUbhovyZpbT4yqA=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/fundam
+ ental_of_surveying_i.html
+SHA-256-Digest: jzCw3UP6usyCwFvVhgQlemQ+ChtOz1pThOKRyLNI0QM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/object
+ _oriented_programming.html
+SHA-256-Digest: YODqvNuc3GZGLkMyjz8EQYIU028iNKI6qbEhLSFq7P4=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/3sem/probab
+ ility_stats.html
+SHA-256-Digest: hfSFMgPz0uqbX5siCVOwqOnJz3tvN3lfennmmXfTFcQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/applie
+ d_mathematics.html
+SHA-256-Digest: RBdntKnefrZ7GxJARd/BKhpdNKI4WtLqxl/y3Iy8cD0=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/comput
+ ing_techniques_for_geomatics.html
+SHA-256-Digest: O0V/A2BHERUbu1E692o6m+L0XbklncO24IDGq+jA+GI=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/field_
+ survey_i.html
+SHA-256-Digest: fhiGMjJueeS+3I+RmZJEwroJwAKqJVfUwYEgcFKbs7M=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/fundam
+ ental_of_surveying_ii.html
+SHA-256-Digest: 2h2+ydt4YTaKO0cxZvGbJULNdscyomLH5uRFF5J+Yv0=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/fundam
+ entals_of_geographic_is.html
+SHA-256-Digest: /hIXhmJnK8bhcPpbRamTCTPANpzwbaNRKtt/tfWulow=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/4sem/numeri
+ cal_methods.html
+SHA-256-Digest: 3ztN47xjgtpTQFQxFZvKPJa216dcPXGMSSbj+57vLSM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/adjust
+ ments_of_observations.html
+SHA-256-Digest: j/eht6vqLu0v472ruCCcid5/nY+dOw6ftVDe6xjmzn4=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/cadast
+ re.html
+SHA-256-Digest: A3Shu03eOaAKtGVwkJxj/RfjtyqlX+xBk43DIRBvCuM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/fundam
+ ental_of_geodesy.html
+SHA-256-Digest: m1I3YUEvF0lGDRG7c2WIOG7bG3LNwpKhDIK5EbH4Pag=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/princi
+ ples_of_photogrammetry.html
+SHA-256-Digest: KosimERzmJ89VBSCUIX/yRBi+MSE5y7/t7PGFu8KdLo=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/signal
+ s_&_transforms.html
+SHA-256-Digest: NFM8nz5CtRZx6eM8zkEmXrjTdrkhKe22L1MFuRp2Y5Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/5sem/survey
+ _networks.html
+SHA-256-Digest: KrRw2GFNLChK2pNdmfLLIR+NNYoVnDJqx/5Xw1CH5OU=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/cartog
+ raphy_&_geoinfromation.html
+SHA-256-Digest: 4jD1jUOupVMThjQttcE6LvCP68INybSiu2ZhjqCw3O4=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/commun
+ ication_english.html
+SHA-256-Digest: sjWfRnLrqbrFVTGp9WBa2yojWbWPkrECj4Sfxrukro0=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/engine
+ ering_economics.html
+SHA-256-Digest: NrmhVrIskWfwnTWdhyVn4weTAsIQrFEVIhuGh/uNzoI=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/field_
+ survey_ii.html
+SHA-256-Digest: 6G+kSMovwfnT/rPkO8udy229GqY9mdwgGZmmo9FcPQ0=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/geodet
+ ic_positioning_&_gravity_field.html
+SHA-256-Digest: Yh8mXcjOMaz6kCZRTQ9XULavzXEU6YF24fIWyTbWi3M=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/6sem/remote
+ _sensing.html
+SHA-256-Digest: ycIFQsXaQqvT3zLzQJMx8aughUbYcKrsiwV43ZqQ2rs=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/design
+ _&_implementation_of_geospatial.html
+SHA-256-Digest: szIANTL43j2IT+X7wvpwKRB3ZOiiHKiFvaLp5yfnH6Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/e1.htm
+ l
+SHA-256-Digest: ZWypthIWaMGdxQUgceF5ozj7rQcRb8nLM7HdjcdTxhM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/e1/app
+ lication_of_gis_with_python.html
+SHA-256-Digest: 1aluINfhx3AYzR4RpdvbcsvQVZgCRzGib4x0EMwWy5E=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/e1/com
+ munity_development_&_participatory.html
+SHA-256-Digest: 7cHGYYPWQkIXBQftb+iC8HCGdlQd/gLfOaqUBmvl3Fg=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/e1/soi
+ l_conservation_&_watershed_management.html
+SHA-256-Digest: oTLpxkwsl2/edLae6yzImMqSYaJmjtxb+kcMamqSo+Q=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/land_a
+ dministration_&_management.html
+SHA-256-Digest: MBPckOxslR0NhmiPp1uxY9QV6yVVSROXtZCc4y/SFOY=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/projec
+ t_eng.html
+SHA-256-Digest: 7jLlXbS4EsQq6HBy5MsjgLkjRwuckO9+xROcCzVrXC8=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/projec
+ t_i.html
+SHA-256-Digest: 8ZYM15Bjo4ZQB9H4JNiS9DDy4PIMoEvxefS6gon14vM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/7sem/satell
+ ite_positioning.html
+SHA-256-Digest: mFn8zgfDnB67nlVUpjTv9siJ04Ey3k7/xJ689m7lPpo=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/digita
+ l_terrain_modeling.html
+SHA-256-Digest: mdqx+cSSE5TKvfDdxRxXMWyElMMJ45hHIP+JnH889L8=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e2.htm
+ l
+SHA-256-Digest: RI3BNa2uKLNPnF9MmKRujJV1k6ScPpDCvFRJAkQ2OcQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e2/dig
+ ital_imaging_&_application.html
+SHA-256-Digest: YvQggy/J+2aXiLXD8w+Wi+gM1H74XsHm2G0N6mLtOJk=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e2/env
+ ironmental_modeling.html
+SHA-256-Digest: YHG8jvpszm9YeXoBhnXn/hzCQkJarHg/Xw1z3bR8fw8=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e2/lan
+ d_use_planning.html
+SHA-256-Digest: h4X0/rxuy1Jub79EST583OfyqFvqREV3Rn7o3uYGap0=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e3.htm
+ l
+SHA-256-Digest: T17nUUeCavgFXKbrEWrUrOS90GqUBkSx8T8WRhViqyo=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e3/civ
+ il_engineering_construction_survey.html
+SHA-256-Digest: JMJE076XvqP+aqe3IMW/XwJzzG/akEwy5pbzqSV4gYA=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/e3/lan
+ d_law.html
+SHA-256-Digest: eamE2G1IIRJR1LAnROjSfVqUA+WnTa1FQDd4ZWVP0OQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/engine
+ ering_professional_practice.html
+SHA-256-Digest: uh+lv5uLzhcmKZbnyVIeOnJ/i6IpKUKaRN+MKTWCVTI=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/projec
+ t_ii.html
+SHA-256-Digest: RMZVo5DDYCkRvhWZkGumuE3mWwJP1jXaA7b6Q4a9rRo=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/8sem/techno
+ logy_environment_and_society.html
+SHA-256-Digest: ymYo97ShYzMV74pyb3rqj/ZBbJqip2jZQrkDrlkjAwM=
+
+Name: assets/flutter_assets/assets/html/syllabus/geomatics/index.html
+SHA-256-Digest: 5kwznjHYhetD8j1Hns9Le/GNpb5v5qwySAJDKOwGyo4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/appli
+ ed_mechanics.html
+SHA-256-Digest: v8uBhrqa3YooB3Sj7X3P+K4Jq8E+qP/WfqqcvuH4qGI=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/basic
+ _electrical_eng.html
+SHA-256-Digest: dHyPHTDwCT0MKh2kEQE/js9l/zoOpND1fpZ17Izzk9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/c_pro
+ gramming.html
+SHA-256-Digest: 8KJwnPUlkKB9d4QW+rmhxXsth4RG+B4DzL69Z28eaic=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/drawi
+ ng_i.html
+SHA-256-Digest: zpHFDntuSPnEIRbrZW5NhA+dAADI3EPcuAcbATWJ5eM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/eng_p
+ hysics.html
+SHA-256-Digest: WeFXr+HFryE8heQHTJdYsMWLpCegmBIUbYHuOyilceE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/1sem/math_
+ i.html
+SHA-256-Digest: yrdfSePQGrxL0U75m441WlyFxfGWC2QsE7etO/3phZA=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/basic
+ _electronics.html
+SHA-256-Digest: sNONSTdNnDpAYJAx1bU22CkcTrakNxvFREDt8+dIdIs=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/eng_c
+ hemistry.html
+SHA-256-Digest: 8fXaMVD0THx9LG2WA3JjhKn+ybEaZJ5nnxQpLOviwY4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/eng_d
+ rawing_ii.html
+SHA-256-Digest: xgu7pQbXrALUmvrkdPS27AzeiF0cU2/mKXjFAFEl0qQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/eng_m
+ ath_ii.html
+SHA-256-Digest: Dxm0a8pqbnCCezb6DW1ukJxJUf6n11yAf+Ry2gOC+z4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/funda
+ mental_of_heat_transfer.html
+SHA-256-Digest: TNKhNJCvf5GXmbdhOjsRkj+Xn+t1clgzFgm0Hup2tkU=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/2sem/works
+ hop_technology.html
+SHA-256-Digest: EuyAPY9AY+rJT1u0TBNYD0Gu8yWfFghUbPLYjjzC6nw=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/compu
+ ter_aided_drawing.html
+SHA-256-Digest: caQRWsp14CgJOmZKjsSelJqjGTKc4EXvef0kQI2BN1g=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/econo
+ mics.html
+SHA-256-Digest: cFPB7Mqe7x1Uk0DtvJZli95Lw6p7Yx+NnsKA09DBfXA=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/eng_m
+ ath_iii.html
+SHA-256-Digest: R/wzkOJkb/5V9ThWrPocX6755Z89rD1AZlCHkxhcX9g=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/fluid
+ s_mechanics_&_machanics.html
+SHA-256-Digest: XKXcD5cYL7HGJR6s9v0qTKu9zxtnXspJM/ohi77c0oc=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/group
+ _work_presentation_i.html
+SHA-256-Digest: pfICbxNpP3KeZFNxBB7pcYQl8MzrRM1F3B6m+X0HB1U=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/manuf
+ acturing_technology.html
+SHA-256-Digest: v1yDpIm1/F7ti94vZ4DGNCT/Gd9wmp3Om5yfYnEBM2g=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/mater
+ ial_science_&_metallurgy.html
+SHA-256-Digest: 0uvC+OePgXvQbCi/IftkpFu8de2KmFPyu/LvjhiJz+E=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/3sem/work_
+ study_&_ergonomics.html
+SHA-256-Digest: LxEFq9Bf1c5rvmVdI3S/FaW0IEoW+F6SqlcfXRjNYIM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/elect
+ rical_machines.html
+SHA-256-Digest: hOgeT1ilz9T86VKGVcbmTD+3eJqOFAo0i2vB1BVk1cg=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/engin
+ eering_economics.html
+SHA-256-Digest: g6yvYWESoDOX77VLbNvM16QxAV0JRnKz+5b3ozV7QtA=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/group
+ _work_presentation_ii.html
+SHA-256-Digest: ZMq6mAEe2956+N7fLo42s/bhF0gTWWNhC0qNRPkurT4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/heat_
+ and_mass_transfer.html
+SHA-256-Digest: otbS59ONxhnKMdFuL8pZTkeiA4oihdfUnG4bNejjFL0=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/indus
+ trial_management.html
+SHA-256-Digest: b9v+59kJlu/xNEgjQ9KckkdqnFgckHJF+J7GUDmC74U=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/proba
+ bility_stats.html
+SHA-256-Digest: uIuv26kylkLUROoHArzIU9TVmL8tcwBP+Z3kobhRnRU=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/produ
+ ction_process_&_tech.html
+SHA-256-Digest: D+Ljxn1Z8BA78iBzq6BFbOZjhke+hzwd6+p/zm19d+c=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/4sem/stren
+ gth_of_materials.html
+SHA-256-Digest: Zju+mOkUtxmlAZxv4godqjrxldxOATzv97TCeRZAKtw=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/contr
+ ol_system.html
+SHA-256-Digest: ePk9XD3UXvB4dDpMcy234LNUC64+H3IlEpJaZ4N+JP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/e1.ht
+ ml
+SHA-256-Digest: D3SAeS6MUkyIwkJgG4UOXb5Fike9cZz7iy1wkPaxDoM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/e1/en
+ ergy_audit_&_effciency.html
+SHA-256-Digest: eE755UwD5OPE3aNFMHXweUMIu50uWkDELc7t3zoo8mE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/e1/hy
+ draulic_&_pneumatic_controls.html
+SHA-256-Digest: cky9wb6D/IZVgGfCL3FSZeWMV7oWLnvtWeoGlbNMIaw=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/e1/in
+ troduction_to_bio-medical_engineering.html
+SHA-256-Digest: 1UPD36OubznfR756Q6AIlrOn0Ab3FQG0YdUD9wh18P4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/e1/po
+ wer_plant_engineering.html
+SHA-256-Digest: y3wjpadg8GYPE2ZB53CAWmWuDwuk0ePUm5J2XuIPigM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/energ
+ y_power_tech.html
+SHA-256-Digest: y4x0htNwl1wIPzA3A9rPW7/9GQgq7LhCUujtFTmkryM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/group
+ _work_presentation_iii.html
+SHA-256-Digest: weP1M7J2GzM8CMN7B9y01OLOw/GOzRMf8ziRQvmV32g=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/metro
+ logy_and_measurement.html
+SHA-256-Digest: kLZ1PZND6Wo4zBcLG44ekkRE05AD4iWAHm1/twybPzQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/numer
+ ical_methods.html
+SHA-256-Digest: Ls9QwDsRRTTqHUUr4ddJ5eYLveH9DZ9/hWN5eE2vhRE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/proje
+ ct_management.html
+SHA-256-Digest: tx45I0mtrv3OE9cEK6140mH2HHBFHBAoI05r8simrxE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/5sem/suppl
+ y_chain_management.html
+SHA-256-Digest: 5gNHVEaKLyoua4MPLHXlLZct7YHc1dL8EGCmIpr22sk=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/commu
+ nication_english.html
+SHA-256-Digest: lZKT3+zG+yamppB3zmsi4Vmii1q+QpgSlf0zcxWI43Y=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/concu
+ rrent_engineering_&_value_engineering.html
+SHA-256-Digest: VaknQuU2Hq780Z+xfcFfL0jaqAKr0BiOtKoOskdTHpo=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/desig
+ n_of_machine_elements.html
+SHA-256-Digest: 5KxPHNnWIAAIxvKoWBOaO737JK6KrG1oCQEmUw5nFzM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2.ht
+ ml
+SHA-256-Digest: 63zpuby8fb3krZR60roxxQH12rHKQBZm+9XQ7M1dQy4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2/ba
+ sic_accounting.html
+SHA-256-Digest: MFO3aMTQT6KoNJjovAWk8QSx9uiQ6uH54xr6GwyHXF4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2/hu
+ man_resource_development.html
+SHA-256-Digest: 8ghbfFGrxENoV03C9JI8nd6eZipOwqilq7SJzHkFnQM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2/ma
+ rketing_management.html
+SHA-256-Digest: S5T4pqYpVtWWZUc9xP9OvJ0BCjEQ1dCJTIZu+m9akRc=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2/ne
+ w_product.html
+SHA-256-Digest: Z1Mjhrl5EBcld54Mi6kovNCiNk9vHZ13SyT174aJlMM=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/e2/or
+ ganizational_behaviour.html
+SHA-256-Digest: q+KXUPicIaG5MTBW2C8CMFFZ/hEj3hw1Oju9gu2usM8=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/entre
+ preneurship_development.html
+SHA-256-Digest: +Iif22O1tpoQnS+ERDWYaHJkN3f2nYjBSQfSWGoVI5U=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/maint
+ enance_engineering.html
+SHA-256-Digest: 8GsZI87jiKQu7b7JEgA4QAb9nUta4oeBdNPc8U4HtVE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/6sem/theor
+ y_of_machine.html
+SHA-256-Digest: rdSVuzuT9RbkYMRBOWplcPY8r6c2FYKyHVWYyVRa4Qs=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3.ht
+ ml
+SHA-256-Digest: LYyjJ8d+KTgXqum3wBfJU31vT4IHZZAaW5QlxvxdO9o=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3/au
+ tomobile_technology.html
+SHA-256-Digest: C+lrI1qGEHPIfHKTeUAXyfWEf2O9ohbPfcSNXIjCWv4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3/fi
+ nite_element_analysis.html
+SHA-256-Digest: 3/G+ab9/LSguRXYWPgMwysV+J+zsyqYLoMM3AbOUsI4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3/me
+ chatronics.html
+SHA-256-Digest: aDxmEnU1fCoAvDEN8yNefzv8h9afno01m7FOxQ19Yfo=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3/pr
+ inciples_of_robotics_and_modeling.html
+SHA-256-Digest: 7Jb7UtwRR5+lFRF8E9G/dySaiRe4ORXy+HZH178HJ80=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e3/re
+ newable_energy_system_design.html
+SHA-256-Digest: 4wPSaH0hCa0Yeux3UBRRHn/VvL1z1wqmlVMA4RGD+Q8=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4.ht
+ ml
+SHA-256-Digest: 3d58eEHp8za0Us28lZ8aBsGihcP694hHiIlWaat8KZI=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/en
+ vironmental_management_system.html
+SHA-256-Digest: 9oqNJVHMUG4lmuwflZ5OkCrg5VDjLa8WaCVIKu73BLg=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/le
+ an_manufacturing.html
+SHA-256-Digest: ZjWVp7pfEf6zq6ZtzT5IolItbvQBFxeupKoTAVkYcKQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/ma
+ nagement_information_system.html
+SHA-256-Digest: A+orvxeb44QcufPf+dFy0My48znFhnu1TRJJ1W5ZXWs=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/pr
+ oduction_planning_design_and_control.html
+SHA-256-Digest: +4YCRY4Tefh8MXxz1xAMR3XzdxHaFWAGVXZf3wVGX6s=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/qu
+ ality_control_management.html
+SHA-256-Digest: pHGd92QNDAH62oDFO1IxdF05/xxvTbpCytH1lcdyMOU=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/e4/st
+ rategic_and_technology_management.html
+SHA-256-Digest: 4M84kbMo6/k3z9fZWLNJGPthFBLbhKaaHcT7JhA4yqI=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/engin
+ eering_ethics_and_industrial_law.html
+SHA-256-Digest: QlNquULQ+aqJREHwSyFjU9I5rbgRpqJfns2dZhWX9To=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/opera
+ tion_research.html
+SHA-256-Digest: MODcdshO3Iwcsft4PWl8qZkK46NpNWt7V8EFfhd6XK4=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/plant
+ _layout_design_&_operations_health_and_safety.html
+SHA-256-Digest: UALhPu1l9R1eFBeSULJ0Sgk3nESn+YL75rNLjbqmCWs=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/proje
+ ct.html
+SHA-256-Digest: Y+zs8+bg0e4lOmHWJNbpSiBjrYNELBPS0wVX8f7iuBo=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/7sem/refri
+ geration_hvac.html
+SHA-256-Digest: BJPLwV/JAOt7ZBYRfC2UNQeDtcOvji31spIZUbKrYbE=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/8sem/indus
+ trial_attachment.html
+SHA-256-Digest: 98a3260bL29vp/bxs6JFhmrXbJWoN23V9MUh3b6vqy0=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/8sem/semin
+ ar.html
+SHA-256-Digest: jGrvFhsgCG0rrk3P1m9SKbs8Yhs/UOL6rrrSQadFj6c=
+
+Name: assets/flutter_assets/assets/html/syllabus/industrial/index.html
+SHA-256-Digest: BKJ5Ft5w9Km41uS+8BpDvaXSdyNb+o1y1gzMRkJLLLU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/c_pro
+ gramming.html
+SHA-256-Digest: shgpz/yayOYYsZbbWbfG1GZIXlXp5J3Cnoi/UZtK41c=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/drawi
+ ng_i.html
+SHA-256-Digest: EuiwF07EE9G02cufBJCFq3ctgT9fp0yuX12YTuzYy20=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/eng_c
+ hemistry.html
+SHA-256-Digest: MQQKehwYLee0GtEwGE7rSmuqP6SJ3J1PFQyLizK/N2c=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/funda
+ mental_of_heat_transfer.html
+SHA-256-Digest: W8TRdqs//3iJ+9Fq89tHT/01oGSGzwCRmTEEaXbuwVQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/math_
+ i.html
+SHA-256-Digest: e+CmsYWT7WiBrYcuk/S1ILNQTMb70x2bEi/Avy4luGk=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/1sem/works
+ hop_technology.html
+SHA-256-Digest: dAkWVetJuNUVYLx0nkgZ9hSMRK31JeJ1cYpv+GXAPY8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/appli
+ ed_mechanics.html
+SHA-256-Digest: VGG7nMHeS/ioZFj09w4kIqT3He19XzFprkRL4Arv0r8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/basic
+ _electrical_eng.html
+SHA-256-Digest: 1KpiaywR5H4XbXXRrhPsHT1ozg/MWDlXWXO9+d6M4yk=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/basic
+ _electronics.html
+SHA-256-Digest: cs/aznRufPs4uMPC/xtAMglCWeAmHTpaHlBRdXNc9FQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/eng_d
+ rawing_ii.html
+SHA-256-Digest: MQnR3leBreJ6UDGhOSmp5UhAGxT2PmUgJqkZ2FPtsts=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/eng_m
+ ath_ii.html
+SHA-256-Digest: AydLqHMDx7mwrtvG2afA5JkLfkPeDETEnUDthFi56GM=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/2sem/eng_p
+ hysics.html
+SHA-256-Digest: 8pOeaSVhTJD7lMvCMABzBkKvGdcGQePOfu4cl8x+SPg=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/appli
+ ed_thermodynamics.html
+SHA-256-Digest: b7jN0dlHyTXm+ZkYafI5tnZPyV+nKGi5+59qrVaDg90=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/compu
+ ter_aided_drawing.html
+SHA-256-Digest: XsmysBTTiunylKjHFCwoyeuXRPmL6xIwbWiPw/YazgU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/eng_m
+ ath_iii.html
+SHA-256-Digest: az/BtIIDZ5IKgVl5mNyG5Yrad1Szt5wja3ozUnWXLWw=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/engin
+ eering_mechanics.html
+SHA-256-Digest: gjQTYOHZdStQ2Tmni0r7jzdqmzwp6FcIb8WEDjwcXKs=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/mater
+ ial_science.html
+SHA-256-Digest: yqZKNpdi94o3btvuvqCrYyKTAM+9BNBs8yCfqcXeopk=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/3sem/meter
+ ology.html
+SHA-256-Digest: 7pOoyi2ETJRJJT9Q84y5UzwSzL2pT94822eWaR5cnjw=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/elect
+ rical_machines.html
+SHA-256-Digest: ltZAn6chUbGh2nrCd8sNU5cnM6NiLVVHfYkkeiXcB/c=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/fluid
+ _machines.html
+SHA-256-Digest: d7UcV4guF08gzO5hFYfc0vV8hko2QPYc0K5ZC8/Nkfs=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/instr
+ umentation_and_measurement.html
+SHA-256-Digest: mKLlh0xPdOATd1gB8Xd/3vJ2S4REcwqyI/U0vcWVKVQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/manuf
+ acturing_and_production_processes.html
+SHA-256-Digest: Vk93U1cC8m5bVBc9fRKAvqkmBdT+OjbkkTr3fSZCRFc=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/proba
+ bility_stats.html
+SHA-256-Digest: heLaxMUeM+ZJUg1ZYYOWWMbeqpA5sEO6oy2XSFFVGMM=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/4sem/stren
+ gth_of_materials.html
+SHA-256-Digest: Ai9Fh8rHwpkfbwh2mzqwx1uM0QPHjF3Nj1Wv9JQjS5M=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/contr
+ ol_system.html
+SHA-256-Digest: QPkBQNo82zOR4FiLmP7NG383EC1tmR2MkEv2DWc5NP4=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/fluid
+ _machinesii.html
+SHA-256-Digest: LFijrvjYJLB7C/+u2isU4fZHEmaLMoabxNXM90b5OjY=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/heat_
+ transfer.html
+SHA-256-Digest: Z2V9Oftxkx8UNAXEND9Y/Zig5GYvBu1Adqf/flheJzc=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/mecha
+ nics_of_solids.html
+SHA-256-Digest: gum/k5GMTtl2Yds9LFpJA4fj8cvtLGkb7PkdXqMEUrA=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/numer
+ ical_methods.html
+SHA-256-Digest: 3PBilbjgp0/gAJ8s/ylBy1ZXT6YcpKC2e5Q+diRkdj8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/5sem/organ
+ ization_and_management.html
+SHA-256-Digest: 7EH7H7wF3NUhK6I9xWqapD3lFhFUiOzvu1yJldJTma4=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/commu
+ nication_english.html
+SHA-256-Digest: TLxxcOAbIThkzg/Rdp3ItfO73pZATpBDTfUgYY5Gjws=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/energ
+ y_resources.html
+SHA-256-Digest: lqBiXsDXVrvzWuiUxFG8ZwQkJM1NrYM7RGoIhEL5kaU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/indus
+ trial_engineering_and_management.html
+SHA-256-Digest: ys7ypw3JOJ9hbzSZJuvOU3kjOubXvH2xTewrxWtmkAo=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/inter
+ nal_combustin_engines.html
+SHA-256-Digest: AukboqRGZFhlxgyzTvgz9sagURxQgw19He6NoanIY80=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/machi
+ ne_design_i.html
+SHA-256-Digest: P/ICjPrl5EHM7FZhUn6hE1CS/HGxxoNsFlNNcY5HsQg=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/6sem/theor
+ y_of_machanism_and_machine_i.html
+SHA-256-Digest: WqQQs26YDbNKjwFxgD9rx+vXL+gUoHamEgbC+g65LR8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/automobile_tech.html
+SHA-256-Digest: A0AhqE0MB2qiCf0A4TG1nBfYDJfFZk1qNa5cPij9Wlw=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/basic_aircraft.html
+SHA-256-Digest: o/1EYJ+p895hC6RuozpkgY78pinWaOG1XebdtBQtcac=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/basics_of_micro_hydro.html
+SHA-256-Digest: faxrYhQ3EJ2HlrpFiF++C396P7TFP/w66PHGy90RdqU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/gaseous_biofuel.html
+SHA-256-Digest: aBqAnNFgHzHDcOP7Z05DivhKrZ3DN/JLY0/MuLoDySQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/hvac.html
+SHA-256-Digest: 6V228gz874xFfZJKXd4kXx5Ano+8uTe2ZiDVhDB0jzo=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/operations_research.html
+SHA-256-Digest: OVNJ1XS12xAThnuaWUt7YFptdZj1kcrpv4oPlEZBkoY=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/Elect
+ iveI/tool_design.html
+SHA-256-Digest: CXXZzekvb6NK0jEWURQIjSA7ADPHO9vtaYnSnQISkOg=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/e1.ht
+ ml
+SHA-256-Digest: Z66Lbv8npp4Btnz/lLai4c17WdxG7tmrxzMXVjD8zME=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/engin
+ eering_economics.html
+SHA-256-Digest: VTLZORbzjMxV0SgYZ1bmWRWlK7eedR6xEHxjo1/D1X8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/envir
+ onment_and_pollution_control.html
+SHA-256-Digest: MmfWwjVkGGEqdQnS4xe3k+bOnb1jQ9OYtd7QqzP/CEw=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/indus
+ trial_attachment.html
+SHA-256-Digest: Da6DB6ufB364ELNEplv0UzS/eMMWFA6GlmK6LqkY+ho=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/machi
+ ne_design_ii.html
+SHA-256-Digest: tiRnFkJGrNvAeVMBldwGdq1GTi7aoBT+UCNEs11Qlug=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/proje
+ ct_i.html
+SHA-256-Digest: HKMMyroHYJVLv5htIMisBjDKw0NWwd+MU6/RSAOXnb8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/theor
+ y_of_machanism_and_machine_ii.html
+SHA-256-Digest: F+52Q06G/v+b5CYOTAQ61HrLMD8dPjemaRfOR571kkE=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/7sem/turbo
+ _machines.html
+SHA-256-Digest: dQe9Gy8izkrg3qg9CvqGKjG3bBOWQcXO1jwJrXQN+nA=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/aircraft_dynamics.html
+SHA-256-Digest: zJH2ZxPVS934CmLwdliQVkiU76tg4mrYieB9+DPusmo=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/automobile_engg.html
+SHA-256-Digest: RxNZ6t/ZZ2rFyMz7EXC1CMDIawqh8SCG/TdCt8quhvU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/design_of_hydropower.html
+SHA-256-Digest: 7+CKsEaF2QFMKK/vO846X++OnskXhaJrL5lCmexR8+s=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/economics_of_auto.html
+SHA-256-Digest: j4saWrQB8QJ5wbd7O5GaQfKulXVKnfOd6oOayQhcKdc=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/liquid_biofuel.html
+SHA-256-Digest: UAIzY8jt/WKW17SnX/fCsJt7qv6Ae8hyv3N8pav7WAA=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/quality_mgmt.html
+SHA-256-Digest: X6xzFYln8xPQgc0aUu7g0elrRJjtYWG4Bo4pJ+/Wl9c=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/refrigeration.html
+SHA-256-Digest: KIaDsnzUjS5PS03yNAv6nMYIhKPRLtXmbXiHTpJrciY=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveII/system_design.html
+SHA-256-Digest: AfEvLOordPj9NhqRSXiIlUCEudW/S5BDxwccmlbSty4=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveIII/advanced_mechanical.html
+SHA-256-Digest: zj8eh//D3JhiTikAwnT0NGQv4dBYWWYwOBPRpnckFio=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveIII/avionics.html
+SHA-256-Digest: ZjaIpgyv+o9XcTAjnFY4p4Hp+JQNpC1ECBGul+BZfxg=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveIII/construction_equipment.html
+SHA-256-Digest: v+yco/197SELBHTxfX0dU4ZI34NNeP0IuNqkjOSm5r8=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveIII/micro_hydropower.html
+SHA-256-Digest: 4sIcoX+sdwDPxlG2lBDcyepJk59GsqrNETz8WAAs8QM=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/Elect
+ iveIII/solid_biofuel.html
+SHA-256-Digest: i1AJ0/qgwyeNQu96Z7LI89Z+TKYol0htt801UjxjEOA=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/e2.ht
+ ml
+SHA-256-Digest: n1o7FLoh5L1Qx9W1FtRB240UDy0mJmYWColYuBveXt4=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/e3.ht
+ ml
+SHA-256-Digest: dhauTQf59WFl+hN/ikEieD715AQGDOJfJXlsyb8enfM=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/engin
+ eering_professional_practice.html
+SHA-256-Digest: MaKf+cLDCXdEhzn5FnUeog0nynXo+8cMsAbSSQ+mq0I=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/finit
+ e_element_method.html
+SHA-256-Digest: O9hqdhpNy+xu3YPbzQoKa00LdcGVnodlEEusB0Q+Shc=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/proje
+ ct.html
+SHA-256-Digest: Q6fLTnx3iqqekthiJIYmjep2YaB3ELQUYFBpmN3wfNU=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/8sem/proje
+ ct_enginering.html
+SHA-256-Digest: 3+CZJs/rK2EJEK8MEjuxPf8O/J6Q4W5sI6lw8bo3xaQ=
+
+Name: assets/flutter_assets/assets/html/syllabus/mechanical/index.html
+SHA-256-Digest: W0n/d0yXfGE2zcGSr1DfbuIBu73UpRFqjIoOknvXvnY=
+
+Name: assets/flutter_assets/assets/images/about/ashutosh.jpg
+SHA-256-Digest: MKkCnRV3xU42YwmaGlE4SRzt27P6EgU3A0L8DZLCppg=
+
+Name: assets/flutter_assets/assets/images/about/manish.jpg
+SHA-256-Digest: e6Z/3hTY251rL6DYWl0q3Q11doCT2oNUQP75pvo3jfE=
+
+Name: assets/flutter_assets/assets/images/about/udhav.jpg
+SHA-256-Digest: sSvsqfVXeDPz449cKKXmygjsQ7FoiuNiPRUbokCkVrY=
+
+Name: assets/flutter_assets/assets/lottie/no-connection.json
+SHA-256-Digest: eanexhwEGcPR9vjOzf3/E+lc37cPmy5BxasDGEyUWQ4=
+
+Name: assets/flutter_assets/fonts/MaterialIcons-Regular.otf
+SHA-256-Digest: hQZfnx1HkOxMGb/NgRVx7WorKtc5Ij16DRKoQi9nxbk=
+
+Name: assets/flutter_assets/packages/cupertino_icons/assets/CupertinoI
+ cons.ttf
+SHA-256-Digest: x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
+
+Name: assets/flutter_assets/packages/flutter_inappwebview/t_rex_runner
+ /t-rex.css
+SHA-256-Digest: LlYyIL2FXhHyMNwnoNby/VuDmimW+G7cgCWqtF5vpcM=
+
+Name: assets/flutter_assets/packages/flutter_inappwebview/t_rex_runner
+ /t-rex.html
+SHA-256-Digest: 3HLPwfHSpQE7ud40+MrPXiblQtfXE/y+CbhltKrKbd8=
+
+Name: assets/flutter_assets/packages/fluttertoast/assets/toastify.css
+SHA-256-Digest: abr0T+pbPv0zd7q8FU7xuDv4JjuRAgKox9bnRddRNJ8=
+
+Name: assets/flutter_assets/packages/fluttertoast/assets/toastify.js
+SHA-256-Digest: mfqR+tbc9El/g4k3uPxXEF7vEx1a29TL45Ns5tQkjsE=
+
+Name: assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa
+ -brands-400.ttf
+SHA-256-Digest: P7At+NpGpow41EJCQRXpwPIT1WlPKLrpwuGaDQqICoI=
+
+Name: assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa
+ -regular-400.ttf
+SHA-256-Digest: E4CuZ60cBeeDwy423pwzpzucUL97RatA1Zo9OES1J4Q=
+
+Name: assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa
+ -solid-900.ttf
+SHA-256-Digest: +daTPQTFmkKsowvYjuw4u5y+tpsVR/1VDvc+ugvOeho=
+
+Name: assets/org/threeten/bp/TZDB.dat
+SHA-256-Digest: Yno3+gRPaOjvIHyUH17Y2/GjmtNNl8f7cw3f8YGgM5E=
+
+Name: classes.dex
+SHA-256-Digest: fvPwNmthoc0HMOH8Lhyk/JYrm0IxYKPtfDoCCfTXLnc=
+
+Name: firebase-analytics-ktx.properties
+SHA-256-Digest: CdoysfPtdfVyC5PTk253tkMWeFfQ/rbb7gG/fEML+Us=
+
+Name: firebase-analytics.properties
+SHA-256-Digest: RAu33JPSLkvgYE3ugWpadcomvLd7adpWmq6FNjtgLcM=
+
+Name: firebase-annotations.properties
+SHA-256-Digest: lyMmt7O6YamYSUvgbOaCDGM7XDg4InnoHxRMSOprXX8=
+
+Name: firebase-common-ktx.properties
+SHA-256-Digest: AWGIBN5syb6cWYDkDWRUfk1p4r0qdR8Zig+3c88nv1U=
+
+Name: firebase-common.properties
+SHA-256-Digest: T5vp/VTvoucD9MtsFhnWG6C4djRP5fNtDoFyt4tdiok=
+
+Name: firebase-components.properties
+SHA-256-Digest: t5z5a0YYkgPgNYFHqQAasjSapQzMvK6klmcqRon16KA=
+
+Name: firebase-datatransport.properties
+SHA-256-Digest: R00Hh2wh0aKp0Ggpe2wJxNwLdI+1SQKPGqGitSVmDQE=
+
+Name: firebase-encoders-json.properties
+SHA-256-Digest: NU5N75UgTrmRuAXo+OIxllHg7VkNGtb/6KXNS57GXbc=
+
+Name: firebase-encoders.properties
+SHA-256-Digest: UnQ45SbnvvtsBNw5T042gkoRAZx9bWh8J3KkNdIsDp8=
+
+Name: firebase-iid-interop.properties
+SHA-256-Digest: ooYq5YEaJoYwgHxkXV2twfFehbkioqsECOmE6lVI4QI=
+
+Name: firebase-installations-interop.properties
+SHA-256-Digest: 52/8OYBT3ANb4ilJCDVhqHWGB0HdKMSF3gisotcrQ8s=
+
+Name: firebase-installations.properties
+SHA-256-Digest: KMEGs5s7ZfM9Hgqrb0SzEewUykQ7+QnMS6czMTSR13Q=
+
+Name: firebase-measurement-connector.properties
+SHA-256-Digest: yn2d1VnDz0igh7nU/Ft8bt7QyZiSKXtZdYCTRZ2YRjo=
+
+Name: firebase-messaging.properties
+SHA-256-Digest: NVWmHZJsKt0fGp5l40JNs+YjBxur+mavAK4+/wBUqoo=
+
+Name: junit/runner/logo.gif
+SHA-256-Digest: NFteIgelJOABl3nRPw+K5RNZ+JSiMEeUZ3YTMePRyhY=
+
+Name: junit/runner/smalllogo.gif
+SHA-256-Digest: tIGQCPGBvz4LRyVPchScYqVWpW/ANY0xQ+QFsZHeIIE=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: 98k+cGfKErqbPZTG5UDkwjy2/djJr/cEtVPKumUPw1c=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: U5uFwkA/bvBjgWGtmd97ESVkEulBEzXtLqOTGj79fHY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: WabWMrip9duibyponDhl4ZU1HffDwIqhZp/g35+euIM=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: UIanRUrg6Yel9Wi50jq1CR4VnuoL16Dl8nKhXJCOScQ=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: nDPPB5blnV90RhNEpOmimaps/vfs5jyIMwK9qUUMPag=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: M1GCyseFH4A5FsPHsXHR+WJ/VUZSj7PHxOCrD4ufzVM=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: CfYev4QzIIHgKT80irDvPxg18jpRcRoNbU73/U7Iudc=
+
+Name: okhttp3/internal/publicsuffix/NOTICE
+SHA-256-Digest: ipxY+97V6jR0MV5KmCTKixSGCYoaA+iX4LGUGdXhh2o=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: QgouIPJ0qEe0fiWZfeoghguqpeGSuUDOFLOgfVhkeR8=
+
+Name: org/threeten/bp/format/ChronologyText.properties
+SHA-256-Digest: S60yKWh00y6SXF9xTL3lAb4dFrLscCZ3XXILU3f78Yk=
+
+Name: play-services-ads-identifier.properties
+SHA-256-Digest: 5iUJ5MzsOuk2HANiYL77Ughwlie8grHW9aexKBOHUYE=
+
+Name: play-services-basement.properties
+SHA-256-Digest: 9ieA9bgPvYcFDRDaVUQw1HOSemC5W763IcvJCgy5WZ8=
+
+Name: play-services-cloud-messaging.properties
+SHA-256-Digest: cS773goRjkF01OPMhHFqC8ipJz6dhG09AB5mnh4tMuM=
+
+Name: play-services-measurement-api.properties
+SHA-256-Digest: rN8znG0WwLtHWV+SNY+Py9PgucJsJpCfJ4+/OXcczvM=
+
+Name: play-services-measurement-base.properties
+SHA-256-Digest: VREg0Rvupc5aOMC27u5jMko0x/r55EyTVOFquGw8Yjs=
+
+Name: play-services-measurement-impl.properties
+SHA-256-Digest: +Ym54FKtkBVubOXVeGyzAJZksxiC5zBam9ulgyD1Gf0=
+
+Name: play-services-measurement-sdk-api.properties
+SHA-256-Digest: ZI+8w9mJ3c21Fxh04wrla1LmWBGE1023eDjVhZnU5bQ=
+
+Name: play-services-measurement-sdk.properties
+SHA-256-Digest: BLMA7AMTMKlhxibZgYpdHmEGYqPlTGRmk8TAzEw/h3E=
+
+Name: play-services-measurement.properties
+SHA-256-Digest: 53+8QAmVaxG+dpiMiY7S0QwGRSJTo2ZlaSLSzkjQaGc=
+
+Name: play-services-stats.properties
+SHA-256-Digest: a3UcZU3rOsZah4Al0v8rifq/oOvgCsQVKtP3o2Gu0Qc=
+
+Name: play-services-tasks.properties
+SHA-256-Digest: bLZResqNPuDMKXfz48HAfgJyO/2QO9HlJEajqtKjeIU=
+
+Name: res/anim/abc_fade_in.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_fade_out.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA-256-Digest: XNRaGIZmctsQBQIEsSovPgJaUaNZy8pGcQa/HzQ3RKY=
+
+Name: res/anim/abc_popup_enter.xml
+SHA-256-Digest: U9qDAfjnE5+PIbZdxIpa7nSX9GF/glJ0a+nhps7cly8=
+
+Name: res/anim/abc_popup_exit.xml
+SHA-256-Digest: irCIPX5J+G1/qqnjiT45V1oLPX4B6Wk7Hi+Z5fcPPf8=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: gYvofjRpfpIZB0VsyxpzG8VWIceq2CWxV7yU3UQRhsM=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/anim/abc_tooltip_enter.xml
+SHA-256-Digest: 1VzLzqk3pb69z1jCaBwz+0+vfMTJICFSnwHlXs1ztAE=
+
+Name: res/anim/abc_tooltip_exit.xml
+SHA-256-Digest: MS/oaLVz6gcRJuTrNMdo7eqXJMnxk/ztUUsO4Rn2mxc=
+
+Name: res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+SHA-256-Digest: Um/ZecNZJXpi2hp5/8swrNlGj4+f3SOLSY+MNdlmIo8=
+
+Name: res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+SHA-256-Digest: Qpudgjh3IE4/rA9Uf4phV3e7Eihl/HGgJJyJffeISg4=
+
+Name: res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+SHA-256-Digest: cTgINX3ZCu2Z5C76q6axZnxNkxGhf7XVXEdebn96nNs=
+
+Name: res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xm
+ l
+SHA-256-Digest: Dpw/sor6FK4rYY/aFs7+qjb4Iz+G/wM9sjFrl9FZdy4=
+
+Name: res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.x
+ ml
+SHA-256-Digest: fPpz83gLOM/9z5XbaX+NITIN33ly4WiFXIZRFQRMujM=
+
+Name: res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+SHA-256-Digest: ON+SVwwvPGdFQCzZ1iGA0eV4K4c9k3Nq2tdwGAEUJ5Y=
+
+Name: res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+SHA-256-Digest: wI7q3eHdQzgkNJ9xLf4gELBnUPf/SsSGmg6dAkuZ8yU=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+SHA-256-Digest: E5Gq+rX4Yn+uHZGAPMvrceMfJOBqoH4M9jepVZzi08o=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+SHA-256-Digest: 9C49JeLAfuy9b2j2ygHeniBbeVaWraXnBAl2lIJcL+A=
+
+Name: res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+SHA-256-Digest: eqCo5mJPqzBLi8683dK9A+O5ASnJWUqI3ZaLwbdyav0=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+SHA-256-Digest: USl63AVzdLVXoi5pYwAhOhmYSeiyr1W5BLQ5ouVE6dQ=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+SHA-256-Digest: xvGd+vfYxuGUjwjvJOpthk1sHjdck6p7SJVY4akZSPs=
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: ue5hvu/2DaDMo+8xG0ZqiP4OLj1+myM8VYKc7iwBo9k=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: ToWyVCC9h2ymihh/nwRms2lBmviziEKsih0aWNVKPgA=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA-256-Digest: PCtDm8MZyaeJ9ULJkwME3CDj/ooi915JrgMgfWB9FSM=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA-256-Digest: cfWFZQ95l49yKzm1GO73W2lVkzMYQnWjRBZnxeXUiSw=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA-256-Digest: i34U5fvAUG40B1NCiUsChX9lliVd2Wgji16CkiTnL/A=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA-256-Digest: WJFClgtmMqP8ymQWqcDf0IrI6w5qqunoI3YXUjItIKQ=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA-256-Digest: ClCDyfreU085KCTprL5iSAmgUywIJeUUsYEPTMMSYcU=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA-256-Digest: WJFClgtmMqP8ymQWqcDf0IrI6w5qqunoI3YXUjItIKQ=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA-256-Digest: 1G1uAKjoqa2ygpW9bTfKErvm1Q88vmK2u3Q4lJQO+k4=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA-256-Digest: D73AMKc+clYrCwpjpMqKviXQEWVBWhEoQTQL8jPHJ1I=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA-256-Digest: n20MzdTwe+RlrQEJ/5QZKyOsyHfEziMtX3FkmS+tWPI=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: ENr772MzCZimn3ttgzIduP1sRU4i8XwzU6RZTDKcrIs=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA-256-Digest: mFQa+QuPBSVJadwGyT7ZjjKgnFFPC4eQnfEiu3mYH08=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA-256-Digest: Sv0kLq6U04306QWp4OVyKcHlIbaCchTquksm28vDXXw=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA-256-Digest: Qv3lKx3zIZevodxhklxlorccUxMLOYp1yTsCxY0fcUk=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA-256-Digest: Inh6LMAsPzmHVeqsHkhHZp/k5kuMmR4AKCWPinIE8fQ=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA-256-Digest: dvLncLJzTLzFtdQnavjwvJs7bnHUtHv1T4w/DunmOqU=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA-256-Digest: LCNpylSJ3WHDv9EjU97mO7Xdy+eC+j1KcyC5eM6L7zQ=
+
+Name: res/color/abc_search_url_text.xml
+SHA-256-Digest: 2zulPQ9uWtJRCciHohSiqMgAfy53xW0FsorW/vlEQms=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA-256-Digest: K/PPVDyX0JrXbc9rIbyIwCtuWh6s2hUUz+3xpW/3oJ0=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA-256-Digest: suuQ7jWvCWUlAreMJP/8+GuckoVyDM6+DGBqe1fo6IY=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: qSwoELkf5I97EOev9doqB9EWOv39abmagj6Us0O5HCk=
+
+Name: res/color/abc_tint_default.xml
+SHA-256-Digest: 9mL8N0H/cE4kTrH4Ey6pUNTM9cg72p9Grtb/6dV+Gls=
+
+Name: res/color/abc_tint_edittext.xml
+SHA-256-Digest: cp6MbOOyz6yB86d/vL03M99yDZh92OGMD6XSA7PrxqA=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA-256-Digest: JouLgTrYx6aLNZP/78+7Oq0wIhimk9AzhtnfGkUSx2I=
+
+Name: res/color/abc_tint_spinner.xml
+SHA-256-Digest: Vxtu9BYHisNQT3nXujHGMbKjvJ7WDGaTTs9gY4iDw+I=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA-256-Digest: wH4jjbyxs7d58Ieos4/SXZyV7JV8IKiQVrILJQawRQ4=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA-256-Digest: 1Jo3kZDQCYIUBJ06WQerQmXXUy6JbcLsXKEh4h1oCMY=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA-256-Digest: /lFy6q5/5XoXGRG866zv4YT1Pv6+vWVATYqepmIGaVw=
+
+Name: res/drawable-anydpi-v24/ic_profile_cover.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: c0wfYb1Qe7T0wfsoYg0WPvFY4sGd+pTzROGNTi/Q7F4=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: bcb3C2ArUk1vCXwzleP6u/mGoA66zMjHcarxKhhaWbg=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: gFApeTAt7nNT9HX1WMSXrmaX93GBpR98yAtA1ywuDEw=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: +U4hKRgMC6aSRDA3RAJFYDXc1rb/99BfbefiQZajrzU=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: BV1fh7G7tmdwlrx+t+rOV+QCFsuX8rK5JtJsEmP5q84=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: yvHkc99nAsKmqV1zjx1vK3MZZ2a1BOX/Mzs8jnR+BHs=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: pUdDH+vxCMz6lYiribEHjjh7s1HrVNdyOUMyGH93C3Q=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: yIJc1jflmgJQDYt1GFYvDJG+8u3Zcbo+WtD0FnlNYY4=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: Viy6GtG5q9UC2pwD9MELsr1ygCLFRvGAWTGfKtKTKA4=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: tSIoo1Ug4teG6WLoUBP+f3yX/7Qmd/O9q8Ay+7cJlSo=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: UlSajQtsNfryeV799rTF/iyzS36LEDnMp6onabbKs9A=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: Z2keRGYoVlQbxZ9WQ5NC/X7p6YUQnVqIGaS3RryHGNo=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: ZbS24iueooZbzG6yr8RgpkXMOfZC1urs6lppt5SBM5Y=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: SlyDmrDOjAsjpHCRv2ppOSxuEefgLzHgiJ8SwLGifMo=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: kysvGl0fcUdCVR304lt4rx1o2MOXKj2XrY0sJNwTd3s=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: yHIIM6M44ECCN2tDBTD0EZ0/Iu4U5d1DTAbP4vC8y1M=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: KWVhpd00YdfBh/Cw+NtKumJ1wJcLWx/XsEF8tbmcMr8=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: WazzJLvijuzNl/41rWmZpK0Bo2JJvtBG4Gq/xTjVPlM=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: 38IQ1KAgHs7ma0jAGlZo6CuLZIUdY0107EE71lAW5kU=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: 5E2V5XFyYDqpkv/ba7mjAvlF8AtjKl98bCm4cxYemqk=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: wzwTi9NSYNd75e66+gjvv+JdnrstV9Ftoxyq9Yf7Blc=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: pHTsuFeMU5tRTByZYN6LDBd6hnNAhUJyRA4ONJlZFBM=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: N4aUcG+3JW3SJI4q+FTv1x7H6IhfYdouFqK9Mvzz0Kk=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: hDZiQiD7okaugWo6qzed/X/ypIQoSrJMOvSYl3hwW7M=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: 28CvYfRAuz9TgrjqP6V4ZZ92x6au9iCmivxDqQny4OU=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: 6Y8ZLwE6kiYBBIKrjhTH8hX7Fr2jzLDdrsPtCycRnnw=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: fEXkbkBfW0o9DGKiLmcBDDMnAi3RwfS7zOoSeaTRrXQ=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: x5VOK/vQHlu8nXdN1NdD0/iiZhMSn6yAcbdBurMBirA=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: XHxoL/tk9LUx3g+VScDaEcM3V25CZhhSK/0dNaRRpBQ=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: Wmyh0NL+pTgT2ls8kDdAgIf591P1jdLhKKSkj3aJdp8=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA-256-Digest: n4Vt0ApPKB0RmOZnmshhH8Z9MB8owHrql1BCRLoWy0Q=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA-256-Digest: YVFFDs46uWZyE8OYe22P/6Jbr5/0PVO82clP2Op2FtA=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: Xj8T7oVPpBNUynN4NYuZ+OQfOxyZaMMTtjCwLehwTm4=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: mpyUDqEz9+CsjbbwbhPoUlCGM8IfjHHyl0gxZaBtkus=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: D6F9h1TW0WPMQz8IfK1sCDFzrIetcJfnaVCiXuxfPpA=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: Ykd63HTU5oNuPA5LUzfDfXSMs/lAM/QsYpk47xjTi0E=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: 9i16ofkpcwKkMzKlmDR1XtvTo4ZwuMUjYUrhNmtflH8=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: D9L1OUbrk7MVT0S9r8iJbqkxlaZM5fxkBJ6LcpPNaAE=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA-256-Digest: U1hzfLaA6hzda6QA0zMW+r+HL9RPag4Se/yL3RYys3Q=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: fIRytyRBzCihrFOgi08MFPMQrzOBdbpsRv1jQqyM4v8=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: +lAWK9s1Aca1DPo2wU2rnJTkjVf1WGB+yYWBJNcEEvk=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: n9N8gvh98ARkVUNE3d3qVeSA0JwztQWsEyUgNtTWJ24=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA-256-Digest: S8j00T0qzMwTOPc/+QzZdpXZIQ4E3l2pJCFSQ8iVC/M=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA-256-Digest: uAD6x9Lwp1sX+tcAlwfqSRNJGeSJhOiYFanSTA+nBNg=
+
+Name: res/drawable-mdpi-v4/ic_launcher_background.png
+SHA-256-Digest: LSbrs/UjGTBM5kaWHsGATLLZJAprYEbQ377XEhmsg88=
+
+Name: res/drawable-mdpi-v4/ic_launcher_foreground.png
+SHA-256-Digest: LSbrs/UjGTBM5kaWHsGATLLZJAprYEbQ377XEhmsg88=
+
+Name: res/drawable-mdpi-v4/splash.png
+SHA-256-Digest: C4VgKayZsDpY9ukBsG8mpbbB1mXqghT0EgQzOd38M4A=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA-256-Digest: zMdk4b1AhJxt3ZupjfSZ9R0XTgupgnkzNZTACtO/gUQ=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA-256-Digest: gzodJngzPsPZ0kwt5kT1cm5ClqnvS9AN3Tjk0ZHDQ7c=
+
+Name: res/drawable-v21/abc_dialog_material_background.xml
+SHA-256-Digest: 8qDdE8u1ZYBCwBbIbnKNvxm4HqZWGihhlKd2otQX/8Q=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA-256-Digest: E2yEbnqO20zE05aH+RFYEID3YB6lukmqzC35GTMKbXQ=
+
+Name: res/drawable-v21/abc_list_divider_material.xml
+SHA-256-Digest: eTN8DV4Z3IfwWynYrFQlnUDs0jZpRhrfK7Vx7eYmGjs=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: sla4+7jgXiuvo065a4AG7GW7JhkpM/tfNol7tsyGah4=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA-256-Digest: T63kktRxUHFGwd2MVgu2FNMCNckQcH4tQPX8JmOxe80=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA-256-Digest: edyLy7GknP+ElOtVBB46QI7+OVUSbmieD0mQVN1pUs4=
+
+Name: res/drawable-v21/background.png
+SHA-256-Digest: 8sOl3nUTaOf9Utkz1xj/9edN6R1qwXvwnRWpljIq/1U=
+
+Name: res/drawable-v21/launch_background.xml
+SHA-256-Digest: rSpETGV5l4aCf55OsLMvblFNF2jyDmBbtGvz0/WRBZw=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: hLkqqINJWikwPceHmrHtJGWeVMgQhFhjFd/+1SoOcXQ=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA-256-Digest: NWSJ1gTrRsvu9SZgbS/0phLKHleDcXfM41bniEql1jQ=
+
+Name: res/drawable-watch-v20/abc_dialog_material_background.xml
+SHA-256-Digest: zEoYTsAI8zsvj+edAQh4r3VbnRpglhZqm//bVAfUxWA=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA-256-Digest: KFAQboitSkirWqJIa3VvQlUqQ9JCMI8MYqdoLRYdmdI=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA-256-Digest: Il/PnO+PKZbBQtVFzrgRqm6TkAxCBqXx7Ct77MwyyiU=
+
+Name: res/drawable/abc_btn_check_material_anim.xml
+SHA-256-Digest: o7tM1QG1tB/Mg96zg/rWL/P7EfVxqkxawCeYj3BfOJo=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA-256-Digest: p1/rHXHgJSJ+3XKYYbj/yYi2fLfcu0N7/ZzS5Qg3pdQ=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA-256-Digest: xIhTLjVkbLMMNM4ifrUDozQRrUGWNb7SL3slHMrHMO0=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA-256-Digest: ujqAYgI25hLfaEe/kgEW9RgDzq0SvrnIs3dIpVLwngg=
+
+Name: res/drawable/abc_btn_radio_material_anim.xml
+SHA-256-Digest: h+dNvroscgxQ5qP2nOc7I9rmTMRQEAFc+wXogHTaSmA=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA-256-Digest: eZewiJYmo9U+B9Vs88R5WrQt9njD1iZcGGDAav/vAt8=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA-256-Digest: HW14lQHwLJG8g5rkOXeJ+oiyVw1qMlCsSM49e2Zptes=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA-256-Digest: gepQSehsgLza88Trnd8awgUd2XZIjwAO6PmdGq1nuk4=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA-256-Digest: yI6FGgbecy+R1lst17F4PP/LOzMB6ENPcnNtsU2px3I=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA-256-Digest: ETG98FFfLL1HdHVb3pbSl1Nij6Clp2fI8CjI4LYoz4g=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA-256-Digest: WUG/R+ttDgVkbE6rct7/KOHc6CyQFYGs+HpEjWEqU7I=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA-256-Digest: z3o94ScYZVx/bKU7z0foTFFY58TgkpMHKEtc9XMyC9E=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA-256-Digest: yygF5rD3SniL0cKrNeVEvNpEXlRq92Rco11Ra4W3ErM=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA-256-Digest: WTQQEcPhLzXMj5XOVMhsl2EAXWhQARA5rjiviXYmP9o=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA-256-Digest: kMCS62bRtIlzCf9ApaO1nEqYd8kw1p8YIerBhz8Xf/g=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA-256-Digest: eQL7OIz/IgdcQYgu0h9W3vKFdcqqNs2a9tl/YnM6tTw=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA-256-Digest: ieH0jpHpD3kZNB+ZYsPjQtg/NeUGrlkk/YmQa09gd8g=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA-256-Digest: FsLG/njqwGkE+g1yjZHgbfx7l6kh3qPGq8Wvxwqk4yc=
+
+Name: res/drawable/abc_list_divider_material.xml
+SHA-256-Digest: 20zo/icsMYnRitDUOBsg+kqZOmkd+iD5usxGsNPv9qs=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA-256-Digest: yKTMfld95+295eShBs8QTF9o1GQKKtnE/njqdS/05mw=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA-256-Digest: GLyqsnYxgaAsGvTfSTaFJOsvoWXOYs954nyxd0JFqw4=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA-256-Digest: TSRsGM/cUY6vUNSiypGNJaeGY9mC6YzshW8gleKUbBo=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA-256-Digest: X4Jl3n7JfzFVBThOyjM8pTYnkiSvOawm6i2mPLj82zU=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: nV+Z9TX5gvqYSpVa0No5Y2AKiV+3Q9bpY4P5D//dL88=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA-256-Digest: hKeggZA/dBaXZvMY0MqEAHgYSIPqGEJEH9g5XQYgVrE=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA-256-Digest: P6CBHlyuN3u7Zec4kw63wC0hrNvREghsMwwR/xtfb2M=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA-256-Digest: cTeEPn7jIWwnnYrhIrr2PPRlQbHaU9ieAYbiHb1CShQ=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA-256-Digest: E8XnWb4YCC5Xq0z/BfO5UNwMXHBGrdZi7+Y+am29lSE=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA-256-Digest: +Qy2A+FcQhdc7cgwu8iu1KvuPLxUntKVJOvQ/bWWWDE=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA-256-Digest: gGXfnlWdi1oBZfDx0ZJGDfqqgSyqI/vNUfxluqhMmhY=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA-256-Digest: qg/U9FuRuNS2Iw4EBMM3zq5d7V9xp/lI+ZhPp6qYrE8=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA-256-Digest: lYQXoRwIkpw5FpZ30owneSSUb1DOxdEET2rX44F2ya4=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA-256-Digest: ARUIuq4F68311+AToGWWYY1H7iMWb/+C01LItHbS1M4=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA-256-Digest: ySugLKRNeaJdspQ4T0G/ZMdSstfXtGsIqT5kVac8l+k=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: CuU+jKXpUUvWtnS4eVg0zIiJrUtkv8K9DH3HEjMtqhE=
+
+Name: res/drawable/background.png
+SHA-256-Digest: 8sOl3nUTaOf9Utkz1xj/9edN6R1qwXvwnRWpljIq/1U=
+
+Name: res/drawable/btn_checkbox_checked_mtrl.xml
+SHA-256-Digest: mPGu7p/kNghZ+xiHs/58mnnEoI6o2YaDkQUUTrMp6E4=
+
+Name: res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xm
+ l
+SHA-256-Digest: GOy/Q0mI7MJ7ccUctIrJtI2ywAzhUPSTDySCqrWFgTc=
+
+Name: res/drawable/btn_checkbox_unchecked_mtrl.xml
+SHA-256-Digest: V0nx90Hm+at4TxP4EAs5X5htj7dvRxHh7PYEkttV6KM=
+
+Name: res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xm
+ l
+SHA-256-Digest: oG1SlSi9dKluELa4D+yJZymYzDsZ2Mreztdu8DkmNyU=
+
+Name: res/drawable/btn_radio_off_mtrl.xml
+SHA-256-Digest: TZxn1twRsXtSf7xgw6bwrM+PyTaPjiYjO4PWiX4eUgU=
+
+Name: res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+SHA-256-Digest: xZgMiZMG6a4vtg06f2q7hWAF9Vmf/Xsj5pj31kw4N/Q=
+
+Name: res/drawable/btn_radio_on_mtrl.xml
+SHA-256-Digest: 2cjyI4f4gn+gunVEeneD7fOXnsAGYcPbRmHlUo6fXxY=
+
+Name: res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+SHA-256-Digest: BKjAlGJNXbTAA5DfJyXPaQ3cc8qQU0lVxY4UM9dhzJs=
+
+Name: res/drawable/corner.xml
+SHA-256-Digest: w0emLQeiycXXErau3logdxr9eNLOEgZw+hkXWuKdyqE=
+
+Name: res/drawable/default_scroll_handle_bottom.xml
+SHA-256-Digest: DiYZtun5282Jdm3N0323/h2IPl1xG/XpjRD0fET3CKk=
+
+Name: res/drawable/default_scroll_handle_left.xml
+SHA-256-Digest: yflJYEBClzYvbFkSKqemxSCDi3GoLfHjQuQoBFK6qfI=
+
+Name: res/drawable/default_scroll_handle_right.xml
+SHA-256-Digest: a5RGoRsm5anR/FrrFg9vw+0SIBcuPC27AL4h0ujeIG0=
+
+Name: res/drawable/default_scroll_handle_top.xml
+SHA-256-Digest: LwVhGP7FxqZjER75ocZ99NcWxve2fZkrJ8/xVmVv4lU=
+
+Name: res/drawable/floating_action_mode_shape.xml
+SHA-256-Digest: 8pKCbl8mN0UO9pQKDfh1WqlrF0BvOhkH7f4XMjj/PM4=
+
+Name: res/drawable/launch_background.xml
+SHA-256-Digest: rSpETGV5l4aCf55OsLMvblFNF2jyDmBbtGvz0/WRBZw=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: 5GJTXmgxn5WHxdPElgMmDOPX+e8dNdSg6JrV/sK+XJY=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: 4XQnASYTGMqlv1ZXSQbgTERXA0RWoFp0PLgSr8uKByE=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: 0SdE0A7hz1j3EOdZy54fcPC9qoyHpDiQbmuXc5+j45Y=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: SjSAWoNC9X9+nGQhFMJsxZ8gqUDXMLNpFKT+f1+7r7I=
+
+Name: res/drawable/toast_bg.xml
+SHA-256-Digest: 3YrRKh5I04uv1ztreMdN+OtpfsOrNguYJSmTpM0v2VM=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA-256-Digest: nbubkIDDyIZTQjpKWcHbm/b1aorHtyfHJSHAW7598i4=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA-256-Digest: /4J/iZjD2An4p7SoJbST38KtzBSiu7hnnLsnOarhNM0=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_0.xml
+SHA-256-Digest: 8sgadJJVD+km1ZdC2CoMDnIDxTrrssQdPBKovDe3gCw=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_1.xml
+SHA-256-Digest: pYScSbDVCE+NMOoyObGVjxx23QDwrc49D1b2tOZ3NP0=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_0.xml
+SHA-256-Digest: 8sgadJJVD+km1ZdC2CoMDnIDxTrrssQdPBKovDe3gCw=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_1.xml
+SHA-256-Digest: pYScSbDVCE+NMOoyObGVjxx23QDwrc49D1b2tOZ3NP0=
+
+Name: res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.
+ xml
+SHA-256-Digest: DZwofVcCVmBtxjJ7IN8Jfpfg05MT02foWNFVC+lFhg4=
+
+Name: res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.x
+ ml
+SHA-256-Digest: DZwofVcCVmBtxjJ7IN8Jfpfg05MT02foWNFVC+lFhg4=
+
+Name: res/interpolator/fast_out_slow_in.xml
+SHA-256-Digest: rnNBsDHuj5SXdrqR8bYJ4m9eAjO1/mJxaa4/6YAxL8U=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA-256-Digest: qYvj8ffxTcZEqbmzUwr4LSW7ObVCWu3fooNvkY2iIQA=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA-256-Digest: 2/AKANBywQieYrIYL/EKWvM5Mq+61OBXrpAcEiSdSIU=
+
+Name: res/layout-v21/floating_action_mode.xml
+SHA-256-Digest: Gehhngs8ZcinENlPRKKdngoWwSSJ7F2h2DqbZbGgu5I=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: 4LEGaHPHRNafHAklIrNybHiGaMoYZ7ijMhxjHXjDNpk=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: ZMAMh55bVUc7/XfyAfWZEukuOWUDWvNkegftCJdROiY=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: 9x7nrz+eOXZKy2gmj8LRrXZUqM36YQhWse6x9G9jRXc=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: IDbayZxHeO5EnEAp6hhEGojwz9U54VE32gL6br0cPkU=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: 6Dw3S4ATHrsuKaWLPbS5ZRz5xH+NBRgbixFmoEDbbf8=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA-256-Digest: Z75SKuDJOL+jeQoMQGri1kT97DhuBTx6yQ8eD11S45s=
+
+Name: res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: EthrxQwUvA9HWvukqq/V6LMe4a2e5/kZ4blhhf9J+1Y=
+
+Name: res/layout-watch-v20/abc_alert_dialog_title_material.xml
+SHA-256-Digest: 6d+VFX44Psv1V1rk0f4Fkd157x8OyAh4j5g0jDPs1Ss=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA-256-Digest: SZuW8fV41snsmM9gMx5AlS2ESKKdtlY0I5hAAGxqkJ0=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA-256-Digest: oUnHkNhNRUI6WE1Z+qVWTLWWOijwOAal7uYTAoBzJQg=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA-256-Digest: S8XaShk2dcz8QHC65VgHfgOU251vza2ZO7GTbLDDxFo=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA-256-Digest: Do8KMDkdP20OucUQ/8bM9vI2j36+Gj/oauw9XwFmsYI=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA-256-Digest: 9j0HtGHWEtCz1Pc7M0dj5wVMcUeAKQfOYmM+RidErRk=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: ruegdpxsPXqHogAZpNNz/rpOe50DyOzpS0/PJUquqV8=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA-256-Digest: 22ybndXE5NRBsiGKL2P09KOekVQoWi/1cNxnzigUt9s=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA-256-Digest: ogswef4n9dkzvEykpD3/5iU0ipXDo65QDNYrL6Hnilk=
+
+Name: res/layout/abc_cascading_menu_item_layout.xml
+SHA-256-Digest: Oh0+Mlm8ZVpXBZFMAxJYYbasa6CRYxyg6fZLMZMspAA=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA-256-Digest: sVHnZ7JsN1lX1oCKBSQvQpyJ0j69G3AyHsQG3sFWi3s=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: UhzNfQZqqBuhZCI4Z0qWt5EIt0AUp3Qx0xhBogKTNJo=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA-256-Digest: BrP0tsWwAmNkOa8RCjs78TBZMEA0IB8u2Itus5DseF4=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: BYxbAmMQRJkrQUHfC7Ekc65r2aRBrnAh8q4GJWpCNpk=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA-256-Digest: eNfsCEq5ce3eqYkcfHH4GEuxEqFjoVzzmE0KtI60w+0=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA-256-Digest: u50AkYdU21dX4Z7fOpomRMWV3fgcVLi5+ZwbpHmhOlQ=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: Zc1Qb7JfNUCZz1fKBlcOYotg0YdgSRdc5XCJQyWbr0Y=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA-256-Digest: PxzgFYqrkiYBWP+OHbOXmyOr+poeEVEBVQXvCYTHQfA=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA-256-Digest: hMx/wZ4RRG3O2EtmpBqpropqAMKyLovNSsdoRGBzv4M=
+
+Name: res/layout/abc_screen_simple.xml
+SHA-256-Digest: /YSPfKKyPbSCGgW6CxzXSweN9EhvO86jl6m8qGxWlvQ=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: hH7O2dTUmoS4JXsT2Tl5F34uYjLGTRzGH8sM0OZOHrU=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA-256-Digest: 99is7+C4E0vkuetosXjgZRG+fuorWinH4JDmodJMN6U=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: rgu+lZGPWB5kZ95O191ePwyT3cQ1s6+JYz/oMm1gvVg=
+
+Name: res/layout/abc_search_view.xml
+SHA-256-Digest: h8WC5XgmFYF7modcD7k8fI0r7QSPAnldPJ+Pxzbk5t0=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA-256-Digest: Zb9zZLnJpRPK13qdtdjGoH876RLRTDyLrs6iCkUvDKs=
+
+Name: res/layout/abc_tooltip.xml
+SHA-256-Digest: AdIPcUKNA0oY6gUG88xVcuTUGeMUd5eSN2Q2segRr8I=
+
+Name: res/layout/activity_web_view.xml
+SHA-256-Digest: e17fUD22+PlQEi4grs5nYA3PMg4z82EKEdI9oNnnzEQ=
+
+Name: res/layout/browser_actions_context_menu_page.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/browser_actions_context_menu_row.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/chrome_custom_tabs_layout.xml
+SHA-256-Digest: irYZqaGBZPg5aGXFBotQYrMtFs3Gx/XGPPtzGKe6xkI=
+
+Name: res/layout/custom_dialog.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/fb_native_ad_container.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/fb_native_ad_layout_horizontal.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/fb_native_ad_layout_vertical.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/fb_native_banner_ad.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/fb_native_media_item_ad.xml
+SHA-256-Digest: MXlAYs8fivVPR/ZEJc302j3cOA+R18Y7xou7tVtmNUA=
+
+Name: res/layout/floating_action_mode.xml
+SHA-256-Digest: uDaBkDP6CGF9End0eA1UDSt7NwJ/Gc2RfkFwikhqNaw=
+
+Name: res/layout/floating_action_mode_item.xml
+SHA-256-Digest: U6PjUnH+ZkTjbmO9jdIB2VSuU75cvrUsRS4C/vYiL4E=
+
+Name: res/layout/notification_action.xml
+SHA-256-Digest: 4GJigtEXW48oN7ylLe58FnZfk5azHq6NXlbjtjvaCcY=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA-256-Digest: zDTBvjr+Diphq42Sk5wwg94hY89t6hzEWZQ/F5fPI1Q=
+
+Name: res/layout/notification_media_action.xml
+SHA-256-Digest: qO0P9KuGly4xeUzzoh/CA9Fy6roB5CJaer2IuVZ3vKU=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA-256-Digest: DQXfE/ygBlti/V8XXbtW3mB60kf2PKrWRsdJNMlesoU=
+
+Name: res/layout/notification_template_big_media.xml
+SHA-256-Digest: HUDGy4V4lDBzuV7xiKlO0mLlBUCOy3SmzehT682uUxU=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA-256-Digest: td98YXT6TRFrgsxwrm3U7aAptfidKOdBmj/aA63xnwk=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA-256-Digest: xwdwgj/jXhWor6J5LKocJeGMRlOyVG3/cpZprS+2TiQ=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA-256-Digest: P5CjSCyYFXRbvOfNj7j7BXQ5dVBSSz55UscWyYw+bAM=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA-256-Digest: O5a67bKj97yndXrKoACFfod0J5WX4jfflh9ZEPe3UjA=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA-256-Digest: DRHZhdd3NQcA8BL5X4ZOGayOp9LRZzzW/v2TIgbRpm8=
+
+Name: res/layout/notification_template_media.xml
+SHA-256-Digest: SM7f7XAVuwx5O++9AWlkgDLdHA1RbHsQNDVrTcvImJk=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA-256-Digest: IfXiY3KBOfu0osICKGOZ87E8TWpKXjXoT6abjI5ubZY=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: OuNVw7qLA/AV95o/h9HTfr0wdpvUSi0yZrolBM06Ulc=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: KudgajaSUeJdwrmV4t16hbvCu8mDXmVlgNsE9IAN4cI=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA-256-Digest: QLZcWghsJJhcdN4ytstn6wW9BGPekuwEwswUP1kLzpQ=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA-256-Digest: WQIyKSO/FzlKIxytZWfoR9pjReUyY/rSCcFuZCCE1iw=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA-256-Digest: fVdZQNB1Ya/fEarwZ0b3ZqkNuDhUsExF04NjAruMoUY=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: qlilG/yXi8HBEjlKV9Gk5ywE3+rktYEN3tQHrIYhjXU=
+
+Name: res/layout/toast_custom.xml
+SHA-256-Digest: aPkE3UvAiakt1Uo711KeSzMt5BW7AItcP/L6037qgJ4=
+
+Name: res/menu/menu_main.xml
+SHA-256-Digest: M4ySMd0WS0OEENbCP408tCrgx8cHBogc1K+pT4w9m8c=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: emeM/RDavRQjagpGxvVlE8l6xCGL8rf09377uG1Jr0M=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: BVBxxESrbmzNn2DxoBY3T19RADvkoQJJVaLk7nIpg/I=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: bKuxJy0SDLZxKhF7Rp/SKYtjYn8V3Y2Bp77SHuSJbtA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: ARtAdmzGPo0LHWqog1sVAeK8LqtNF0Vx2/u+cfInQHo=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: c2lB6HxPQTpHJEbyHYxVdLNulRS/eU4ReWjZtdb6h58=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: UedS3qzZjaDmGszuRXaaRsM00trZsizxSpkXq+duqMs=
+
+Name: res/xml/flutter_share_file_paths.xml
+SHA-256-Digest: Y2rnHQS7IN1M9pM/IvBwzIm8k7bHTAd5T2qpSvxZTxs=
+
+Name: res/xml/image_share_filepaths.xml
+SHA-256-Digest: 8d1D58w1xkBcDfzY+SURAeeiV1cD2kSLiKHcU8PQL+s=
+
+Name: res/xml/locales_config.xml
+SHA-256-Digest: 5FdoQCINNvyVsPb84w8EY4I67DM82FOCJ4dJGG7dvTU=
+
+Name: res/xml/provider_paths.xml
+SHA-256-Digest: iDME9YAXMUznHbJEiIDf+ClkbIMHEB3tfDMlxdpvd68=
+
+Name: res/xml/splits0.xml
+SHA-256-Digest: rFwXUD0B/Btu50c6i/7HJEhNV1kwZsQ9faIFK/zIhZs=
+
+Name: resources.arsc
+SHA-256-Digest: XOtKDCzO+jZsD6Abmo9xUjaAdLLRQi9mFTPUet7sySY=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=
+
+Name: transport-api.properties
+SHA-256-Digest: 518KQzCMFFxUcEGPMLdwVziEXDnIO9tpTKWEe1ahdbs=
+
+Name: transport-backend-cct.properties
+SHA-256-Digest: kL9Q4/EzQq6Wt3eZ4/N8G/P/YE6Mu4rWDxOiIvC+rgs=
+
+Name: transport-runtime.properties
+SHA-256-Digest: W/wmztaYSzMtUdmNET8NMkvSoOWgXhiWpUWk8FNxGTA=
+

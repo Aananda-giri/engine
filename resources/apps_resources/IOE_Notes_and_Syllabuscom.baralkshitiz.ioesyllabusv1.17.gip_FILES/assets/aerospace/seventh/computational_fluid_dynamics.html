@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="..\..\css\style.css">
+</head>
+
+<body>
+<div class="bold">
+    <p class="center">COMPUTATIONAL FLUID DYNAMICS<br>AE 785</p>
+    <p>Lecture&nbsp;&nbsp;&nbsp;: 3
+        <br>Tutorial&nbsp;&nbsp;&nbsp;: 1
+        <br>Practical&nbsp;: 3/2</p>
+</div>
+
+<p><strong>Course Objectives:</strong></p>
+<div class="list">
+    <ol>
+    <li>Introduction to CFD <br><span class="colour">(4 hours)</span>
+        <ol>
+            <li>What is computational fluid dynamics?</li>
+            <li>Basic principles of CFD</li>
+            <li>Stages in a CFD simulation</li>
+            <li>Fluid-flow equations</li>
+            <li>The main discretisation methods</li>
+            <li>Exercises</li>
+        </ol>
+    </li>
+    <li>Fluid-Flow Equations <br><span class="colour">(6 hours)</span>
+        <ol>
+            <li>Introduction</li>
+            <li>Conservative differential equations</li>
+            <li>Non-conservative differential equations</li>
+            <li>Non-dimensionalisation</li>
+            <li>Exercises (Numerical Problems)</li>
+        </ol>
+    </li>
+    <li>Approximations and Simplified Equations <br><span class="colour">(8 hours)</span>
+        <ol>
+            <li>Steady-state vstime-dependent flow</li>
+            <li>Two-dimensional vs three-dimensional flow</li>
+            <li>Incompressible vs compressible flow</li>
+            <li>Inviscidvs viscous flow</li>
+            <li>Hydrostatic vs non-hydrostatic flow</li>
+            <li>Boussinesq approximation for density</li>
+            <li>Depth-averaged (shallow-water) equations</li>
+            <li>Reynolds-averaged equations (turbulent flow)</li>
+            <li>Examples</li>
+        </ol>
+    </li>
+    <li>The Scalar-Transport Equation <br><span class="colour">(8 hours)</span>
+        <ol>
+            <li>Control-volume notation</li>
+            <li>The steady-state 1-d advection-diffusion equation</li>
+            <li>Discretising diffusion</li>
+            <li>Discretising the source term</li>
+            <li>The matrix equation</li>
+            <li>Discretising advection (part 1)</li>
+            <li>Extension to 2 and 3 dimensions</li>
+            <li>Discretisation properties</li>
+            <li>Discretising advection (part 2)</li>
+            <li>Implementation of advanced advection schemes</li>
+            <li>Boundary conditions</li>
+            <li>Solution of matrix equations</li>
+            <li>Examples (Numerical Problems)</li>
+        </ol>
+    </li>
+    <li>Pressure and Velocity <br><span class="colour">(6 hours)</span>
+        <ol>
+            <li>The momentum equation</li>
+            <li>Pressure-velocity coupling</li>
+            <li>Pressure-correction methods</li>
+            <li>Exercise (CFD Simulation in Software _ Tutorial Exercise)</li>
+        </ol>
+    </li>
+    <li>Turbulence <br><span class="colour">(8 hours)</span>
+        <ol>
+            <li>What is turbulence?</li>
+            <li>Momentum transfer in laminar and turbulent flow</li>
+            <li>Turbulence notation</li>
+            <li>Effect of turbulence on the mean flow</li>
+            <li>Turbulence generation and transport</li>
+            <li>Important shear flows</li>
+            <li>Exercise (CFD Simulation in Software _ Design Problem)</li>
+        </ol>
+    </li>
+    <li>Pre- and Post-processing <br><span class="colour">(5 hours)</span>
+        <ol>
+            <li>Stages of a CFD analysis</li>
+            <li>The computational mesh</li>
+            <li>Boundary conditions</li>
+            <li>Flow visualization</li>
+        </ol>
+    </li>
+</ol>
+</div>
+<p><strong>Laboratories:</strong></p>
+<p>CFD Analysis in OpenFoam / Ansys</p>
+
+<ol>
+    <li>Simulation of vortex shredding over a cylinder</li>
+    <li>Simulation of air flow over an airfoil</li>
+    <li>Use of UPWIND, CENTRAL Difference scheme for scalar advection-diffusion problem.</li>
+</ol>
+<p><strong>Reference:</strong></p>
+<ol>
+    <li>An introduction to Computational Fluid Dynamics – The Finite Volume Method, H. K. Versteeg and W. Malalasekera</li>
+    <li>Computational Methods for Fluid Dynamics – Joel H. Ferziger / MilovanPeric</li>
+    <li>Computational Fluid Dynamics: Principles and Applications, J. Blazek</li>
+    <li>Computational Fluid Dynamics – The Basics with Applications, John D. Anderson, Jr.</li>
+    <li>The Physics of Fluid Turbulence – W. D. Mc COMB</li>
+</ol>
+<p><strong>Text Book:</strong></p>
+<ol>
+    <li>Computational Fluid Dynamics – The basics and applications, Anderson J.D. Jr, (1995), Mcgraw-Hill, New York.</li>
+    <li>An introduction to CFD, H. Versteeg and W. Malalasekra, Pearson, Education, 2nd Edition, 2008. Reference Book</li>
+    <li>Computational Fluid Dynamic – a practical approach, Jiyuan Tu, Guan Heng Yeoh and Chaoqun Liu, Butterworth - Heinemann (ELSEVIER), 2008.</li>
+    <li>Introduction to Computational Fluid Dynamics, Pradip Niyogi, S.K. Chakrabarthy and M.K. Laha, Pearson Education, 2006.</li>
+</ol>
+<p><strong>Evaluation Scheme:</strong></p>
+<p>There will be questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be indicated in the table below:</p>
+<table>
+    <tbody>
+    <tr>
+        <td>
+            <strong>Unit</strong>
+        </td>
+        <td>
+            <strong>Chapter</strong>
+        </td>
+        <td>
+            <strong>Topics</strong>
+        </td>
+        <td>
+            <strong>Marks*</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            1
+        </td>
+        <td>
+            1 &amp; 2
+        </td>
+        <td>
+            All
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2
+        </td>
+        <td>
+            3
+        </td>
+        <td>
+            All
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr>
+        <td>
+            3
+        </td>
+        <td>
+            4
+        </td>
+        <td>
+            All
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr>
+        <td>
+            4
+        </td>
+        <td>
+            5 &amp; 7
+        </td>
+        <td>
+            All
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr>
+        <td>
+            5
+        </td>
+        <td>
+            6
+        </td>
+        <td>
+            All
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+            <strong>Total</strong>
+        </td>
+        <td>
+            <strong>80</strong>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>*There might be minor variation in marks distribution.</p>
+
+</body>
+</html>

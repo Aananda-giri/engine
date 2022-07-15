@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="..\..\css\style.css">
+</head>
+
+<body>
+<div class="bold">
+  <p class="center">SPEECH PROCESSING<br>CT 785 08</p>
+  <p>Lecture&nbsp;&nbsp;&nbsp;: 3
+    <br>Tutorial&nbsp;&nbsp;&nbsp;: 1
+    <br>Practical&nbsp;: 3/2</p>
+</div>
+
+<p><strong>Course Objectives:</strong></p>
+<ul>
+  <li>To introduce the characteristics of Speech signals and the related time and frequency domain methods for speech analysis and speech compression</li>
+  <li>To introduce the models for speech production</li>
+  <li>To develop time and frequency domain techniques for estimating speech parameters</li>
+  <li>To introduce a predictive technique for speech compression</li>
+  <li>To understand speech recognition, synthesis and speaker identification.</li>
+</ul>
+
+<div class="list">
+<ol>
+  <li>Nature of speech signal <br><span class="colour">(8 hours)</span>
+    <ol>
+      <li>Speech production: Mechanism of speech production</li>
+      <li>Acoustic phonetics&nbsp;</li>
+      <li>Digitalmodels for speech signals</li>
+      <li>Representations of speech waveform
+        <ol>
+          <li>Sampling speechsignals</li>
+          <li>Basics of quantization</li>
+          <li>Delta modulation</li>
+          <li>Differential PCM</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Time domain methods for speech processing <br><span class="colour">(8 hours)</span>
+    <ol>
+      <li>Time domain parameters of Speech signal</li>
+      <li>Methods for extracting the parameters
+        <ol>
+          <li>1Short-time Energy</li>
+          <li>Average Magnitude</li>
+          <li>Short-time average Zero crossing Rate</li>
+        </ol>
+      </li>
+      <li>Auditoryperception: psychoacoustics.</li>
+      <li>Silence Discrimination using ZCR and energy</li>
+      <li>Short Time Auto Correlation Function</li>
+      <li>Pitch period estimation using AutoCorrelation Function</li>
+    </ol>
+  </li>
+  <li>Frequency domain method for speech processing <br><span class="colour">(10 hours)</span>
+    <ol>
+      <li>Short Time Fourier analysis
+        <ol>
+          <li>Fourier transform and linear filtering interpretations</li>
+          <li>Sampling rates</li>
+        </ol>
+      </li>
+      <li>Spectrographic displays&nbsp;</li>
+      <li>Pitch and formant extraction&nbsp;</li>
+      <li>Analysis bySynthesis&nbsp;</li>
+      <li>Analysis synthesis systems
+        <ol>
+          <li>Phase vocoder</li>
+          <li>Channel Vocoder</li>
+        </ol>
+      </li>
+      <li>Homomorphic speech analysis
+        <ol>
+          <li>Cepstral analysis of Speech</li>
+          <li>Formant and PitchEstimation</li>
+          <li>Homomorphic Vocoders</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Linear predictive analysis of speech <br><span class="colour">(10 hours)</span>
+    <ol>
+      <li>Basic Principles of linear predictive analysis</li>
+      <li>Auto correlation method</li>
+      <li>Covariance method</li>
+      <li>Solution of LPC equations</li>
+      <li>Cholesky method</li>
+      <li>Durbin&rsquo;s Recursive algorithm</li>
+      <li>Application of LPC parameters
+        <ol>
+          <li>Pitch detection using LPC parameters</li>
+          <li>Formant analysis</li>
+          <li>VELP</li>
+          <li>CELP</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Application of speech &amp; audio signal processing <br><span class="colour">(9 hours)</span>
+    <ol>
+      <li>Algorithms:
+        <ol>
+          <li>Dynamic time warping</li>
+          <li>K-means clustering and Vector quantization</li>
+          <li>Gaussian mixture modeling</li>
+          <li>Hidden Markov modeling</li>
+        </ol>
+      </li>
+      <li>Automatic Speech Recognition
+        <ol>
+          <li>Feature Extraction for ASR</li>
+          <li>Deterministic sequence recognition</li>
+          <li>Statistical Sequence</li>
+          <li>Recognition</li>
+          <li>Language models</li>
+        </ol>
+      </li>
+      <li>Speaker identification and verification</li>
+      <li>Voice response system</li>
+      <li>Speech synthesis
+        <ol>
+          <li>Basics of articulatory</li>
+          <li>Source-filter</li>
+          <li>Concatenative synthesis</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+</div>
+
+<p><strong>Practical:</strong></p>
+<p>There should be at least 4-6 experiments based on following topics</p>
+<ol>
+  <li>Spectral analysis</li>
+  <li>Time-Frequency analysis</li>
+  <li>Pitch extraction</li>
+  <li>Formant tracking</li>
+  <li>Speech enhancement</li>
+  <li>Audio coding</li>
+  <li>Speaker recognition</li>
+</ol>
+<p>All these lab works may be performed in Matlab or similar softwares capable of processing speech signals. It can also be implemented in hardware if available.</p>
+<p><strong>References:</strong></p>
+<ol>
+  <li>Thomas F. Quatieri, &ldquo;Discrete-Time Speech Signal Processing&rdquo;, Prentice Hall /Pearson Education.</li>
+  <li>Ben Gold and Nelson Morgan, &ldquo;Speech and Audio Signal Processing&rdquo;, John Wiley and Sons Inc.</li>
+  <li>L.R.Rabiner and R.W.Schaffer, &ldquo;Digital Processing of Speech signals&rdquo;, Prentice Hall</li>
+  <li>L.R. Rabiner and B. H. Juang, &ldquo;Fundamentals of Speech Recognition&rdquo;, Prentice Hall.</li>
+  <li>J.R. Deller, J.H.L. Hansen and J.G. Proakis, &ldquo;Discrete Time Processing of SpeechSignals&rdquo;, John Wiley, IEEE Press.</li>
+  <li>J.L Flanagan, &ldquo;Speech Analysis Synthesis and Perception&rdquo;,Springer, Verlag.</li>
+</ol>
+
+<p><strong>Evaluation Scheme:</strong></p>
+<p>The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:</p>
+<table>
+  <tbody>
+  <tr>
+    <td><strong>Chapter</strong></td>
+    <td><strong>Hours</strong></td>
+    <td><strong>Marks Distribution*</strong></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>8</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>8</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>10</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>10</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>9</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td><strong>Total</strong></td>
+    <td><strong>45</strong></td>
+    <td><strong>80</strong></td>
+  </tr>
+  </tbody>
+</table>
+<p>*There could be minor deviation in mark distribution.</p>
+
+</body>
+</html>

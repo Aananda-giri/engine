@@ -16,18 +16,18 @@ class Crawler:
     def dbcommit(self):
         self.con.commit()
 
-   # Auxilary function for getting an entry id and adding
+   # Auxilary function for getting an <entry: word_of_wordlist, url_of_urllist> id and adding
    # if it's not present
     def getentryid(self, table, field, value, createnew=True):
         # table = 'wordlist', field='word', value = word whose id is to be fetchd
         # table = 'urllist', field='url', value = url whose id is to be fetchd
-        cur = self.con.execute(
+        current_record = self.con.execute(
             "select rowid from %s where %s='%s'" % (table, field, value))
-        res = cur.fetchone()
+        res = current_record.fetchone()
         if res == None:
-            cur = self.con.execute(
+            current_record = self.con.execute(
                 "insert into %s (%s) values ('%s')" % (table, field, value))
-            return cur.lastrowid
+            return current_record.lastrowid
         else:
             return res[0]
 
@@ -155,9 +155,10 @@ class Crawler:
     
     def storepdf(self, url, url_id):
         # store to database: pdfs <if link is pdf>
-        print(f'ispdf: {url} {url_id}')
-        document_prefixes = ['drive.google.com', ]
-        document_suffixes = ['pdf', '/pdf', 'epub', 'epub']
-        if True in [document_prefixes[0] for document_prefix in document_prefixes] + [url.endswith(document_suffix) for document_suffix in document_suffixes]:
+        document_prefixes = ['https://drive.google.com/', ]
+        document_suffixes = ['pdf', 'epub', 'doc', 'docx', 'odt', 'xls', 'xlsx', 'ppt', 'pptx']
+        if True in [url.startswith(document_prefix) for document_prefix in document_prefixes] + [url.endswith(document_suffix) for document_suffix in document_suffixes]:
             print(f'pdf:{url}, {url_id}')
             self.conn.execute("insert into pdfs(urlid) values (%d)" % (url_id))
+        else:
+            print(f'not_: {url} {url_id}')

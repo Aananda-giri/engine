@@ -1,0 +1,189 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../../../css/jquery.mobile-1.4.5.min.css" />
+    <script src="../../../js/jquery-1.11.1.min.js"></script>
+    <script src="../../../js/jquery.mobile-1.4.5.min.js"></script>
+  </head>
+
+<body>
+
+    <div data-role="page" id="page" data-theme="b">
+        <div data-role="header"><h1>Syllabus</h1>
+        </div>
+        <div data-role="content">
+<p align="center"><font size="+2"><strong>Distributed System</strong></font></p>
+<p><strong>Course Objective:</strong><br>
+  The objective of the course is to be familiar with different aspect of the distributed system, middleware, system level support and different issues in designing distributed algorithms.</p>
+<div>Distributed System is often described as a collection of logically related data that is distributed over different processing nodes of computer network. It&rsquo;s collection of independent computers that appear to the users of the system as a single computer. A distributed system is one in which hardware or software components located at networked computers communicate and coordinate their actions only by message passing. Design Challenges of Distributed Systems:</div>
+<ul>
+  <li>Heterogeneity</li>
+  <li>Openness</li>
+  <li>Security</li>
+  <li>Scalability</li>
+  <li>Failure handling</li>
+  <li>Transparency</li>
+</ul>
+<p><strong>1. Introduction (4 hours)</strong><br>
+  </a>1.1 Introduction to Distributed Systems<br>
+  1.2 Examples of Distributed Systems<br>
+  1.3 Main Characteristics<br>
+  1.4 Advantages and Disadvantages of Distributed System<br>
+  1.5 Design Goals<br>
+  1.6 Main Problems<br>
+  1.7 Models of Distributed System<br>
+  1.8 Resource Sharing and the Web Challenges<br>
+  1.9 Types of Distributed System: Grid, Cluster, Cloud</p>
+<p><strong>2. Distributed Objects and File System (7 hours)</strong><br>
+  </a>2.1 Introduction<br>
+  2.2 Communication between distributed objects<br>
+  2.3 Remote Procedure Call<br>
+  2.4 Events And Notifications<br>
+  2.5 Java RMI Case Study<br>
+  2.6 Introduction to DFS<br>
+  2.7 File Service Architecture<br>
+  2.8 Sun Network File System<br>
+  2.9 Introduction to Name Services<br>
+  2.10 Name Services and DNS<br>
+  2.11 Directory and Discovery Services<br>
+  2.12 Comparison of Different Distributed File Systems</p>
+<p>A Distributed File System ( DFS ) is a classical model of a file system distributed across multiple machines. The purpose is to promote sharing of dispersed files. The resources on a particular machine are local to itself. Resources on other machines are remote. A file system provides a service for clients. The server interface is the normal set of file operations: create, read, etc. on files.</p>
+<p>Distributed file systems support the sharing of information in the form of files throughout the intranet.</p>
+<p><strong>3. Operating System Support (3 hours)</strong><br>
+  </a>3.1 The operating system layer<br>
+  3.2 Protection<br>
+  3.3 Process and threads<br>
+  3.4 Communication and invocation<br>
+  3.5 Operating system architecture</p>
+<p><strong>4. Distributed Heterogeneous Applications and CORBA (3 hours)</strong><br>
+  </a>4.1 Heterogeneity in Distributed Systems<br>
+  4.2 Middleware<br>
+  4.3 Objects in Distributed Systems<br>
+  4.4 The CORBA approach<br>
+  4.5 CORBA services</p>
+<p><strong>5. Time and State in Distributed Systems (5 hours)</strong><br>
+  </a>5.1 Time in Distributed Systems,<br>
+  5.1.1 Physical Clocks<br>
+  5.1.2 Logical Clocks<br>
+  5.1.3 Vector Clocks<br>
+  5.1.4 Clock Synchronization<br>
+  5.2 Causal Ordering of Messages<br>
+  5.3 Global State and State Recording<br>
+  5.4 Distributed debugging</p>
+<p><strong>6. Coordination and Agreement (4 hours)</strong><br>
+  </a>6.1 Mutual Exclusion in Distributed Systems<br>
+  6.2 Algorithms for Mutual Exclusion<br>
+  6.3 Distributed Elections<br>
+  6.4 Multicast communication<br>
+  6.5 Consensus</p>
+<p><strong>7. Replication (4 hours)</strong><br>
+  </a>7.1 Reasons for Replication<br>
+  7.2 Object Replication<br>
+  7.3 Replication as Scaling Technique<br>
+  7.4 Fault Tolerant Services<br>
+  7.5 High Available Services<br>
+  7.6 Transaction with Replicated Data</p>
+<p><strong>8. Transaction and Concurrency Control (6 hours)<br>
+  </a>8.1 Transactions<br>
+  8.2 Nested Transaction<br>
+  8.3 Locks<br>
+  8.4 Optimistic Concurrency Control<br>
+  8.5 Timestamp Ordering<br>
+  8.6 Comparison of Methods For Concurrency Control<br>
+  8.7 Introduction to Distributed Transactions<br>
+  8.8 Flat and Nested Distributed Transactions<br>
+  8.9 Atomic Commit Protocols<br>
+  8.10 Concurrency Control in Distributed Transactions<br>
+  8.11 Distributed Deadlocks<br>
+  8.12 Transaction Recovery</p>
+<p><strong>9. Fault Tolerance (4 hours)</strong><br>
+  </a>9.1 Introduction to Fault Tolerance<br>
+  9.2 Process Resilience<br>
+  9.3 Reliable Client Server Communication<br>
+  9.4 Distributed Commit<br>
+  9.5 Recovery</p>
+<p><strong>10. Case Studies (5 hours)</strong><br>
+  </a>10.1 CORBA<br>
+  10.2 Mach<br>
+  10.3 JINI<br>
+  10.4 TIB/Rendezvous</p>
+<p><strong>Practical:</strong><br>
+  </a>1. Implementation of Election Algorithm.<br>
+  2. Simulation for Clock Synchronization in Distributed System using Lamport&rsquo;s Algorithm.<br>
+  3. Implementation of Banker&rsquo;s Algorithm for avoiding Deadlock<br>
+  4. Experiment on DFS<br>
+  5. Case Study – CORBA,JINI, Mach, TIB/Rendezvous</p>
+<p><strong>Reference:</strong><br>
+  1. George Coulouris, Jean Dollimore, Tim Kindberg, &ldquo;Distributed Systems Concepts and Design&rdquo;, Third Edition, Pearson Education.<br>
+  2. A.S. Tanenbaum, M. VanSteen, &ldquo;Distributed Systems&rdquo;, Pearson Education.<br>
+  3. Mukesh Singhal, &ldquo;Advanced Concepts in Operating Systems&rdquo;, McGraw-Hill Series in Computer Science.</p>
+<p><strong>Evaluation Scheme:</strong><br>
+  The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.</p>
+<table border="1">
+  <tbody>
+    <tr>
+      <td><div align="center"><strong>Chapters</strong></div></td>
+      <td><div align="center"><strong>Hours</strong></div></td>
+      <td><div align="center"><strong>Marks Distribution*</strong></div></td>
+    </tr>
+    <tr>
+      <td><div align="center">1</div></td>
+      <td><div align="center">4</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">2</div></td>
+      <td><div align="center">7</div></td>
+      <td><div align="center">16</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">5</div></td>
+      <td><div align="center">5</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">6</div></td>
+      <td><div align="center">4</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">7</div></td>
+      <td><div align="center">4</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">8</div></td>
+      <td><div align="center">6</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">9</div></td>
+      <td><div align="center">4</div></td>
+      <td><div align="center">8</div></td>
+    </tr>
+    <tr>
+      <td><div align="center">3,4,10</div></td>
+      <td><div align="center">11</div></td>
+      <td><div align="center">16</div></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong>Total</strong></div></td>
+      <td><div align="center"><strong>45</strong></div></td>
+      <td><div align="center"><strong>80</strong></div>
+        <div></div></td>
+    </tr>
+  </tbody>
+</table>
+<p><strong>*There may be minor deviation in marks distribution</strong></p>
+
+</div>
+<div data-role="footer">
+    <h4>Copyright&copy; 2021</h4>
+  </div>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="..\..\css\style.css">
+</head>
+
+<body>
+<div class="bold">
+    <p class="center">DISTRIBUTED SYSTEMS<br>CT 703</p>
+    <p>Lecture&nbsp;&nbsp;&nbsp;: 3 <br>Tutorial&nbsp;&nbsp;&nbsp;: 1 <br>Practical&nbsp;: 3/2</p>
+</div>
+
+<p><strong>Course Objective:</strong></p>
+<p>To be familiar with different aspect of the distributed system, middleware, system level support and different issues
+    in designing distributed algorithms.</p>
+
+<div class="list">
+    <ol>
+        <li>Introduction <br><span class="colour">(4 hours)</span>
+            <ol>
+                <li>Introduction to Distributed Systems</li>
+                <li>Examples of Distributed Systems</li>
+                <li>Main Characteristics</li>
+                <li>Advantages and Disadvantages of Distributed System</li>
+                <li>Design Goals</li>
+                <li>Main Problems</li>
+                <li>Models of Distributed System</li>
+                <li>Resource Sharing and the Web Challenges</li>
+                <li>Types of Distributed System: Grid, Cluster, Cloud</li>
+            </ol>
+        </li>
+        <li>Distributed Objects and File System <br><span class="colour">(7 hours)</span>
+            <ol>
+                <li>Introduction</li>
+                <li>Communication between distributed objects</li>
+                <li>Remote Procedure Call</li>
+                <li>Events And Notifications</li>
+                <li>Java RMI Case Study</li>
+                <li>Introduction to DFS</li>
+                <li>File Service Architecture</li>
+                <li>Sun Network File System</li>
+                <li>Introduction to Name Services</li>
+                <li>Name Services and DNS</li>
+                <li>Directory and Discovery Services</li>
+                <li>Comparison of Different Distributed File Systems</li>
+            </ol>
+        </li>
+        <li>Operating System Support <br><span class="colour">(3 hours)</span>
+            <ol>
+                <li>The operating system layer</li>
+                <li>Protection</li>
+                <li>Process and threads</li>
+                <li>Communication and invocation</li>
+                <li>Operating system architecture</li>
+            </ol>
+        </li>
+        <li>Distributed Heterogeneous Applications and CORBA <br><span class="colour">(3 hours)</span>
+            <ol>
+                <li>Heterogeneity in Distributed Systems</li>
+                <li>Middleware</li>
+                <li>Objects in Distributed Systems</li>
+                <li>The CORBA approach</li>
+                <li>CORBA services</li>
+            </ol>
+        </li>
+        <li>Time and State in Distributed Systems <br><span class="colour">(5 hours)</span>
+            <ol>
+                <li>Time in Distributed Systems,<br/>
+                    <ol>
+                        <li>Physical Clocks</li>
+                        <li>Logical Clocks</li>
+                        <li>Vector Clocks</li>
+                        <li>Clock Synchronization</li>
+                    </ol>
+                </li>
+                <li>Causal Ordering of Messages</li>
+                <li>Global State and State Recording</li>
+                <li>Distributed debugging</li>
+            </ol>
+        </li>
+        <li>Coordination and Agreement <br><span class="colour">(4 hours)</span>
+            <ol>
+                <li>Mutual Exclusion in Distributed Systems</li>
+                <li>Algorithms for Mutual Exclusion</li>
+                <li>Distributed Elections</li>
+                <li>Multicast communication</li>
+                <li>Consensus</li>
+            </ol>
+        </li>
+        <li>Replication <br><span class="colour">(4 hours)</span>
+            <ol>
+                <li>Reasons for Replication</li>
+                <li>Object Replication</li>
+                <li>Replication as Scaling Technique</li>
+                <li>Fault Tolerant Services</li>
+                <li>High Available Services</li>
+                <li>Transaction with Replicated Data</li>
+            </ol>
+        </li>
+        <li>Transaction and Concurrency Control <br><span class="colour">(6 hours)</span>
+            <ol>
+                <li>Transactions</li>
+                <li>Nested Transaction</li>
+                <li>Locks</li>
+                <li>Optimistic Concurrency Control</li>
+                <li>Timestamp Ordering</li>
+                <li>Comparison of Methods For Concurrency Control</li>
+                <li>Introduction to Distributed Transactions</li>
+                <li>Flat and Nested Distributed Transactions</li>
+                <li>Atomic Commit Protocols</li>
+                <li>Concurrency Control in Distributed Transactions</li>
+                <li>Distributed Deadlocks</li>
+                <li>Transaction Recovery</li>
+            </ol>
+        </li>
+        <li>Fault Tolerance <br><span class="colour">(4 hours)</span>
+            <ol>
+                <li>Introduction to Fault Tolerance</li>
+                <li>Process Resilience</li>
+                <li>Reliable Client Server Communication</li>
+                <li>Distributed Commit</li>
+                <li>Recovery</li>
+            </ol>
+        </li>
+        <li>Case Studies <br><span class="colour">(5 hours)</span>
+            <ol>
+                <li>CORBA</li>
+                <li>Mach</li>
+                <li>JINI</li>
+                <li>TIB/Rendezvous</li>
+            </ol>
+        </li>
+    </ol>
+</div>
+
+<p><strong>Practical:</strong></p>
+<ol>
+    <li>Implementation of Election Algorithm.</li>
+    <li>Simulation for Clock Synchronization in Distributed System using Lamport&rsquo;s Algorithm.</li>
+    <li>Implementation of Banker&rsquo;s Algorithm for avoiding Deadlock</li>
+    <li>Experiment on DFS</li>
+    <li>Case Study &ndash; CORBA,JINI, Mach, TIB/Rendezvous</li>
+</ol>
+<p><strong>Reference:</strong></p>
+<ol>
+    <li>George Coulouris, Jean Dollimore, Tim Kindberg, &ldquo;Distributed Systems Concepts and Design&rdquo;, Third
+        Edition, Pearson Education.
+    </li>
+    <li>A.S. Tanenbaum, M. VanSteen, &ldquo;Distributed Systems&rdquo;, Pearson Education.</li>
+    <li>Mukesh Singhal, &ldquo;Advanced Concepts in Operating Systems&rdquo;, McGraw-Hill Series in Computer Science.
+    </li>
+</ol>
+
+<p><strong>Evaluation Scheme:</strong></p>
+<p>The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:</p>
+<table>
+    <tbody>
+    <tr>
+        <td><strong>Chapter</strong></td>
+        <td><strong>Hours</strong></td>
+        <td><strong>Marks Distribution*</strong></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>4</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>7</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>5</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>4</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>4</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>6</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>4</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>3, 4, 10</td>
+        <td>11</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>45</strong></td>
+        <td><strong>80</strong></td>
+    </tr>
+    </tbody>
+</table>
+<p>*There could be minor deviation in mark distribution.</p>
+
+</body>
+</html>

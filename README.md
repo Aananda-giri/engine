@@ -1,3 +1,7 @@
+# tweakable:
+searcher.getscoredlist: try calculating weights by combining all the weights
+
+
 # databases
 urllist(url)      # <url is a column> <stores list of urls>
 wordlist(word)    # <word is a column> <stores list of words>
@@ -62,3 +66,7 @@ conn.execute(""" select urlid from pdfs""").fetchall()[:10]
 conn.commit()
 conn.close()
 ```
+
+
+# Resources:
+https://github.com/arthur-e/Programming-Collective-Intelligence

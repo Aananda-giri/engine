@@ -1,0 +1,113 @@
+ol {
+  list-style-type: none;
+  counter-reset: item;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+	font-family: samsung, sans-serif;
+	/*text-align: justify;*/
+	/*color: #2B2B2B;*/
+}
+
+@font-face {
+    font-family: samsung;
+    src: url('file:///android_asset/font/samsung.ttf');
+}
+
+ol > li {
+  display: table;
+  counter-increment: item;
+  margin-bottom: 0.6em;
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 1.2em;
+}
+
+li ol > li {
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+li ol > li:first-child {
+    margin-top: 8px;
+}
+
+li ol > li:last-child {
+    margin-bottom: 0;
+}
+
+li ol > li:before {
+  content: counters(item, ".") " ";
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+.list ol {
+  font-weight: bold;
+}
+.list ul {
+    font-weight: normal;
+}
+.list ol ol {
+  font-weight: normal;
+}
+.list ul li {
+    font-weight: normal;
+    list-style: disc;
+    margin-top: 8px;
+}
+.list ul {
+    margin: 0;
+    padding-left: 1.1em;
+}
+
+
+ul {
+    list-style: disc;
+}
+
+.colour{
+	color: #669277;
+}
+
+.center{
+	text-align: center;
+}
+
+.none{
+    list-style-type: none;
+}
+
+table, th, td {
+  border: 1px solid #757575;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid #757575;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+.tm {
+    text-align: center;
+    border: 1px solid black;
+}
+
+a {
+    color: #669277;
+    text-decoration: none
+}

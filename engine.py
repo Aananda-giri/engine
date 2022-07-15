@@ -18,10 +18,11 @@ def crawlnquery():
     # ---------------
     crawler=Crawler('pdfdb.db')
     try:
-        crawler.createindextables() # create table if not already is created
-    except:
-        pass
-    crawler.crawl(pagelist[:1])         # crawls pages
+        crawler.createindextables()
+        print('\ncreated table index\n') # create table if not already is created
+    except Exception as ex:
+        print(f'--- exception : {ex} ')
+    # crawler.crawl(pagelist[:1])         # uncomment to crawls pages
 
     continue_search = True
     
@@ -38,6 +39,7 @@ def crawlnquery():
 
         # context based search
         print('\n ------------- query <context based>: ----------------')
+        search.calculatepagerank()    # initialize page rank score
         search.query(search_text)
         continue_search = input('cotinue?')
     
@@ -49,12 +51,6 @@ def crawlnquery():
     from importlib import reload
     reload(engine)
     crawler=engine.crawler('pdfdb.db')    # searchindex.db
-    
-    # initialize page rank
-    crawler.calculatepagerank()
-
-    # calculate pagerank score
-    crawler.calculatepagerank()
 
     # --------------------- 
     # highest page rank

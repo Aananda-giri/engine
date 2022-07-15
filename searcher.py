@@ -28,6 +28,10 @@ class Searcher:
 
     def __del__(self):
         self.con.close()
+
+    def dbcommit(self):
+        self.con.commit()
+
     def getmatchrows(self, q):
         # Strings to build query
         fieldlist = 'w0.urlid'
@@ -70,15 +74,25 @@ class Searcher:
     def getscoredlist(self,rows,wordids):
         # context-based ranking
         totalscores=dict([(row[0],0) for row in rows])
+        
+        
+        
+        
+        
+        
+        
         # This is where you'll later put the scoring functions
         # weights=[]
         frequency_weights=[(1.0,self.frequencyscore(rows))]
         location_weights=[(1.0,self.locationscore(rows))]
         distance_weights=[(1.0,self.distancescore(rows))]
-        
+
         # less reliable
         inbound_weights=[(1.0,self.inboundlinkscore(rows))]
         
+        # by larry page <google founder>
+        page_rank_weights = self.pagerankscore(rows)
+
         # get mean of weights
         # weights = [(frequency_weights[i] + location_weights[i] + distance_weights[i] + inbound_weights[i])/4 for i in range(frequency_weights)]
         weights=[
@@ -86,7 +100,14 @@ class Searcher:
                     (1.0,self.frequencyscore(rows)),
                     (1.0,self.pagerankscore(rows))
                 ]
-        weights = self.pagerankscore((1.0,self.locationscore(rows)))
+        
+        # weights = self.pagerankscore((1.0,self.locationscore(rows)))
+        weigths = page_rank_weights # change here
+        
+        
+        
+        
+
 
         for (weight,scores) in weights:
             for url in totalscores:
@@ -101,9 +122,11 @@ class Searcher:
         rows,wordids=self.getmatchrows(q)
         scores=self.getscoredlist(rows,wordids)
         rankedscores=sorted([(score,url) for (url,score) in scores.items( )],reverse=1)
+        rankedscores.sort()
+        rankedscores.reverse()
         for (score,urlid) in rankedscores[0:10]:
             print ('%f\t%s' % (score,self.geturlname(urlid)))
-    
+        return wordids,[r[1] for r in rankedscores[0:10]]
     ## normalizes result and returns value between 0 and 1.
     def normalizescores(self,scores,smallIsBetter=0):
         vsmall=0.00001 # Avoid division by zero errors
@@ -158,6 +181,9 @@ class Searcher:
         return normalizedscores
 
     def pagerankscore(self,rows):
+        print(f'\n--- dict: {rows[0]} {rows[0][0]} ---\n')
+        print('{}'.format(self.con.execute('select score from pagerank where urlid=%d' % 27).fetchone()[0]))
+
         pageranks=dict([(row[0],self.con.execute('select score from pagerank where urlid=%d' % row[0]).fetchone()[0]) for row in rows])
         maxrank=max(pageranks.values())
         normalizedscores=dict([(u,float(l)/maxrank) for (u,l) in pageranks.items()])

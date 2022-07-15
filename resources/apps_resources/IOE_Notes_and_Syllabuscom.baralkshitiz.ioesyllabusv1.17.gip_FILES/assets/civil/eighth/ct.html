@@ -1,0 +1,252 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="..\..\css\style.css">
+</head>
+
+<body>
+<div class="bold">
+  <p class="center">COMPUTATIONAL TECHNIQUES
+    <br>IN CIVIL ENGINEERING
+    <br>CE 751</p>
+  <p>Lecture&nbsp;&nbsp;&nbsp;: 3 <br />Tutorial&nbsp;&nbsp;&nbsp;: 2 <br />Practical&nbsp;: 0</p>
+</div>
+
+<p  class="bold">Course Objective:</p>
+<p>To provide knowledge of numerical solutions and computational techniques of various civil engineering problems related to structural and water resources engineering and their computer implementation using algorithms and programs.</p>
+
+<div class="list">
+  <ol>
+    <li>Introduction <br><span class="colour">(4 hours)</span>
+      <ol>
+        <li>History of numerical computations of civil engineering problems</li>
+        <li>Brief description of solution techniques
+          <ol>
+            <li>Finite element method</li>
+            <li>Finite difference method</li>
+            <li>Boundary element method</li>
+            <li>Discrete element method</li>
+            <li>Smoothed particle hydrodynamics</li>
+          </ol>
+        </li>
+        <li>Review of programming methods: (C or FORTRAN or Matlab)</li>
+      </ol>
+    </li>
+    <li>Solutions of linear equations <br><span class="colour">(6 hours)</span>
+      <ol>
+        <li>System of linear equations</li>
+        <li>Banded matrices</li>
+        <li>Data storage and memory optimization</li>
+        <li>Conjugate gradient method</li>
+        <li>Fourier Integral
+          <ol>
+            <li>Discrete Fourier Transform</li>
+            <li>Fast Fourier Transform</li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+    <li>Elasticity in solids <br><span class="colour">(6 hours)</span>
+      <ol>
+        <li>Stress displacement relationship</li>
+        <li>Stress-strain (constitutive) relations
+          <ol>
+            <li>3D state of solid, Lame constants</li>
+            <li>Plane stress and plane strain condition</li>
+            <li>Axi-symmetric stresses</li>
+          </ol>
+        </li>
+        <li>Equilibrium equations</li>
+      </ol>
+    </li>
+    <li>Finite element method <br><span class="colour">(14 hours)</span>
+      <ol>
+        <li>Direct stiffness method
+          <ol>
+            <li>Stiffness matrices for bar, truss and beam elements</li>
+            <li>Transformation matrices for 2D and 3D cases and assembly</li>
+            <li>Example of a truss</li>
+          </ol>
+        </li>
+        <li>Coordinate system - local, global, natural</li>
+        <li>Interpolation functions
+          <ol>
+            <li>Pascal triangle</li>
+            <li>Polynomial function</li>
+            <li>Lagragian element</li>
+            <li>Hermite interpolation for beam element</li>
+            <li>Serendipidity element</li>
+          </ol>
+        </li>
+        <li>Application in solid and frames
+          <ol>
+            <li>Formulation of stiffness matrices for bars, truss, beams and area (triangle) elements</li>
+            <li>Isoparametric formulation (linear displacement field only) - 2D triangle and quadrilateral</li>
+            <li>Example of dam: Calculate stresses giving pressure loads using computer programs</li>
+            <li>Example on wall: Calculate stresses giving vertical loads using computer programs</li>
+          </ol>
+        </li>
+        <li>General introduction to pre and post processing</li>
+      </ol>
+    </li>
+    <li>Finite difference method <br><span class="colour">(7 hours)</span>
+      <ol>
+        <li>Finite differences</li>
+        <li>Explicit scheme and implicit Scheme</li>
+        <li>Governing equations of movement of fluid (Momentum and continuity equations)</li>
+        <li>Discretization of Kinematic wave Equation (linear and non linear)</li>
+        <li>Order of accuracy of the scheme and its applications</li>
+        <li>Numerical diffusion, dispersion and stability of scheme</li>
+        <li>Applications of the schemes in hydraulic channel routing</li>
+        <li>Implicit dynamic wave model</li>
+        <li>Finite difference scheme for Saint-Venant equations</li>
+      </ol>
+    </li>
+    <li>Method of Characteristics <br><span class="colour">(4 hours)</span>
+      <ol>
+        <li>Introduction</li>
+        <li>Characteristics</li>
+        <li>Initial and boundary conditions</li>
+        <li>Solution to unsteady flow in pipes</li>
+      </ol>
+    </li>
+    <li>Simulation of Ground water flow <br><span class="colour">(4 hours)</span>
+      <ol>
+        <li>Steady state flow nets and finite difference grid</li>
+        <li>Simulation of seepage under a dam</li>
+        <li>One dimensional implicit Model</li>
+        <li>Application in river-Groundwater system</li>
+      </ol>
+    </li>
+  </ol>
+</div>
+
+<p class="bold">Tutorial:</p>
+<p>There shall be related tutorials exercised in class and given as regular homework<br />exercises.</p>
+
+<div class="list">
+  <ol>
+    <li>Introduction <br><span class="colour">(2 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions
+        <li>Practical: Home work to make programs in C or FORTRAN or Matlab languages
+      </ul>
+    </li>
+    <li>Solutions of linear equations <br><span class="colour">(6 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions</li>
+        <li>Practical examples, and numerical example type questions<br />Write algorithm and computer programs to solve the problems</li>
+      </ul>
+    </li>
+    <li>Elasticity in solid <br><span class="colour">(2 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions</li>
+        <li>Practical examples of various conditions of stresses</li>
+      </ul>
+    </li>
+    <li>Finite element method (FEM) <br><span class="colour">(10 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions</li>
+        <li>Practical examples, numerical examples and derivation type questions</li>
+        <li>Analyze beams and simple frames</li>
+      </ul>
+    </li>
+    <li>Finite difference method <br><span class="colour">(4 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions,</li>
+        <li>Practical examples, numerical examples and derivation type questions, exercises on Hydraulic channel routing</li>
+      </ul>
+    </li>
+    <li>Method of Characteristics <br><span class="colour">(2 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions, Solution of unsteady flow</li>
+      </ul>
+    </li>
+    <li>Simulation of Ground water flow <br><span class="colour">(4 hours)</span>
+      <ul>
+        <li>Theory, definition and concept type questions, exercises on Seepage under dam and River stage -Water table evaluation</li>
+      </ul>
+    </li>
+  </ol>
+</div>
+
+<p class="bold">Assignment:</p>
+<ol>
+  <li>Analyze a 2D dam to find stresses giving water pressure and surcharge</li>
+  <li>Analyze a 2D wall panel to find stresses giving vertical loads</li>
+  <li>Analyze 2 storey 2 bay frame and draw bending moments and shear force diagrams</li>
+  <li>Write source codes to solve Saint-Venant equations.</li>
+</ol>
+
+<p class="bold">References:</p>
+<ol>
+  <li>P. Karasudhi, "Foundation of Solid Mechanics", Kluwer Academic Publishers.</li>
+  <li>O. C. Zienkiewicz, R. L. Taylor, "Finite Element for Structural, Vol. 1, 2 &amp; 3", Elsevier.</li>
+  <li>D. V. Hutton, "Fundamentals of Finite Element Analysis', TATA McGRAW-HILL.</li>
+  <li>T. R. Chandrapatla and A. D. Belegundu, Introduction to Finite Elements in Engineering PHI.</li>
+  <li>W. H. Press, S. A. Teukolsky, W. T. Vetterling, B. P. Flannery, "Numerical Recipes in C, The Art of Scientific Computing", Cambridge University Press.</li>
+  <li>W. H. Press, S. A. Teukolsky, W. T. Vetterling, B. P. Flannery, "Numerical Recipes in Fortran, The Art of Scientific Computing', Cambridge University Press.</li>
+  <li>Ralph A.Wurbs, Wesley p.James, "Water Resources Engineering', Prentice-Hall India.</li>
+  <li>M. Hanif Chaudhry, 'Open Channel Flow", Prentice-Hall India.</li>
+  <li>VenTe Chow, D.R. Maidment, L.W. Mays, "Applied Hydrology", McGraw-Hill</li>
+</ol>
+
+<p><strong>Evaluation Scheme:</strong></p>
+<p>The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:</p>
+<table>
+  <tbody>
+  <tr>
+    <td><strong>Chapter</strong></td>
+    <td><strong>Hours</strong></td>
+    <td><strong>Marks Distribution*</strong></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>4</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>6</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>6</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>14</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>7</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>4</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>4</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td><strong>Total</strong></td>
+    <td><strong>45</strong></td>
+    <td><strong>80</strong></td>
+  </tr>
+  </tbody>
+</table>
+<p>*There could be minor deviation in mark distribution.</p>
+
+</body>
+</html>
